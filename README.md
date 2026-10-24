@@ -9,6 +9,29 @@ Download, install and co-op instructions are on [Nexus Mods](https://www.nexusmo
 The mod uses its own save (`RogueRing.sl2`, created from a template the first time) and never touches
 your normal save.
 
+The zip is also attached to each [GitHub release](https://github.com/xjoje6/RogueRing/releases).
+
+## A look at it
+
+The Samurai deflects any blow like in Sekiro, with Wolf's own animations, here against a Crucible Knight:
+
+![Samurai deflecting a Crucible Knight](media/samurai-deflects.webp)
+
+The Monk dodges like the Duchess in Nightreign and heals on every hit:
+
+![Monk dodging around a Demi-Human Chief](media/monk-duchess-dodge.webp)
+
+The Bulwark can't be staggered, and the Summoner starts every fight with a spirit summon:
+
+![Bulwark against a group](media/bulwark.webp)
+
+![Summoner and his wolves](media/summoner.webp)
+
+From the loading screen to the first blessing, everything is the mod's own: menus, character select
+and rewards. You never see the game's title screen or the open world.
+
+![Starting a run](media/run-start.webp)
+
 ## Requirements
 
 - ELDEN RING on Steam, with Shadow of the Erdtree.
