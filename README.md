@@ -5,13 +5,13 @@ character, cross a map of fights, events, shops and graces, collect blessings th
 fight, and try to beat the lord of each act in a single run. Combat is the game's own; everything
 around it is the mod.
 
-Download, install and co-op instructions are on [Nexus Mods](<NEXUS>).
+Download, install and co-op instructions are on [Nexus Mods](https://www.nexusmods.com/eldenring/mods/11459).
 The mod uses its own save (`RogueRing.sl2`, created from a template the first time) and never touches
 your normal save.
 
 ## Requirements
 
-- ELDEN RING on Steam, with Shadow of the Erdtree (the Monk's starting weapon and some unlockable ones come from it).
+- ELDEN RING on Steam, with Shadow of the Erdtree.
 - [me3](https://github.com/garyttierney/me3) to load the mod.
 - An XInput controller. The mod screens don't support keyboard yet.
 - For co-op, [Seamless Co-op](https://www.nexusmods.com/eldenring/mods/510) 2.0.1 (not included: each
