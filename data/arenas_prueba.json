@@ -1,0 +1,31 @@
+{
+  "_nota": "Destinos fijos de la DLL: el centro (Capilla de la Anticipación) y el Coliseo de Limgrave. flag = orden de la DLL.",
+  "arenas": [
+    {
+      "clave": "hub",
+      "flag": 1049300100,
+      "map": [
+        10,
+        1,
+        0,
+        0
+      ],
+      "spawn": 10010981,
+      "boss": 0,
+      "defeat": 0
+    },
+    {
+      "clave": "coliseo_limgrave",
+      "flag": 1049300098,
+      "map": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "spawn": 45000980,
+      "boss": 0,
+      "defeat": 0
+    }
+  ]
+}

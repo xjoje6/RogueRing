@@ -1,0 +1,5 @@
+{
+ "_nota": "Bandos (teamType de NpcParam) que en el coliseo pasan a enemigo corriente (6), para que nuestros enemigos no se ataquen entre ellos. En el banco, las parejas con alguno del 7 se pegaban hasta miles de vida en 20 s, aunque los dos fueran del 7 (tools/probar_mezclas.py). Lo aplica tools/ModBuilder a las filas de NpcParam de los combates (data/acts, data/coop), no a las de aliados ni cenizas; tools/mezclas_coop.py los cuenta como 6.",
+ "enemigo": 6,
+ "a_enemigo": [7, 9, 24, 33, 48, 50, 51, 60]
+}

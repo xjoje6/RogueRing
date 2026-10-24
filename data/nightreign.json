@@ -1,0 +1,172 @@
+{
+ "_nota": "Jefes de Nightreign portados a Elden Ring (tools/ModBuilder/Nightreign.cs, docs/JEFES_Y_MOVESETS_DE_OTROS_JUEGOS.md). chr: su modelo, libre en Elden Ring. npc y think: sus filas de Nightreign, que pasan con el mismo id. vida: la de su NpcParam en Elden Ring (en Nightreign va con su propio escalado; los jefes del acto 3 tienen 2500-3300). plantilla: fila de NpcParam de Elden Ring de la que salen el equipo, el tipo de movimiento y lo que Nightreign no tiene. Sus archivos los saca el Extractor de la carpeta de Nightreign a extract_nr.",
+ "_efectos_fuera": "FXR de jefes que no se pasan (por su número original): 632515, hijo del 679010 del Rey sin nombre, que el conversor no lee y se quedaba enganchado con mucho lag.",
+ "efectos_fuera": [
+  632515
+ ],
+ "_materiales": "Texturas a mano por material (nombre del MATBIN), en la muestra principal de ese papel (albedo, normal...); «params» fija parámetros del material. Ejemplo (de cuando estaba Heolstor): \"C[c7580]_smoke_00\": {\"plantilla\": \"C[c2190]_smoke.matbin\", \"albedo\": \"c7580_Fire_mantle_a.tif\", \"params\": {\"g_AlphaRef\": [0, 0]}}.",
+ "materiales": {},
+ "jefes": [
+  {
+   "chr": 7920,
+   "nombre": "Dancer of the Boreal Valley",
+   "npc": [
+    79200000
+   ],
+   "think": [
+    79200000
+   ],
+   "vida": 2900,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7900,
+   "nombre": "Nameless King",
+   "npc": [
+    79000000
+   ],
+   "think": [
+    79000000
+   ],
+   "vida": 3000,
+   "plantilla": 21200056,
+   "sonido_extra": [
+    "c5010"
+   ]
+  },
+  {
+   "chr": 7800,
+   "nombre": "Duke's Dear Freja",
+   "npc": [
+    78000000
+   ],
+   "think": [
+    78000000
+   ],
+   "vida": 2400,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7810,
+   "nombre": "Freja's Spiderling",
+   "npc": [
+    78100000
+   ],
+   "think": [
+    78100000
+   ],
+   "vida": 60,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7710,
+   "nombre": "Centipede Demon",
+   "npc": [
+    77100000
+   ],
+   "think": [
+    77100000
+   ],
+   "vida": 2700,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7820,
+   "nombre": "Smelter Demon",
+   "npc": [
+    78200000
+   ],
+   "think": [
+    78200000
+   ],
+   "vida": 2600,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7700,
+   "nombre": "Gaping Dragon",
+   "npc": [
+    77000000
+   ],
+   "think": [
+    77000000
+   ],
+   "vida": 3000,
+   "plantilla": 21200056
+  },
+  {
+   "chr": 7720,
+   "nombre": "Knight Artorias",
+   "npc": [
+    77200000
+   ],
+   "think": [
+    77200000
+   ],
+   "vida": 3000,
+   "plantilla": 21200056
+  }
+ ],
+ "apariencias": [
+  {
+   "parte": "bd_m_5030",
+   "id": 5003100,
+   "ropa": [
+    3000000,
+    3000100,
+    3000200,
+    3000300
+   ],
+   "nombre": "Duchess",
+   "prenda": [
+    "Duchess's Garb",
+    "Atuendo de la Duquesa"
+   ]
+  },
+  {
+   "parte": "bd_m_5070",
+   "id": 5007100,
+   "ropa": [
+    870000,
+    870100,
+    870200,
+    870300
+   ],
+   "nombre": "Executor",
+   "prenda": [
+    "Executor's Garb",
+    "Atuendo del Ejecutor"
+   ]
+  },
+  {
+   "parte": "bd_m_5040",
+   "id": 5004100,
+   "ropa": [
+    140000,
+    140100,
+    140200,
+    140300
+   ],
+   "nombre": "Raider",
+   "prenda": [
+    "Raider's Garb",
+    "Atuendo del Saqueador"
+   ]
+  },
+  {
+   "parte": "bd_m_5050",
+   "id": 5005100,
+   "ropa": [
+    180000,
+    180100,
+    180200,
+    180300
+   ],
+   "nombre": "Revenant",
+   "prenda": [
+    "Revenant's Garb",
+    "Atuendo de la Renacida"
+   ]
+  }
+ ]
+}

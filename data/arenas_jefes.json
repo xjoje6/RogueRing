@@ -1,0 +1,5169 @@
+{
+ "_nota": "Arenas de los jefes en su sitio del mundo, para los encuentros sin chr (se pelea allí y no en el coliseo). flag = orden de la DLL para viajar; spawn = punto de aparición del jugador (tools/ModBuilder).",
+ "arenas": [
+  {
+   "clave": "10000800",
+   "nombre": "Godrick, el Injertado",
+   "flag": 1049300200,
+   "map": [
+    10,
+    0,
+    0,
+    0
+   ],
+   "spawn": 10000980,
+   "dist_spawn": 4.6,
+   "boss": 10000800,
+   "defeat": 10000800,
+   "runes": 20000,
+   "boss_msb": [
+    -235.646,
+    73.756,
+    348.293
+   ],
+   "spawn_msb": [
+    -232.76,
+    74.11,
+    345.13
+   ]
+  },
+  {
+   "clave": "10000850",
+   "nombre": "Margit, el Augurio Caído",
+   "flag": 1049300201,
+   "map": [
+    10,
+    0,
+    0,
+    0
+   ],
+   "spawn": 10000981,
+   "dist_spawn": 6.1,
+   "boss": 10000850,
+   "defeat": 10000850,
+   "runes": 12000,
+   "boss_msb": [
+    -18.624,
+    -2.601,
+    -17.351
+   ],
+   "spawn_msb": [
+    -22.14,
+    -1.98,
+    -20.63
+   ]
+  },
+  {
+   "clave": "10010800",
+   "nombre": "Vástago injertado",
+   "flag": 1049300202,
+   "map": [
+    10,
+    1,
+    0,
+    0
+   ],
+   "spawn": 10010980,
+   "dist_spawn": 42.9,
+   "boss": 10010800,
+   "defeat": 10010800,
+   "runes": 3200,
+   "boss_msb": [
+    -41.748,
+    21.325,
+    -39.475
+   ],
+   "spawn_msb": [
+    -41.94,
+    21.5,
+    -42.65
+   ]
+  },
+  {
+   "clave": "11000800",
+   "nombre": "DLC dummy",
+   "flag": 1049300203,
+   "map": [
+    11,
+    0,
+    0,
+    0
+   ],
+   "spawn": 11000980,
+   "dist_spawn": 55.4,
+   "boss": 11000800,
+   "defeat": 11000800,
+   "runes": 120000,
+   "boss_msb": [
+    41.821,
+    64.963,
+    -421.897
+   ],
+   "spawn_msb": [
+    34.66,
+    64.98,
+    -412.74
+   ]
+  },
+  {
+   "clave": "11000850",
+   "nombre": "Godfrey, primer Señor del Círculo",
+   "flag": 1049300204,
+   "map": [
+    11,
+    0,
+    0,
+    0
+   ],
+   "spawn": 11000981,
+   "dist_spawn": 3.9,
+   "boss": 11000850,
+   "defeat": 11000850,
+   "runes": 80000,
+   "boss_msb": [
+    -131.56,
+    31.01,
+    -386.36
+   ],
+   "spawn_msb": [
+    -131.96,
+    31.01,
+    -390.2
+   ]
+  },
+  {
+   "clave": "11050800",
+   "nombre": "Godfrey, primer Señor del Círculo",
+   "flag": 1049300205,
+   "map": [
+    11,
+    5,
+    0,
+    0
+   ],
+   "spawn": 11050980,
+   "dist_spawn": 8.5,
+   "boss": 11050800,
+   "defeat": 11050800,
+   "runes": 300000,
+   "boss_msb": [
+    39.23,
+    5.83,
+    -425.13
+   ],
+   "spawn_msb": [
+    36.01,
+    64.98,
+    -414.43
+   ]
+  },
+  {
+   "clave": "11050850",
+   "nombre": "Sir Gideon Ofnir el Omnisciente",
+   "flag": 1049300206,
+   "map": [
+    11,
+    5,
+    0,
+    0
+   ],
+   "spawn": 11050981,
+   "dist_spawn": 1.4,
+   "boss": 11050850,
+   "defeat": 11050850,
+   "runes": 150000,
+   "boss_msb": [
+    -131.47,
+    31.03,
+    -386.57
+   ],
+   "spawn_msb": [
+    -133.76,
+    31.03,
+    -386.51
+   ]
+  },
+  {
+   "clave": "12010800",
+   "nombre": "Soldado draconiano de Nokstella",
+   "flag": 1049300207,
+   "map": [
+    12,
+    1,
+    0,
+    0
+   ],
+   "spawn": 12010980,
+   "dist_spawn": 100.2,
+   "boss": 12010800,
+   "defeat": 12010800,
+   "runes": 12000,
+   "boss_msb": [
+    -49.64,
+    -224.29,
+    84.33
+   ],
+   "spawn_msb": [
+    -111.75,
+    -223.17,
+    118.32
+   ]
+  },
+  {
+   "clave": "12010850",
+   "nombre": "Soldado draconiano",
+   "flag": 1049300208,
+   "map": [
+    12,
+    1,
+    0,
+    0
+   ],
+   "spawn": 12010971,
+   "dist_spawn": 66.1,
+   "boss": 12010850,
+   "defeat": 12010850,
+   "runes": 58000,
+   "boss_msb": [
+    -217.385,
+    -317.072,
+    -317.671
+   ],
+   "spawn_msb": [
+    -158.61,
+    -316.17,
+    -302.01
+   ]
+  },
+  {
+   "clave": "12020800",
+   "nombre": "Gárgola denodada",
+   "flag": 1049300209,
+   "map": [
+    12,
+    2,
+    0,
+    0
+   ],
+   "spawn": 12020980,
+   "dist_spawn": 38.5,
+   "boss": 12020800,
+   "defeat": 12020800,
+   "runes": 30000,
+   "boss_msb": [
+    1206.313,
+    -586.788,
+    1902.462
+   ],
+   "spawn_msb": [
+    1185.5,
+    -619.01,
+    1907.78
+   ]
+  },
+  {
+   "clave": "12020830",
+   "nombre": "Soldado draconiano",
+   "flag": 1049300210,
+   "map": [
+    12,
+    2,
+    0,
+    0
+   ],
+   "spawn": 12020972,
+   "dist_spawn": 122.4,
+   "boss": 12020830,
+   "defeat": 12020830,
+   "runes": 16000,
+   "boss_msb": [
+    1240.1,
+    -748.448,
+    1738.162
+   ],
+   "spawn_msb": [
+    1286.77,
+    -747.27,
+    1625.02
+   ]
+  },
+  {
+   "clave": "12020850",
+   "nombre": "Lágrima mimética",
+   "flag": 1049300211,
+   "map": [
+    12,
+    2,
+    0,
+    0
+   ],
+   "spawn": 12020981,
+   "dist_spawn": 19.4,
+   "boss": 12020850,
+   "defeat": 12020850,
+   "runes": 10000,
+   "boss_msb": [
+    1029.647,
+    -641.311,
+    1174.018
+   ],
+   "spawn_msb": [
+    1014.68,
+    -616.48,
+    1151.37
+   ]
+  },
+  {
+   "clave": "12030390",
+   "nombre": "Caballera del crisol Siluria",
+   "flag": 1049300212,
+   "map": [
+    12,
+    3,
+    0,
+    0
+   ],
+   "spawn": 12030984,
+   "dist_spawn": 212,
+   "boss": 12030390,
+   "defeat": 12020390,
+   "runes": 25000,
+   "boss_msb": [
+    -884.21,
+    96.669,
+    -320.674
+   ],
+   "spawn_msb": [
+    -691.04,
+    92.54,
+    -407.85
+   ]
+  },
+  {
+   "clave": "12030800",
+   "nombre": "Campeón de Fia",
+   "flag": 1049300213,
+   "map": [
+    12,
+    3,
+    0,
+    0
+   ],
+   "spawn": 12030980,
+   "dist_spawn": 10.4,
+   "boss": 12030800,
+   "defeat": 12030800,
+   "runes": 40000,
+   "boss_msb": [
+    -370.111,
+    149.469,
+    -203.445
+   ],
+   "spawn_msb": [
+    -380.51,
+    149.52,
+    -203.62
+   ]
+  },
+  {
+   "clave": "12030850",
+   "nombre": "Dragón liche Fortissax",
+   "flag": 1049300214,
+   "map": [
+    12,
+    3,
+    0,
+    0
+   ],
+   "spawn": 12030985,
+   "dist_spawn": 82.6,
+   "boss": 12030850,
+   "defeat": 12030850,
+   "runes": 90000,
+   "boss_msb": [
+    -448.771,
+    149.344,
+    -273.109
+   ],
+   "spawn_msb": [
+    -467.54,
+    149.68,
+    -353.52
+   ]
+  },
+  {
+   "clave": "12040800",
+   "nombre": "Astel, Innato del Vacío",
+   "flag": 1049300215,
+   "map": [
+    12,
+    4,
+    0,
+    0
+   ],
+   "spawn": 12040980,
+   "dist_spawn": 57.3,
+   "boss": 12040800,
+   "defeat": 12040800,
+   "runes": 80000,
+   "boss_msb": [
+    -98.759,
+    -106.137,
+    -134.393
+   ],
+   "spawn_msb": [
+    -65.219,
+    -106.276,
+    -79.41
+   ]
+  },
+  {
+   "clave": "12050800",
+   "nombre": "Mohg, Señor de la Sangre",
+   "flag": 1049300216,
+   "map": [
+    12,
+    5,
+    0,
+    0
+   ],
+   "spawn": 12050980,
+   "dist_spawn": 20.9,
+   "boss": 12050800,
+   "defeat": 12050800,
+   "runes": 420000,
+   "boss_msb": [
+    1528.2987,
+    -501.02682,
+    1245.3064
+   ],
+   "spawn_msb": [
+    1534.031,
+    -501.01,
+    1242.983
+   ]
+  },
+  {
+   "clave": "12080800",
+   "nombre": "Espíritu ancestral",
+   "flag": 1049300217,
+   "map": [
+    12,
+    8,
+    0,
+    0
+   ],
+   "spawn": 12080970,
+   "dist_spawn": 2106,
+   "boss": 12080800,
+   "defeat": 12080800,
+   "runes": 13000,
+   "boss_msb": [
+    1546.1024,
+    -1736.05,
+    1053.2855
+   ],
+   "spawn_msb": [
+    1410.75,
+    -1735.36,
+    1050.07
+   ]
+  },
+  {
+   "clave": "12090800",
+   "nombre": "Espíritu ancestral majestuoso",
+   "flag": 1049300218,
+   "map": [
+    12,
+    9,
+    0,
+    0
+   ],
+   "spawn": 12090970,
+   "dist_spawn": 117.4,
+   "boss": 12090800,
+   "defeat": 12090800,
+   "runes": 24000,
+   "boss_msb": [
+    1183.829,
+    -1538.411,
+    1911.776
+   ],
+   "spawn_msb": [
+    1227.906,
+    -1537.423,
+    1790.509
+   ]
+  },
+  {
+   "clave": "13000800",
+   "nombre": "Maliketh, la Hoja Negra",
+   "flag": 1049300219,
+   "map": [
+    13,
+    0,
+    0,
+    0
+   ],
+   "spawn": 13000980,
+   "dist_spawn": 26.1,
+   "boss": 13000800,
+   "defeat": 13000800,
+   "runes": 220000,
+   "boss_msb": [
+    197.975,
+    -62.539,
+    374.228
+   ],
+   "spawn_msb": [
+    222.03,
+    -32.56,
+    366.68
+   ]
+  },
+  {
+   "clave": "13000830",
+   "nombre": "Señor dragón Placidusax",
+   "flag": 1049300220,
+   "map": [
+    13,
+    0,
+    0,
+    0
+   ],
+   "spawn": 13000981,
+   "dist_spawn": 2.3,
+   "boss": 13000830,
+   "defeat": 13000830,
+   "runes": 280000,
+   "boss_msb": [
+    14.45,
+    1009.676,
+    329.504
+   ],
+   "spawn_msb": [
+    12.21,
+    1009.6,
+    330.07
+   ]
+  },
+  {
+   "clave": "13000850",
+   "nombre": "Dúo sacrodermo",
+   "flag": 1049300221,
+   "map": [
+    13,
+    0,
+    0,
+    0
+   ],
+   "spawn": 13000982,
+   "dist_spawn": 20.2,
+   "boss": 13000850,
+   "defeat": 13000850,
+   "runes": 170000,
+   "boss_msb": [
+    -3.547,
+    -52.201,
+    406.518
+   ],
+   "spawn_msb": [
+    11.36,
+    -39.28,
+    411.03
+   ]
+  },
+  {
+   "clave": "14000800",
+   "nombre": "Rennala, Reina de la Luna Llena",
+   "flag": 1049300222,
+   "map": [
+    14,
+    0,
+    0,
+    0
+   ],
+   "spawn": 14000982,
+   "dist_spawn": 907.8,
+   "boss": 14000800,
+   "defeat": 14000800,
+   "runes": 40000,
+   "boss_msb": [
+    70.65,
+    -838.729,
+    -23.325
+   ],
+   "spawn_msb": [
+    -13.6,
+    62.01,
+    -99.55
+   ]
+  },
+  {
+   "clave": "14000850",
+   "nombre": "Lobo Rojo de Radagon",
+   "flag": 1049300223,
+   "map": [
+    14,
+    0,
+    0,
+    0
+   ],
+   "spawn": 14000981,
+   "dist_spawn": 3.9,
+   "boss": 14000850,
+   "defeat": 14000850,
+   "runes": 14000,
+   "boss_msb": [
+    149.225,
+    110.182,
+    -222.85
+   ],
+   "spawn_msb": [
+    154.89,
+    110.2,
+    -224.37
+   ]
+  },
+  {
+   "clave": "15000800",
+   "nombre": "Malenia, la Espada de Miquella",
+   "flag": 1049300224,
+   "map": [
+    15,
+    0,
+    0,
+    0
+   ],
+   "spawn": 15000980,
+   "dist_spawn": 10,
+   "boss": 15000800,
+   "defeat": 15000800,
+   "runes": 480000,
+   "boss_msb": [
+    -18.968,
+    52.343,
+    466.271
+   ],
+   "spawn_msb": [
+    -22.99,
+    51.53,
+    487
+   ]
+  },
+  {
+   "clave": "15000850",
+   "nombre": "Loretta, centinela del Árbol Hierático",
+   "flag": 1049300225,
+   "map": [
+    15,
+    0,
+    0,
+    0
+   ],
+   "spawn": 15000985,
+   "dist_spawn": 12.1,
+   "boss": 15000850,
+   "defeat": 15000850,
+   "runes": 200000,
+   "boss_msb": [
+    174.374,
+    431.748,
+    307.896
+   ],
+   "spawn_msb": [
+    176.11,
+    431.75,
+    295.88
+   ]
+  },
+  {
+   "clave": "16000800",
+   "nombre": "Rykard, señor de la Blasfemia",
+   "flag": 1049300226,
+   "map": [
+    16,
+    0,
+    0,
+    0
+   ],
+   "spawn": 16000980,
+   "dist_spawn": 3.7,
+   "boss": 16000800,
+   "defeat": 16000800,
+   "runes": 130000,
+   "boss_msb": [
+    94.323,
+    -439.508,
+    -116.463
+   ],
+   "spawn_msb": [
+    93.64,
+    -439.52,
+    -114.74
+   ]
+  },
+  {
+   "clave": "16000850",
+   "nombre": "Noble sacrodermo",
+   "flag": 1049300227,
+   "map": [
+    16,
+    0,
+    0,
+    0
+   ],
+   "spawn": 16000981,
+   "dist_spawn": 9.3,
+   "boss": 16000850,
+   "defeat": 16000850,
+   "runes": 50000,
+   "boss_msb": [
+    58.505,
+    7.023,
+    -209.395
+   ],
+   "spawn_msb": [
+    54.47,
+    6.84,
+    -206.54
+   ]
+  },
+  {
+   "clave": "16000860",
+   "nombre": "Virgen raptora con guadañas pendulares",
+   "flag": 1049300228,
+   "map": [
+    16,
+    0,
+    0,
+    0
+   ],
+   "spawn": 16000992,
+   "dist_spawn": 43.7,
+   "boss": 16000860,
+   "defeat": 16000860,
+   "runes": 10000,
+   "boss_msb": [
+    236.057,
+    -132.944,
+    -263.644
+   ],
+   "spawn_msb": [
+    272.9,
+    -133.16,
+    -258.3
+   ]
+  },
+  {
+   "clave": "18000800",
+   "nombre": "Espíritu del árbol ulcerado",
+   "flag": 1049300229,
+   "map": [
+    18,
+    0,
+    0,
+    0
+   ],
+   "spawn": 18000975,
+   "dist_spawn": 43.8,
+   "boss": 18000800,
+   "defeat": 18000800,
+   "runes": 15000,
+   "boss_msb": [
+    29.502,
+    -111.59001,
+    53.466
+   ],
+   "spawn_msb": [
+    11.95,
+    -111.46,
+    93.62
+   ]
+  },
+  {
+   "clave": "18000850",
+   "nombre": "Soldado de Godrick",
+   "flag": 1049300230,
+   "map": [
+    18,
+    0,
+    0,
+    0
+   ],
+   "spawn": 18000980,
+   "dist_spawn": 51,
+   "boss": 18000850,
+   "defeat": 18000850,
+   "runes": 400,
+   "boss_msb": [
+    -40.941,
+    10.486,
+    41.092
+   ],
+   "spawn_msb": [
+    -87.413,
+    -10.265,
+    41.905
+   ]
+  },
+  {
+   "clave": "19000800",
+   "nombre": "Bestia del Círculo",
+   "flag": 1049300231,
+   "map": [
+    19,
+    0,
+    0,
+    0
+   ],
+   "spawn": 19000980,
+   "dist_spawn": 827.1,
+   "boss": 19000800,
+   "defeat": 19000800,
+   "runes": 500000,
+   "boss_msb": [
+    213.86,
+    -719.985,
+    -686.686
+   ],
+   "spawn_msb": [
+    180.02,
+    102.38,
+    -605.59
+   ]
+  },
+  {
+   "clave": "20000800",
+   "nombre": "Bestia divina León Danzante",
+   "flag": 1049300232,
+   "map": [
+    20,
+    0,
+    0,
+    0
+   ],
+   "spawn": 20000980,
+   "dist_spawn": 28,
+   "boss": 20000800,
+   "defeat": 20000800,
+   "runes": 120000,
+   "boss_msb": [
+    -45.209,
+    118,
+    327.246
+   ],
+   "spawn_msb": [
+    -50.44,
+    118.115,
+    309.586
+   ]
+  },
+  {
+   "clave": "20010800",
+   "nombre": "Radahn, consorte de Miquella",
+   "flag": 1049300233,
+   "map": [
+    20,
+    1,
+    0,
+    0
+   ],
+   "spawn": 20010980,
+   "dist_spawn": 69.4,
+   "boss": 20010800,
+   "defeat": 20010800,
+   "runes": 500000,
+   "boss_msb": [
+    -341.079,
+    301.689,
+    -108.62
+   ],
+   "spawn_msb": [
+    -225.831,
+    299.272,
+    -173.502
+   ]
+  },
+  {
+   "clave": "20010850",
+   "nombre": "Caballera de la aguja Leda",
+   "flag": 1049300234,
+   "map": [
+    20,
+    1,
+    0,
+    0
+   ],
+   "spawn": 20010985,
+   "dist_spawn": 109.4,
+   "boss": 20010850,
+   "defeat": 20010850,
+   "runes": 0,
+   "boss_msb": null,
+   "spawn_msb": [
+    -327.726,
+    169.168,
+    -302.97
+   ]
+  },
+  {
+   "clave": "21000850",
+   "nombre": "Hipopótamo dorado",
+   "flag": 1049300235,
+   "map": [
+    15,
+    0,
+    0,
+    0
+   ],
+   "spawn": 15000980,
+   "dist_spawn": 10,
+   "boss": 21000850,
+   "defeat": 21000850,
+   "runes": 200000,
+   "boss_msb": null,
+   "spawn_msb": [
+    -22.99,
+    51.53,
+    487
+   ]
+  },
+  {
+   "clave": "21010800",
+   "nombre": "Messmer serpiente primitiva",
+   "flag": 1049300236,
+   "map": [
+    15,
+    0,
+    0,
+    0
+   ],
+   "spawn": 15000985,
+   "dist_spawn": 12.1,
+   "boss": 21010800,
+   "defeat": 21010800,
+   "runes": 400000,
+   "boss_msb": null,
+   "spawn_msb": [
+    176.11,
+    431.75,
+    295.88
+   ]
+  },
+  {
+   "clave": "22000800",
+   "nombre": "Caballero putrefacto",
+   "flag": 1049300237,
+   "map": [
+    22,
+    0,
+    0,
+    0
+   ],
+   "spawn": 22000980,
+   "dist_spawn": 53.8,
+   "boss": 22000800,
+   "defeat": 22000800,
+   "runes": 220000,
+   "boss_msb": [
+    -145.269,
+    -296.675,
+    63.187
+   ],
+   "spawn_msb": [
+    -112.668,
+    -294.152,
+    71.437
+   ]
+  },
+  {
+   "clave": "25000800",
+   "nombre": "Metyr, madre de Dedos",
+   "flag": 1049300238,
+   "map": [
+    25,
+    0,
+    0,
+    0
+   ],
+   "spawn": 25000980,
+   "dist_spawn": 7.1,
+   "boss": 25000800,
+   "defeat": 25000800,
+   "runes": 420000,
+   "boss_msb": [
+    4.324,
+    0.015,
+    -2.317
+   ],
+   "spawn_msb": [
+    11.38,
+    0,
+    -3.387
+   ]
+  },
+  {
+   "clave": "28000800",
+   "nombre": "Midra, Señor de la Llama Frenética",
+   "flag": 1049300239,
+   "map": [
+    28,
+    0,
+    0,
+    0
+   ],
+   "spawn": 28000980,
+   "dist_spawn": 35.4,
+   "boss": 28000800,
+   "defeat": 28000800,
+   "runes": 410000,
+   "boss_msb": [
+    -4.452,
+    17,
+    -134.253
+   ],
+   "spawn_msb": [
+    -17.91,
+    17.01,
+    -127.16
+   ]
+  },
+  {
+   "clave": "30000800",
+   "nombre": "Sombra de cementerio",
+   "flag": 1049300240,
+   "map": [
+    30,
+    0,
+    0,
+    0
+   ],
+   "spawn": 30000980,
+   "dist_spawn": 102.3,
+   "boss": 30000800,
+   "defeat": 30000800,
+   "runes": 2200,
+   "boss_msb": [
+    1.875,
+    46.724,
+    65.574
+   ],
+   "spawn_msb": [
+    -95.664,
+    61.2,
+    89.918
+   ]
+  },
+  {
+   "clave": "30010800",
+   "nombre": "Perro guardián funerario del Árbol Áureo",
+   "flag": 1049300241,
+   "map": [
+    30,
+    1,
+    0,
+    0
+   ],
+   "spawn": 30010980,
+   "dist_spawn": 98.1,
+   "boss": 30010800,
+   "defeat": 30010800,
+   "runes": 2400,
+   "boss_msb": [
+    -34.557,
+    23.119,
+    -155.671
+   ],
+   "spawn_msb": [
+    -45.386,
+    44.4,
+    -61.258
+   ]
+  },
+  {
+   "clave": "30020800",
+   "nombre": "Perro guardián funerario del Árbol Áureo",
+   "flag": 1049300242,
+   "map": [
+    30,
+    2,
+    0,
+    0
+   ],
+   "spawn": 30020980,
+   "dist_spawn": 99.9,
+   "boss": 30020800,
+   "defeat": 30020800,
+   "runes": 1300,
+   "boss_msb": [
+    102.274,
+    94.7,
+    73.352
+   ],
+   "spawn_msb": [
+    33.879,
+    110,
+    4.244
+   ]
+  },
+  {
+   "clave": "30030800",
+   "nombre": "Caracola invocadora",
+   "flag": 1049300243,
+   "map": [
+    30,
+    3,
+    0,
+    0
+   ],
+   "spawn": 30030970,
+   "dist_spawn": 58.1,
+   "boss": 30030800,
+   "defeat": 30030800,
+   "runes": 3000,
+   "boss_msb": [
+    89.22,
+    194.438,
+    36.073
+   ],
+   "spawn_msb": [
+    80.52,
+    198.816,
+    -32.728
+   ]
+  },
+  {
+   "clave": "30040800",
+   "nombre": "Duelista guardián de las tumbas",
+   "flag": 1049300244,
+   "map": [
+    30,
+    4,
+    0,
+    0
+   ],
+   "spawn": 30040980,
+   "dist_spawn": 106.2,
+   "boss": 30040800,
+   "defeat": 30040800,
+   "runes": 1700,
+   "boss_msb": [
+    -16.758,
+    46.104,
+    92.348
+   ],
+   "spawn_msb": [
+    74.876,
+    61.4,
+    54.254
+   ]
+  },
+  {
+   "clave": "30050800",
+   "nombre": "Sombra de cementerio",
+   "flag": 1049300245,
+   "map": [
+    30,
+    5,
+    0,
+    0
+   ],
+   "spawn": 30050980,
+   "dist_spawn": 118.3,
+   "boss": 30050800,
+   "defeat": 30050800,
+   "runes": 3500,
+   "boss_msb": [
+    -188.168,
+    406.204,
+    120.639
+   ],
+   "spawn_msb": [
+    -72.5,
+    424.08,
+    121.1
+   ]
+  },
+  {
+   "clave": "30050850",
+   "nombre": "Asesina de los Cuchillos Negros",
+   "flag": 1049300246,
+   "map": [
+    30,
+    5,
+    0,
+    0
+   ],
+   "spawn": 30050980,
+   "dist_spawn": 185.8,
+   "boss": 30050850,
+   "defeat": 30050850,
+   "runes": 4200,
+   "boss_msb": [
+    -240.845,
+    411.5,
+    16.746
+   ],
+   "spawn_msb": [
+    -72.5,
+    424.08,
+    121.1
+   ]
+  },
+  {
+   "clave": "30060800",
+   "nombre": "Perro guardián funerario del Árbol Áureo",
+   "flag": 1049300247,
+   "map": [
+    30,
+    6,
+    0,
+    0
+   ],
+   "spawn": 30060980,
+   "dist_spawn": 101.5,
+   "boss": 30060800,
+   "defeat": 30060800,
+   "runes": 3200,
+   "boss_msb": [
+    20.859,
+    194.319,
+    -18.721
+   ],
+   "spawn_msb": [
+    56.237,
+    234.609,
+    67.422
+   ]
+  },
+  {
+   "clave": "30070800",
+   "nombre": "Perro guardián funerario del Árbol Áureo",
+   "flag": 1049300248,
+   "map": [
+    30,
+    7,
+    0,
+    0
+   ],
+   "spawn": 30070980,
+   "dist_spawn": 85,
+   "boss": 30070800,
+   "defeat": 30070800,
+   "runes": 12000,
+   "boss_msb": [
+    -127.2,
+    820.611,
+    225.628
+   ],
+   "spawn_msb": [
+    -126.953,
+    830.816,
+    137.435
+   ]
+  },
+  {
+   "clave": "30080800",
+   "nombre": "Viejo héroe de Zamor",
+   "flag": 1049300249,
+   "map": [
+    30,
+    8,
+    0,
+    0
+   ],
+   "spawn": 30080970,
+   "dist_spawn": 78.7,
+   "boss": 30080800,
+   "defeat": 30080800,
+   "runes": 20000,
+   "boss_msb": [
+    330.528,
+    742.204,
+    14.232
+   ],
+   "spawn_msb": [
+    258.622,
+    752.483,
+    23.302
+   ]
+  },
+  {
+   "clave": "30090800",
+   "nombre": "Lobo Rojo del Campeón",
+   "flag": 1049300250,
+   "map": [
+    30,
+    9,
+    0,
+    0
+   ],
+   "spawn": 30090970,
+   "dist_spawn": 88.4,
+   "boss": 30090800,
+   "defeat": 30090800,
+   "runes": 21000,
+   "boss_msb": [
+    -146.713,
+    646.243,
+    104.804
+   ],
+   "spawn_msb": [
+    -137.992,
+    656.522,
+    9.82
+   ]
+  },
+  {
+   "clave": "30100800",
+   "nombre": "Caballero del crisol Ordovis",
+   "flag": 1049300251,
+   "map": [
+    30,
+    10,
+    0,
+    0
+   ],
+   "spawn": 30100970,
+   "dist_spawn": 68,
+   "boss": 30100800,
+   "defeat": 30100800,
+   "runes": 28000,
+   "boss_msb": [
+    -107.862,
+    761.445,
+    355.941
+   ],
+   "spawn_msb": [
+    -102.564,
+    771.709,
+    276.795
+   ]
+  },
+  {
+   "clave": "30100801",
+   "nombre": "Caballero del crisol",
+   "flag": 1049300252,
+   "map": [
+    30,
+    10,
+    0,
+    0
+   ],
+   "spawn": 30100970,
+   "dist_spawn": 64.5,
+   "boss": 30100801,
+   "defeat": 30100800,
+   "runes": 0,
+   "boss_msb": [
+    -103.833,
+    761.445,
+    352.687
+   ],
+   "spawn_msb": [
+    -102.564,
+    771.709,
+    276.795
+   ]
+  },
+  {
+   "clave": "30110800",
+   "nombre": "Asesina de los Cuchillos Negros",
+   "flag": 1049300253,
+   "map": [
+    30,
+    11,
+    0,
+    0
+   ],
+   "spawn": 30110980,
+   "dist_spawn": 106.9,
+   "boss": 30110800,
+   "defeat": 30110800,
+   "runes": 1600,
+   "boss_msb": [
+    -210.28,
+    177.484,
+    21.417
+   ],
+   "spawn_msb": [
+    -102.46,
+    187.79,
+    28.95
+   ]
+  },
+  {
+   "clave": "30120800",
+   "nombre": "Guerrero bastardo",
+   "flag": 1049300254,
+   "map": [
+    30,
+    12,
+    0,
+    0
+   ],
+   "spawn": 30120980,
+   "dist_spawn": 128.7,
+   "boss": 30120800,
+   "defeat": 30120800,
+   "runes": 9400,
+   "boss_msb": [
+    8.087,
+    618.303,
+    242.75
+   ],
+   "spawn_msb": [
+    -36.551,
+    648.703,
+    118.805
+   ]
+  },
+  {
+   "clave": "30120801",
+   "nombre": "Perfumista Tricia",
+   "flag": 1049300255,
+   "map": [
+    30,
+    12,
+    0,
+    0
+   ],
+   "spawn": 30120980,
+   "dist_spawn": 132.8,
+   "boss": 30120801,
+   "defeat": 30120800,
+   "runes": 0,
+   "boss_msb": [
+    10.917,
+    618.303,
+    244.064
+   ],
+   "spawn_msb": [
+    -36.551,
+    648.703,
+    118.805
+   ]
+  },
+  {
+   "clave": "30130800",
+   "nombre": "Duelista guardián de las tumbas",
+   "flag": 1049300256,
+   "map": [
+    30,
+    13,
+    0,
+    0
+   ],
+   "spawn": 30130980,
+   "dist_spawn": 95.2,
+   "boss": 30130800,
+   "defeat": 30130800,
+   "runes": 15000,
+   "boss_msb": [
+    4.346,
+    954.403,
+    78.963
+   ],
+   "spawn_msb": [
+    87.6,
+    964.71,
+    34.02
+   ]
+  },
+  {
+   "clave": "30140800",
+   "nombre": "Perro guardián funerario espadado del Árbol Áureo",
+   "flag": 1049300257,
+   "map": [
+    30,
+    14,
+    0,
+    0
+   ],
+   "spawn": 30140970,
+   "dist_spawn": 58.8,
+   "boss": 30140800,
+   "defeat": 30140800,
+   "runes": 7400,
+   "boss_msb": [
+    -123.396,
+    73.295,
+    -33.951
+   ],
+   "spawn_msb": [
+    -129.214,
+    78.465,
+    24.268
+   ]
+  },
+  {
+   "clave": "30150800",
+   "nombre": "Sombra de cementerio",
+   "flag": 1049300258,
+   "map": [
+    30,
+    15,
+    0,
+    0
+   ],
+   "spawn": 30150970,
+   "dist_spawn": 61.2,
+   "boss": 30150800,
+   "defeat": 30150800,
+   "runes": 6800,
+   "boss_msb": [
+    125.709,
+    24.204,
+    258.026
+   ],
+   "spawn_msb": [
+    86.771,
+    29.566,
+    211.16
+   ]
+  },
+  {
+   "clave": "30160800",
+   "nombre": "Espíritu del árbol putrefacto",
+   "flag": 1049300259,
+   "map": [
+    30,
+    16,
+    0,
+    0
+   ],
+   "spawn": 30160980,
+   "dist_spawn": 167.7,
+   "boss": 30160800,
+   "defeat": 30160800,
+   "runes": 64000,
+   "boss_msb": [
+    -130.924,
+    -25.237,
+    -89.231
+   ],
+   "spawn_msb": [
+    37.615,
+    -4.946,
+    -111.5
+   ]
+  },
+  {
+   "clave": "30170800",
+   "nombre": "Viejo héroe de Zamor",
+   "flag": 1049300260,
+   "map": [
+    30,
+    17,
+    0,
+    0
+   ],
+   "spawn": 30170970,
+   "dist_spawn": 75,
+   "boss": 30170800,
+   "defeat": 30170800,
+   "runes": 83000,
+   "boss_msb": [
+    -7.061,
+    1451.66,
+    -35.835
+   ],
+   "spawn_msb": [
+    -81.95,
+    1461.983,
+    -36.089
+   ]
+  },
+  {
+   "clave": "30180800",
+   "nombre": "Espíritu del árbol ulcerado",
+   "flag": 1049300261,
+   "map": [
+    30,
+    18,
+    0,
+    0
+   ],
+   "spawn": 30180970,
+   "dist_spawn": 118.9,
+   "boss": 30180800,
+   "defeat": 30180800,
+   "runes": 48000,
+   "boss_msb": [
+    -139.242,
+    1477.419,
+    158.039
+   ],
+   "spawn_msb": [
+    -42.235,
+    1402.765,
+    154.985
+   ]
+  },
+  {
+   "clave": "30190800",
+   "nombre": "Duelista guardián de las tumbas putrefacto",
+   "flag": 1049300262,
+   "map": [
+    30,
+    19,
+    0,
+    0
+   ],
+   "spawn": 30190970,
+   "dist_spawn": 57.3,
+   "boss": 30190800,
+   "defeat": 30190800,
+   "runes": 78000,
+   "boss_msb": [
+    70.931,
+    1374.703,
+    -161.324
+   ],
+   "spawn_msb": [
+    13.165,
+    1380.016,
+    -145.962
+   ]
+  },
+  {
+   "clave": "30200800",
+   "nombre": "Lágrima mimética extraviada",
+   "flag": 1049300263,
+   "map": [
+    30,
+    20,
+    0,
+    0
+   ],
+   "spawn": 30200971,
+   "dist_spawn": 57.8,
+   "boss": 30200800,
+   "defeat": 30200810,
+   "runes": 50000,
+   "boss_msb": [
+    -88.65,
+    1276.79,
+    -299.61
+   ],
+   "spawn_msb": [
+    -85.02,
+    1283.61,
+    -206.99
+   ]
+  },
+  {
+   "clave": "31000800",
+   "nombre": "Parches",
+   "flag": 1049300264,
+   "map": [
+    31,
+    0,
+    0,
+    0
+   ],
+   "spawn": 31000980,
+   "dist_spawn": 194.7,
+   "boss": 31000800,
+   "defeat": 31000800,
+   "runes": 0,
+   "boss_msb": [
+    24.835,
+    52.972,
+    54.042
+   ],
+   "spawn_msb": [
+    43.67,
+    52.211,
+    53.415
+   ]
+  },
+  {
+   "clave": "31010800",
+   "nombre": "Oso rúnico",
+   "flag": 1049300265,
+   "map": [
+    31,
+    1,
+    0,
+    0
+   ],
+   "spawn": 31010980,
+   "dist_spawn": 107.8,
+   "boss": 31010800,
+   "defeat": 31010800,
+   "runes": 2600,
+   "boss_msb": [
+    -146.914,
+    -39.934,
+    -144.925
+   ],
+   "spawn_msb": [
+    -114.48,
+    -3.17,
+    -49.57
+   ]
+  },
+  {
+   "clave": "31020800",
+   "nombre": "Flor de Miranda",
+   "flag": 1049300266,
+   "map": [
+    31,
+    2,
+    0,
+    0
+   ],
+   "spawn": 31020980,
+   "dist_spawn": 50,
+   "boss": 31020800,
+   "defeat": 31020800,
+   "runes": 2100,
+   "boss_msb": [
+    -311.058,
+    -28.918,
+    -27.177
+   ],
+   "spawn_msb": [
+    -146.022,
+    -4.223,
+    23.886
+   ]
+  },
+  {
+   "clave": "31030800",
+   "nombre": "Hombre bestia de Farum Azula",
+   "flag": 1049300267,
+   "map": [
+    31,
+    3,
+    0,
+    0
+   ],
+   "spawn": 31030980,
+   "dist_spawn": 104.9,
+   "boss": 31030800,
+   "defeat": 31030800,
+   "runes": 1000,
+   "boss_msb": [
+    -120.769,
+    88.181,
+    80.797
+   ],
+   "spawn_msb": [
+    -63.633,
+    110.414,
+    -4.42
+   ]
+  },
+  {
+   "clave": "31040800",
+   "nombre": "Caballero Imputrescible",
+   "flag": 1049300268,
+   "map": [
+    31,
+    4,
+    0,
+    0
+   ],
+   "spawn": 31040970,
+   "dist_spawn": 96.4,
+   "boss": 31040800,
+   "defeat": 31040800,
+   "runes": 3300,
+   "boss_msb": [
+    98.03,
+    199.762,
+    -166.709
+   ],
+   "spawn_msb": [
+    5.363,
+    214.358,
+    -143.818
+   ]
+  },
+  {
+   "clave": "31050800",
+   "nombre": "Caballero sabueso",
+   "flag": 1049300269,
+   "map": [
+    31,
+    5,
+    0,
+    0
+   ],
+   "spawn": 31050980,
+   "dist_spawn": 89.2,
+   "boss": 31050800,
+   "defeat": 31050800,
+   "runes": 3600,
+   "boss_msb": [
+    -169.342,
+    160.969,
+    -22.972
+   ],
+   "spawn_msb": [
+    -115.565,
+    225.623,
+    -2.2
+   ]
+  },
+  {
+   "clave": "31060800",
+   "nombre": "Hechicero cristaliano",
+   "flag": 1049300270,
+   "map": [
+    31,
+    6,
+    0,
+    0
+   ],
+   "spawn": 31060980,
+   "dist_spawn": 106.8,
+   "boss": 31060800,
+   "defeat": 31060800,
+   "runes": 3300,
+   "boss_msb": [
+    191.194,
+    216.589,
+    104.367
+   ],
+   "spawn_msb": [
+    85.86,
+    230.68,
+    93.6
+   ]
+  },
+  {
+   "clave": "31070800",
+   "nombre": "Ancestro de la putrefacción",
+   "flag": 1049300271,
+   "map": [
+    31,
+    7,
+    0,
+    0
+   ],
+   "spawn": 31070970,
+   "dist_spawn": 62,
+   "boss": 31070800,
+   "defeat": 31070800,
+   "runes": 10000,
+   "boss_msb": [
+    -122.642,
+    719.598,
+    255.966
+   ],
+   "spawn_msb": [
+    -161.069,
+    758.685,
+    225.775
+   ]
+  },
+  {
+   "clave": "31090800",
+   "nombre": "Margot, la reina semihumana",
+   "flag": 1049300272,
+   "map": [
+    31,
+    9,
+    0,
+    0
+   ],
+   "spawn": 31090980,
+   "dist_spawn": 24.8,
+   "boss": 31090800,
+   "defeat": 31090800,
+   "runes": 11000,
+   "boss_msb": [
+    -63.912,
+    1013.034,
+    -75.066
+   ],
+   "spawn_msb": [
+    -81.81,
+    1029.31,
+    -69.71
+   ]
+  },
+  {
+   "clave": "31100800",
+   "nombre": "Hombre bestia de Farum Azula con machete",
+   "flag": 1049300273,
+   "map": [
+    31,
+    10,
+    0,
+    0
+   ],
+   "spawn": 31100980,
+   "dist_spawn": 66.2,
+   "boss": 31100800,
+   "defeat": 31100800,
+   "runes": 65000,
+   "boss_msb": [
+    36.146,
+    104.708,
+    21.161
+   ],
+   "spawn_msb": [
+    26.898,
+    153.251,
+    63.786
+   ]
+  },
+  {
+   "clave": "31110800",
+   "nombre": "Lancero cristaliano putrefacto",
+   "flag": 1049300274,
+   "map": [
+    31,
+    11,
+    0,
+    0
+   ],
+   "spawn": 31110970,
+   "dist_spawn": 180.8,
+   "boss": 31110800,
+   "defeat": 31110800,
+   "runes": 7100,
+   "boss_msb": [
+    -144.103,
+    127.071,
+    138.609
+   ],
+   "spawn_msb": [
+    25.264,
+    166.183,
+    179.283
+   ]
+  },
+  {
+   "clave": "31120800",
+   "nombre": "Paladín bastardo",
+   "flag": 1049300275,
+   "map": [
+    31,
+    12,
+    0,
+    0
+   ],
+   "spawn": 31120980,
+   "dist_spawn": 68.3,
+   "boss": 31120800,
+   "defeat": 31120800,
+   "runes": 93000,
+   "boss_msb": [
+    -24.404,
+    1193.361,
+    121.93
+   ],
+   "spawn_msb": [
+    -44.002,
+    1248.896,
+    79.214
+   ]
+  },
+  {
+   "clave": "31150800",
+   "nombre": "Jefe semihumano",
+   "flag": 1049300276,
+   "map": [
+    31,
+    15,
+    0,
+    0
+   ],
+   "spawn": 31150980,
+   "dist_spawn": 88,
+   "boss": 31150800,
+   "defeat": 31150800,
+   "runes": 1200,
+   "boss_msb": [
+    30.939,
+    -29.33,
+    -99.891
+   ],
+   "spawn_msb": [
+    44.76,
+    -9.18,
+    -15.332
+   ]
+  },
+  {
+   "clave": "31170800",
+   "nombre": "Gólem guardián",
+   "flag": 1049300277,
+   "map": [
+    31,
+    17,
+    0,
+    0
+   ],
+   "spawn": 31170970,
+   "dist_spawn": 99.5,
+   "boss": 31170800,
+   "defeat": 31170800,
+   "runes": 1700,
+   "boss_msb": [
+    74.418,
+    -9.862,
+    148.682
+   ],
+   "spawn_msb": [
+    58.596,
+    18.641,
+    242.773
+   ]
+  },
+  {
+   "clave": "31180800",
+   "nombre": "Miranda, la flor marchita",
+   "flag": 1049300278,
+   "map": [
+    31,
+    18,
+    0,
+    0
+   ],
+   "spawn": 31180980,
+   "dist_spawn": 209.3,
+   "boss": 31180800,
+   "defeat": 31180800,
+   "runes": 8400,
+   "boss_msb": [
+    -85.178,
+    790.631,
+    183.114
+   ],
+   "spawn_msb": [
+    49.519,
+    837.811,
+    37.171
+   ]
+  },
+  {
+   "clave": "31190800",
+   "nombre": "Asesina de los Cuchillos Negros",
+   "flag": 1049300279,
+   "map": [
+    31,
+    19,
+    0,
+    0
+   ],
+   "spawn": 31190980,
+   "dist_spawn": 48.8,
+   "boss": 31190800,
+   "defeat": 31190800,
+   "runes": 9000,
+   "boss_msb": [
+    130.985,
+    623.473,
+    -12.7
+   ],
+   "spawn_msb": [
+    124.3,
+    652.7,
+    -51.2
+   ]
+  },
+  {
+   "clave": "31190850",
+   "nombre": "Nigromante Garris",
+   "flag": 1049300280,
+   "map": [
+    31,
+    19,
+    0,
+    0
+   ],
+   "spawn": 31190980,
+   "dist_spawn": 30.6,
+   "boss": 31190850,
+   "defeat": 31190850,
+   "runes": 9000,
+   "boss_msb": [
+    108.325,
+    627.262,
+    -45.186
+   ],
+   "spawn_msb": [
+    124.3,
+    652.7,
+    -51.2
+   ]
+  },
+  {
+   "clave": "31200800",
+   "nombre": "Caballero Imputrescible lancero",
+   "flag": 1049300281,
+   "map": [
+    31,
+    20,
+    0,
+    0
+   ],
+   "spawn": 31200980,
+   "dist_spawn": 114.6,
+   "boss": 31200800,
+   "defeat": 31200800,
+   "runes": 7000,
+   "boss_msb": [
+    173.731,
+    86.969,
+    147.64
+   ],
+   "spawn_msb": [
+    167.839,
+    116.715,
+    39.35
+   ]
+  },
+  {
+   "clave": "31210800",
+   "nombre": "Duelista frenético",
+   "flag": 1049300282,
+   "map": [
+    31,
+    21,
+    0,
+    0
+   ],
+   "spawn": 31210980,
+   "dist_spawn": 110.8,
+   "boss": 31210800,
+   "defeat": 31210800,
+   "runes": 6700,
+   "boss_msb": [
+    -166.69,
+    13.045,
+    48.637
+   ],
+   "spawn_msb": [
+    -77.11,
+    80.239,
+    66.101
+   ]
+  },
+  {
+   "clave": "31220800",
+   "nombre": "Caracola invocadora",
+   "flag": 1049300283,
+   "map": [
+    31,
+    22,
+    0,
+    0
+   ],
+   "spawn": 31220980,
+   "dist_spawn": 206.1,
+   "boss": 31220800,
+   "defeat": 31220800,
+   "runes": 70000,
+   "boss_msb": [
+    -47.503,
+    1579.171,
+    -113.57
+   ],
+   "spawn_msb": [
+    -38.12,
+    1617.2,
+    84.31
+   ]
+  },
+  {
+   "clave": "32000800",
+   "nombre": "Bastardo escamoso",
+   "flag": 1049300284,
+   "map": [
+    32,
+    0,
+    0,
+    0
+   ],
+   "spawn": 32000980,
+   "dist_spawn": 77.1,
+   "boss": 32000800,
+   "defeat": 32000800,
+   "runes": 2000,
+   "boss_msb": [
+    83.314,
+    -24.549,
+    -25.44
+   ],
+   "spawn_msb": [
+    36,
+    -8.09,
+    -82.78
+   ]
+  },
+  {
+   "clave": "32010800",
+   "nombre": "Trol excavapiedra",
+   "flag": 1049300285,
+   "map": [
+    32,
+    1,
+    0,
+    0
+   ],
+   "spawn": 32010980,
+   "dist_spawn": 107.4,
+   "boss": 32010800,
+   "defeat": 32010800,
+   "runes": 1800,
+   "boss_msb": [
+    27.704,
+    -30.433,
+    -0.793
+   ],
+   "spawn_msb": [
+    111.15,
+    33.13,
+    14.49
+   ]
+  },
+  {
+   "clave": "32020800",
+   "nombre": "Cristaliano",
+   "flag": 1049300286,
+   "map": [
+    32,
+    2,
+    0,
+    0
+   ],
+   "spawn": 32020980,
+   "dist_spawn": 119.8,
+   "boss": 32020800,
+   "defeat": 32020800,
+   "runes": 3000,
+   "boss_msb": [
+    13.051,
+    110.763,
+    21.882
+   ],
+   "spawn_msb": [
+    -58.04,
+    206.97,
+    25.51
+   ]
+  },
+  {
+   "clave": "32040800",
+   "nombre": "Trol excavapiedra",
+   "flag": 1049300287,
+   "map": [
+    32,
+    4,
+    0,
+    0
+   ],
+   "spawn": 32040980,
+   "dist_spawn": 109.7,
+   "boss": 32040800,
+   "defeat": 32040800,
+   "runes": 9600,
+   "boss_msb": [
+    -298.136,
+    677.515,
+    -147.71
+   ],
+   "spawn_msb": [
+    -193.66,
+    696.44,
+    -97.29
+   ]
+  },
+  {
+   "clave": "32050800",
+   "nombre": "Danzarín cristaliano",
+   "flag": 1049300288,
+   "map": [
+    32,
+    5,
+    0,
+    0
+   ],
+   "spawn": 32050980,
+   "dist_spawn": 121.4,
+   "boss": 32050800,
+   "defeat": 32050800,
+   "runes": 9000,
+   "boss_msb": [
+    62.147,
+    777.627,
+    -41.252
+   ],
+   "spawn_msb": [
+    -52.07,
+    777.99,
+    19.4
+   ]
+  },
+  {
+   "clave": "32050801",
+   "nombre": "Lancero cristaliano",
+   "flag": 1049300289,
+   "map": [
+    32,
+    5,
+    0,
+    0
+   ],
+   "spawn": 32050980,
+   "dist_spawn": 119.8,
+   "boss": 32050801,
+   "defeat": 32050800,
+   "runes": 0,
+   "boss_msb": [
+    56.002,
+    777.544,
+    -42.516
+   ],
+   "spawn_msb": [
+    -52.07,
+    777.99,
+    19.4
+   ]
+  },
+  {
+   "clave": "32070800",
+   "nombre": "Dragón de magma",
+   "flag": 1049300290,
+   "map": [
+    32,
+    7,
+    0,
+    0
+   ],
+   "spawn": 32070981,
+   "dist_spawn": 41.2,
+   "boss": 32070800,
+   "defeat": 32070800,
+   "runes": 7500,
+   "boss_msb": [
+    -20.456,
+    89.597,
+    158.679
+   ],
+   "spawn_msb": [
+    -36.37,
+    90.6,
+    123.13
+   ]
+  },
+  {
+   "clave": "32080800",
+   "nombre": "Bestia de la Estrella fugaz",
+   "flag": 1049300291,
+   "map": [
+    32,
+    8,
+    0,
+    0
+   ],
+   "spawn": 32080980,
+   "dist_spawn": 132.1,
+   "boss": 32080800,
+   "defeat": 32080800,
+   "runes": 7600,
+   "boss_msb": [
+    -65.221,
+    123.909,
+    239.753
+   ],
+   "spawn_msb": [
+    16.43,
+    86.56,
+    145.19
+   ]
+  },
+  {
+   "clave": "32110800",
+   "nombre": "Astel, el astro fosco",
+   "flag": 1049300292,
+   "map": [
+    32,
+    11,
+    0,
+    0
+   ],
+   "spawn": 32110980,
+   "dist_spawn": 105.5,
+   "boss": 32110800,
+   "defeat": 32110800,
+   "runes": 120000,
+   "boss_msb": [
+    51.793,
+    1207.515,
+    149.466
+   ],
+   "spawn_msb": [
+    44.63,
+    1222.86,
+    -18.54
+   ]
+  },
+  {
+   "clave": "34120800",
+   "nombre": "Señor de ónice",
+   "flag": 1049300293,
+   "map": [
+    34,
+    12,
+    0,
+    0
+   ],
+   "spawn": 34120982,
+   "dist_spawn": 78.1,
+   "boss": 34120800,
+   "defeat": 34120800,
+   "runes": 16000,
+   "boss_msb": [
+    -49.459,
+    711.356,
+    -195.922
+   ],
+   "spawn_msb": [
+    -41.805,
+    698.341,
+    -272.497
+   ]
+  },
+  {
+   "clave": "34130800",
+   "nombre": "Apóstol sacrodermo",
+   "flag": 1049300294,
+   "map": [
+    34,
+    13,
+    0,
+    0
+   ],
+   "spawn": 34130981,
+   "dist_spawn": 80.2,
+   "boss": 34130800,
+   "defeat": 34130800,
+   "runes": 94000,
+   "boss_msb": [
+    77.108,
+    36.31,
+    -95.652
+   ],
+   "spawn_msb": [
+    87.2345,
+    47.315,
+    -23.138191
+   ]
+  },
+  {
+   "clave": "34140850",
+   "nombre": "Gemelo Caído",
+   "flag": 1049300295,
+   "map": [
+    34,
+    14,
+    0,
+    0
+   ],
+   "spawn": 34140980,
+   "dist_spawn": 433.5,
+   "boss": 34140850,
+   "defeat": 34140850,
+   "runes": 29000,
+   "boss_msb": [
+    584.387,
+    -373.485,
+    -326.857
+   ],
+   "spawn_msb": [
+    601.94,
+    26.52,
+    -485.45
+   ]
+  },
+  {
+   "clave": "35000800",
+   "nombre": "Mohg, el Augurio",
+   "flag": 1049300296,
+   "map": [
+    35,
+    0,
+    0,
+    0
+   ],
+   "spawn": 35000980,
+   "dist_spawn": 1.4,
+   "boss": 35000800,
+   "defeat": 35000800,
+   "runes": 100000,
+   "boss_msb": [
+    73.987,
+    -298.55,
+    -80.894
+   ],
+   "spawn_msb": [
+    73.327,
+    -298.487,
+    -81.231
+   ]
+  },
+  {
+   "clave": "35000850",
+   "nombre": "Esgar, Sacerdote de la Sangre",
+   "flag": 1049300297,
+   "map": [
+    35,
+    0,
+    0,
+    0
+   ],
+   "spawn": 35000983,
+   "dist_spawn": 94.1,
+   "boss": 35000850,
+   "defeat": 35000850,
+   "runes": 30000,
+   "boss_msb": [
+    -203.847,
+    -153.846,
+    -306.866
+   ],
+   "spawn_msb": [
+    -137.408,
+    -143.745,
+    -240.974
+   ]
+  },
+  {
+   "clave": "39200800",
+   "nombre": "Dragón de magma Makar",
+   "flag": 1049300298,
+   "map": [
+    39,
+    20,
+    0,
+    0
+   ],
+   "spawn": 39200980,
+   "dist_spawn": 20.3,
+   "boss": 39200800,
+   "defeat": 39200800,
+   "runes": 24000,
+   "boss_msb": [
+    -102.687,
+    353.031,
+    -1299.211
+   ],
+   "spawn_msb": [
+    -122.042,
+    353.273,
+    -1297.188
+   ]
+  },
+  {
+   "clave": "40000800",
+   "nombre": "Caballero de la Muerte",
+   "flag": 1049300299,
+   "map": [
+    40,
+    0,
+    0,
+    0
+   ],
+   "spawn": 40000970,
+   "dist_spawn": 63,
+   "boss": 40000800,
+   "defeat": 40000800,
+   "runes": 110000,
+   "boss_msb": [
+    -426.56,
+    113.704,
+    -33.971
+   ],
+   "spawn_msb": [
+    -363.75,
+    119.02,
+    -34.13
+   ]
+  },
+  {
+   "clave": "40010800",
+   "nombre": "Caballero de la Muerte",
+   "flag": 1049300300,
+   "map": [
+    40,
+    1,
+    0,
+    0
+   ],
+   "spawn": 40010970,
+   "dist_spawn": 60.6,
+   "boss": 40010800,
+   "defeat": 40010800,
+   "runes": 130000,
+   "boss_msb": [
+    185.052,
+    149.704,
+    -137.042
+   ],
+   "spawn_msb": [
+    147.746,
+    155.002,
+    -92.851
+   ]
+  },
+  {
+   "clave": "41000800",
+   "nombre": "Onze, maestro espadachín semihumano",
+   "flag": 1049300301,
+   "map": [
+    41,
+    0,
+    0,
+    0
+   ],
+   "spawn": 41000970,
+   "dist_spawn": 53.1,
+   "boss": 41000800,
+   "defeat": 41000800,
+   "runes": 80000,
+   "boss_msb": [
+    -178.656,
+    78.456,
+    -198.626
+   ],
+   "spawn_msb": [
+    -198.57,
+    79.41,
+    -149.43
+   ]
+  },
+  {
+   "clave": "41010800",
+   "nombre": "Hojamaldita Labirith",
+   "flag": 1049300302,
+   "map": [
+    41,
+    1,
+    0,
+    0
+   ],
+   "spawn": 41010970,
+   "dist_spawn": 35.5,
+   "boss": 41010800,
+   "defeat": 41010800,
+   "runes": 100000,
+   "boss_msb": [
+    -194.629,
+    190.547,
+    90.689
+   ],
+   "spawn_msb": [
+    -168.05,
+    191.39,
+    65.64
+   ]
+  },
+  {
+   "clave": "41020800",
+   "nombre": "Doliente",
+   "flag": 1049300303,
+   "map": [
+    41,
+    2,
+    0,
+    0
+   ],
+   "spawn": 41020970,
+   "dist_spawn": 35.6,
+   "boss": 41020800,
+   "defeat": 41020800,
+   "runes": 160000,
+   "boss_msb": [
+    152.344,
+    19.783,
+    -14.047
+   ],
+   "spawn_msb": [
+    128.82,
+    21.26,
+    11.52
+   ]
+  },
+  {
+   "clave": "43000800",
+   "nombre": "Sanguinemigo jefe",
+   "flag": 1049300304,
+   "map": [
+    43,
+    0,
+    0,
+    0
+   ],
+   "spawn": 43000970,
+   "dist_spawn": 30.8,
+   "boss": 43000800,
+   "defeat": 43000800,
+   "runes": 80000,
+   "boss_msb": [
+    136.568,
+    116.693,
+    138.598
+   ],
+   "spawn_msb": [
+    107.08,
+    117.02,
+    124.77
+   ]
+  },
+  {
+   "clave": "43010800",
+   "nombre": "Hombre dragón antiguo",
+   "flag": 1049300305,
+   "map": [
+    43,
+    1,
+    0,
+    0
+   ],
+   "spawn": 43010970,
+   "dist_spawn": 48.8,
+   "boss": 43010800,
+   "defeat": 43010800,
+   "runes": 130000,
+   "boss_msb": [
+    37.562,
+    94.009,
+    4.198
+   ],
+   "spawn_msb": [
+    30.41,
+    96.21,
+    52.4
+   ]
+  },
+  {
+   "clave": "1033420800",
+   "nombre": "Alecto, líder de los Cuchillos Negros",
+   "flag": 1049300306,
+   "map": [
+    60,
+    33,
+    42,
+    0
+   ],
+   "spawn": 1033420970,
+   "dist_spawn": 60,
+   "boss": 1033420800,
+   "defeat": 1033420800,
+   "runes": 80000,
+   "boss_msb": [
+    -40.589,
+    346.6998,
+    86.259
+   ],
+   "spawn_msb": [
+    -2.737,
+    346.736,
+    39.724
+   ]
+  },
+  {
+   "clave": "1033430800",
+   "nombre": "Avatar del Árbol Áureo",
+   "flag": 1049300307,
+   "map": [
+    60,
+    33,
+    43,
+    0
+   ],
+   "spawn": 1033430970,
+   "dist_spawn": 56.3,
+   "boss": 1033430800,
+   "defeat": 1033430800,
+   "runes": 5800,
+   "boss_msb": [
+    42.488,
+    291.7,
+    31.133
+   ],
+   "spawn_msb": [
+    68.527,
+    281.159,
+    -20.536
+   ]
+  },
+  {
+   "clave": "1033450800",
+   "nombre": "Bols, caballero cariano",
+   "flag": 1049300308,
+   "map": [
+    60,
+    33,
+    45,
+    0
+   ],
+   "spawn": 1033450970,
+   "dist_spawn": 65,
+   "boss": 1033450800,
+   "defeat": 1033450800,
+   "runes": 4600,
+   "boss_msb": [
+    -51.825,
+    244.952,
+    -29.646
+   ],
+   "spawn_msb": [
+    -3.968,
+    244.485,
+    -73.093
+   ]
+  },
+  {
+   "clave": "1034420800",
+   "nombre": "Adula, dragón de piedra refulgente",
+   "flag": 1049300309,
+   "map": [
+    60,
+    34,
+    42,
+    0
+   ],
+   "spawn": 1034420970,
+   "dist_spawn": 83.7,
+   "boss": 1034420800,
+   "defeat": 1034420800,
+   "runes": 120000,
+   "boss_msb": [
+    128.241,
+    401.772,
+    -29.929
+   ],
+   "spawn_msb": [
+    25.247,
+    386.68,
+    -75.067
+   ]
+  },
+  {
+   "clave": "1034480800",
+   "nombre": "Renacido regio",
+   "flag": 1049300310,
+   "map": [
+    60,
+    34,
+    48,
+    0
+   ],
+   "spawn": 1034480970,
+   "dist_spawn": 50,
+   "boss": 1034480800,
+   "defeat": 1034480800,
+   "runes": 3100,
+   "boss_msb": [
+    46.953,
+    252.197,
+    78.726
+   ],
+   "spawn_msb": [
+    -2.86,
+    260.99,
+    73.59
+   ]
+  },
+  {
+   "clave": "1034500800",
+   "nombre": "Adula, dragón de piedra refulgente",
+   "flag": 1049300311,
+   "map": [
+    60,
+    34,
+    50,
+    0
+   ],
+   "spawn": 1034500981,
+   "dist_spawn": 157.4,
+   "boss": 1034500800,
+   "defeat": 1034500800,
+   "runes": 12000,
+   "boss_msb": [
+    22.054,
+    453.149,
+    59.607
+   ],
+   "spawn_msb": [
+    -58.78,
+    511.74,
+    23.39
+   ]
+  },
+  {
+   "clave": "1035420800",
+   "nombre": "Asesino de augurios",
+   "flag": 1049300312,
+   "map": [
+    60,
+    35,
+    42,
+    0
+   ],
+   "spawn": 1035420980,
+   "dist_spawn": 140.7,
+   "boss": 1035420800,
+   "defeat": 1035420800,
+   "runes": 4900,
+   "boss_msb": [
+    -37.509,
+    269.155,
+    -17.679
+   ],
+   "spawn_msb": [
+    -15.87,
+    407.94,
+    -22.52
+   ]
+  },
+  {
+   "clave": "1035500800",
+   "nombre": "Guardia Real Loretta",
+   "flag": 1049300313,
+   "map": [
+    60,
+    35,
+    50,
+    0
+   ],
+   "spawn": 1035500982,
+   "dist_spawn": 2.6,
+   "boss": 1035500800,
+   "defeat": 1035500800,
+   "runes": 10000,
+   "boss_msb": [
+    -31.85,
+    430.946,
+    100.612
+   ],
+   "spawn_msb": [
+    -31.9,
+    430.946,
+    98
+   ]
+  },
+  {
+   "clave": "1035530800",
+   "nombre": "Dragón de magma",
+   "flag": 1049300314,
+   "map": [
+    60,
+    35,
+    53,
+    0
+   ],
+   "spawn": 1035530970,
+   "dist_spawn": 79.9,
+   "boss": 1035530800,
+   "defeat": 1035530800,
+   "runes": 19000,
+   "boss_msb": [
+    1.8,
+    823.671,
+    -80.399
+   ],
+   "spawn_msb": [
+    9.733,
+    824.421,
+    8.104
+   ]
+  },
+  {
+   "clave": "1036450340",
+   "nombre": "Ave del ritual fúnebre",
+   "flag": 1049300315,
+   "map": [
+    60,
+    36,
+    45,
+    0
+   ],
+   "spawn": 1036450980,
+   "dist_spawn": 73.4,
+   "boss": 1036450340,
+   "defeat": 1036450340,
+   "runes": 7800,
+   "boss_msb": [
+    -70.066,
+    237.557,
+    39.677
+   ],
+   "spawn_msb": [
+    -61.84629,
+    239.76094,
+    110.36217
+   ]
+  },
+  {
+   "clave": "1036480340",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300316,
+   "map": [
+    60,
+    36,
+    48,
+    0
+   ],
+   "spawn": 1036480980,
+   "dist_spawn": 169.4,
+   "boss": 1036480340,
+   "defeat": 1036480340,
+   "runes": 5600,
+   "boss_msb": [
+    25.62163,
+    321.60175,
+    28.910324
+   ],
+   "spawn_msb": [
+    -87.66,
+    321,
+    -100.54
+   ]
+  },
+  {
+   "clave": "1036500800",
+   "nombre": "Señor de ónice",
+   "flag": 1049300317,
+   "map": [
+    60,
+    36,
+    50,
+    0
+   ],
+   "spawn": 1036500980,
+   "dist_spawn": 216.9,
+   "boss": 1036500800,
+   "defeat": 1036500800,
+   "runes": 3600,
+   "boss_msb": [
+    121.092,
+    379.592,
+    10.945
+   ],
+   "spawn_msb": [
+    -85.45,
+    396.864,
+    74.745
+   ]
+  },
+  {
+   "clave": "1036540800",
+   "nombre": "Bestia adulta de la Estrella fugaz",
+   "flag": 1049300318,
+   "map": [
+    60,
+    36,
+    54,
+    0
+   ],
+   "spawn": 1036540980,
+   "dist_spawn": 82.4,
+   "boss": 1036540800,
+   "defeat": 1036540800,
+   "runes": 21000,
+   "boss_msb": [
+    94.844,
+    1047.502,
+    -36.205
+   ],
+   "spawn_msb": [
+    120.473,
+    1010.529,
+    26.542
+   ]
+  },
+  {
+   "clave": "1037420340",
+   "nombre": "Ave de la muerte",
+   "flag": 1049300319,
+   "map": [
+    60,
+    37,
+    42,
+    0
+   ],
+   "spawn": 1037420980,
+   "dist_spawn": 86.8,
+   "boss": 1037420340,
+   "defeat": 1037420340,
+   "runes": 6600,
+   "boss_msb": [
+    -58.195,
+    237.647,
+    98.44
+   ],
+   "spawn_msb": [
+    -96.75,
+    249.84,
+    23.11
+   ]
+  },
+  {
+   "clave": "1037460800",
+   "nombre": "Cazador de esferas",
+   "flag": 1049300320,
+   "map": [
+    60,
+    37,
+    46,
+    0
+   ],
+   "spawn": 1037460980,
+   "dist_spawn": 43.3,
+   "boss": 1037460800,
+   "defeat": 1037460800,
+   "runes": 6000,
+   "boss_msb": [
+    -48.464,
+    398.292,
+    9.811
+   ],
+   "spawn_msb": [
+    -6.758805,
+    396.0758,
+    21.62735
+   ]
+  },
+  {
+   "clave": "1037510800",
+   "nombre": "Antigua dragona Lansseax",
+   "flag": 1049300321,
+   "map": [
+    60,
+    37,
+    51,
+    0
+   ],
+   "spawn": 1037510970,
+   "dist_spawn": 74,
+   "boss": 1037510800,
+   "defeat": 1037510800,
+   "runes": 60000,
+   "boss_msb": [
+    110.761,
+    712.576,
+    49.405
+   ],
+   "spawn_msb": [
+    42.135,
+    681.031,
+    -13.183
+   ]
+  },
+  {
+   "clave": "1037530800",
+   "nombre": "Maggie, la reina semihumana",
+   "flag": 1049300322,
+   "map": [
+    60,
+    37,
+    53,
+    0
+   ],
+   "spawn": 1037530980,
+   "dist_spawn": 59.6,
+   "boss": 1037530800,
+   "defeat": 1037530800,
+   "runes": 13000,
+   "boss_msb": [
+    11.74,
+    901.42,
+    -90.788
+   ],
+   "spawn_msb": [
+    3.298,
+    904.769,
+    -55.179
+   ]
+  },
+  {
+   "clave": "1037540810",
+   "nombre": "Espíritu del árbol ulcerado",
+   "flag": 1049300323,
+   "map": [
+    60,
+    37,
+    54,
+    0
+   ],
+   "spawn": 1037540970,
+   "dist_spawn": 152.3,
+   "boss": 1037540810,
+   "defeat": 1037540810,
+   "runes": 18000,
+   "boss_msb": [
+    -33.431,
+    856.728,
+    -73.076
+   ],
+   "spawn_msb": [
+    86.215,
+    900.725,
+    10.523
+   ]
+  },
+  {
+   "clave": "1038410800",
+   "nombre": "Adan, el Ladrón del Fuego",
+   "flag": 1049300324,
+   "map": [
+    60,
+    38,
+    41,
+    0
+   ],
+   "spawn": 1038410971,
+   "dist_spawn": 57.9,
+   "boss": 1038410800,
+   "defeat": 1038410800,
+   "runes": 3800,
+   "boss_msb": [
+    3.278,
+    257.366,
+    -124.075
+   ],
+   "spawn_msb": [
+    -42.02,
+    258.93,
+    -89.65
+   ]
+  },
+  {
+   "clave": "1038480800",
+   "nombre": "Avatar del Árbol Áureo",
+   "flag": 1049300325,
+   "map": [
+    60,
+    38,
+    48,
+    0
+   ],
+   "spawn": 1038480970,
+   "dist_spawn": 63.4,
+   "boss": 1038480800,
+   "defeat": 1038480800,
+   "runes": 5800,
+   "boss_msb": [
+    -30.168,
+    404.115,
+    -102.922
+   ],
+   "spawn_msb": [
+    -76.61,
+    411.41,
+    -60.36
+   ]
+  },
+  {
+   "clave": "1038510800",
+   "nombre": "Gilika, la reina semihumana",
+   "flag": 1049300326,
+   "map": [
+    60,
+    38,
+    51,
+    0
+   ],
+   "spawn": 1038510970,
+   "dist_spawn": 46.1,
+   "boss": 1038510800,
+   "defeat": 1038510800,
+   "runes": 8500,
+   "boss_msb": [
+    -32.461,
+    770.797,
+    0.537
+   ],
+   "spawn_msb": [
+    -63.93,
+    783.53,
+    31.74
+   ]
+  },
+  {
+   "clave": "1039430340",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300327,
+   "map": [
+    60,
+    39,
+    43,
+    0
+   ],
+   "spawn": 1039430970,
+   "dist_spawn": 155.2,
+   "boss": 1039430340,
+   "defeat": 1039430340,
+   "runes": 5600,
+   "boss_msb": [
+    -126.877,
+    253.205,
+    -8.625
+   ],
+   "spawn_msb": [
+    -58.7,
+    303.64,
+    122.6
+   ]
+  },
+  {
+   "clave": "1039440800",
+   "nombre": "Barquero tibial",
+   "flag": 1049300328,
+   "map": [
+    60,
+    39,
+    44,
+    0
+   ],
+   "spawn": 1039440980,
+   "dist_spawn": 149.9,
+   "boss": 1039440800,
+   "defeat": 1039440800,
+   "runes": 4700,
+   "boss_msb": [
+    -81.594,
+    294.788,
+    -41.358
+   ],
+   "spawn_msb": [
+    47.668,
+    221.427,
+    -60.801
+   ]
+  },
+  {
+   "clave": "1039500800",
+   "nombre": "Godefroy, el Injertado",
+   "flag": 1049300329,
+   "map": [
+    60,
+    39,
+    50,
+    0
+   ],
+   "spawn": 1039500970,
+   "dist_spawn": 73.5,
+   "boss": 1039500800,
+   "defeat": 1039500800,
+   "runes": 26000,
+   "boss_msb": [
+    -45.619,
+    709.59,
+    -86.067
+   ],
+   "spawn_msb": [
+    -60.281,
+    722.641,
+    -15.185
+   ]
+  },
+  {
+   "clave": "1039510800",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300330,
+   "map": [
+    60,
+    39,
+    51,
+    0
+   ],
+   "spawn": 1039510970,
+   "dist_spawn": 126.1,
+   "boss": 1039510800,
+   "defeat": 1043530800,
+   "runes": 10000,
+   "boss_msb": [
+    -16.851,
+    756.99,
+    -110.732
+   ],
+   "spawn_msb": [
+    -49.075,
+    745.886,
+    10.862
+   ]
+  },
+  {
+   "clave": "1039540800",
+   "nombre": "Elemer de la Zarza",
+   "flag": 1049300331,
+   "map": [
+    60,
+    39,
+    54,
+    0
+   ],
+   "spawn": 1039540982,
+   "dist_spawn": 8.4,
+   "boss": 1039540800,
+   "defeat": 1039540800,
+   "runes": 24000,
+   "boss_msb": [
+    -53.722,
+    768.302,
+    56.511
+   ],
+   "spawn_msb": [
+    -45.277,
+    768.313,
+    56.332
+   ]
+  },
+  {
+   "clave": "1040520800",
+   "nombre": "Asesina de los Cuchillos Negros",
+   "flag": 1049300332,
+   "map": [
+    60,
+    40,
+    52,
+    0
+   ],
+   "spawn": 1040520980,
+   "dist_spawn": 152.9,
+   "boss": 1040520800,
+   "defeat": 1040520800,
+   "runes": 10800,
+   "boss_msb": [
+    51.641,
+    884,
+    7.318
+   ],
+   "spawn_msb": [
+    109.533,
+    828.286,
+    137.32
+   ]
+  },
+  {
+   "clave": "1040530800",
+   "nombre": "Noble sanguino",
+   "flag": 1049300333,
+   "map": [
+    60,
+    40,
+    53,
+    0
+   ],
+   "spawn": 1040530970,
+   "dist_spawn": 52.6,
+   "boss": 1040530800,
+   "defeat": 1040530800,
+   "runes": 8800,
+   "boss_msb": [
+    -92.852,
+    802.258,
+    71.048
+   ],
+   "spawn_msb": [
+    -55.083,
+    808.255,
+    107.135
+   ]
+  },
+  {
+   "clave": "1041510800",
+   "nombre": "Centinela agreste",
+   "flag": 1049300334,
+   "map": [
+    60,
+    41,
+    51,
+    0
+   ],
+   "spawn": 1041510970,
+   "dist_spawn": 111.2,
+   "boss": 1041510800,
+   "defeat": 1041510800,
+   "runes": 20000,
+   "boss_msb": [
+    91.089,
+    851.27,
+    -31.347
+   ],
+   "spawn_msb": [
+    0.414,
+    828.309,
+    -91.499
+   ]
+  },
+  {
+   "clave": "1041520800",
+   "nombre": "Antigua dragona Lansseax",
+   "flag": 1049300335,
+   "map": [
+    60,
+    41,
+    52,
+    0
+   ],
+   "spawn": 1041520981,
+   "dist_spawn": 144.6,
+   "boss": 1041520800,
+   "defeat": 1041520800,
+   "runes": 60000,
+   "boss_msb": [
+    46.598,
+    924.089,
+    -88.379
+   ],
+   "spawn_msb": [
+    93.208,
+    904.456,
+    18.347
+   ]
+  },
+  {
+   "clave": "1041530800",
+   "nombre": "Caragusano",
+   "flag": 1049300336,
+   "map": [
+    60,
+    41,
+    53,
+    0
+   ],
+   "spawn": 1041530970,
+   "dist_spawn": 153.7,
+   "boss": 1041530800,
+   "defeat": 1041530800,
+   "runes": 10000,
+   "boss_msb": [
+    -77.54,
+    785.151,
+    29.154
+   ],
+   "spawn_msb": [
+    4.494,
+    796.148,
+    -100.284
+   ]
+  },
+  {
+   "clave": "1042330800",
+   "nombre": "Viejo héroe de Zamor",
+   "flag": 1049300337,
+   "map": [
+    60,
+    42,
+    33,
+    0
+   ],
+   "spawn": 1042330970,
+   "dist_spawn": 55.1,
+   "boss": 1042330800,
+   "defeat": 1042330800,
+   "runes": 5400,
+   "boss_msb": [
+    -127.374,
+    19.942,
+    109.081
+   ],
+   "spawn_msb": [
+    -72.78,
+    18.32,
+    96.26
+   ]
+  },
+  {
+   "clave": "1042360800",
+   "nombre": "Centinela agreste",
+   "flag": 1049300338,
+   "map": [
+    60,
+    42,
+    36,
+    0
+   ],
+   "spawn": 1042360980,
+   "dist_spawn": 48.4,
+   "boss": 1042360800,
+   "defeat": 1042360800,
+   "runes": 3200,
+   "boss_msb": [
+    -12.138,
+    88.955,
+    46.773
+   ],
+   "spawn_msb": [
+    -46.89455,
+    92.32986,
+    80.44406
+   ]
+  },
+  {
+   "clave": "1042370800",
+   "nombre": "Caballero del crisol",
+   "flag": 1049300339,
+   "map": [
+    60,
+    42,
+    37,
+    0
+   ],
+   "spawn": 1042370971,
+   "dist_spawn": 15.4,
+   "boss": 1042370800,
+   "defeat": 1042370800,
+   "runes": 2100,
+   "boss_msb": [
+    -82.45401,
+    160.516,
+    64.524
+   ],
+   "spawn_msb": [
+    -95.09195,
+    161.95116,
+    75.10464
+   ]
+  },
+  {
+   "clave": "1042380800",
+   "nombre": "Ave de la muerte",
+   "flag": 1049300340,
+   "map": [
+    60,
+    42,
+    38,
+    0
+   ],
+   "spawn": 1042380980,
+   "dist_spawn": 119.9,
+   "boss": 1042380800,
+   "defeat": 1042380800,
+   "runes": 2800,
+   "boss_msb": [
+    126.593,
+    183.082,
+    54.578
+   ],
+   "spawn_msb": [
+    10.987,
+    187.892,
+    99.515
+   ]
+  },
+  {
+   "clave": "1042380850",
+   "nombre": "Cazador de esferas",
+   "flag": 1049300341,
+   "map": [
+    60,
+    42,
+    38,
+    0
+   ],
+   "spawn": 1042380980,
+   "dist_spawn": 10,
+   "boss": 1042380850,
+   "defeat": 1042380850,
+   "runes": 2700,
+   "boss_msb": [
+    11.625,
+    188.006,
+    90.45
+   ],
+   "spawn_msb": [
+    10.987,
+    187.892,
+    99.515
+   ]
+  },
+  {
+   "clave": "1042550800",
+   "nombre": "Apóstol sacrodermo",
+   "flag": 1049300342,
+   "map": [
+    60,
+    42,
+    55,
+    0
+   ],
+   "spawn": 1042550980,
+   "dist_spawn": 6.2,
+   "boss": 1042550800,
+   "defeat": 1042550800,
+   "runes": 14000,
+   "boss_msb": [
+    -35.54,
+    968.164,
+    -38.939
+   ],
+   "spawn_msb": [
+    -38.997,
+    968.674,
+    -33.896
+   ]
+  },
+  {
+   "clave": "1043300800",
+   "nombre": "Bastardo leonino",
+   "flag": 1049300343,
+   "map": [
+    60,
+    43,
+    30,
+    0
+   ],
+   "spawn": 1043300980,
+   "dist_spawn": 9.9,
+   "boss": 1043300800,
+   "defeat": 1043300800,
+   "runes": 3800,
+   "boss_msb": [
+    -30.462,
+    0.475,
+    -7.445
+   ],
+   "spawn_msb": [
+    -30.808,
+    0.51,
+    -12.064
+   ]
+  },
+  {
+   "clave": "1043330800",
+   "nombre": "Avatar del Árbol Áureo",
+   "flag": 1049300344,
+   "map": [
+    60,
+    43,
+    33,
+    0
+   ],
+   "spawn": 1043330972,
+   "dist_spawn": 50.6,
+   "boss": 1043330800,
+   "defeat": 1043330800,
+   "runes": 3600,
+   "boss_msb": [
+    -55.753,
+    83.065,
+    18.901
+   ],
+   "spawn_msb": [
+    -50.09,
+    82.75,
+    72.31
+   ]
+  },
+  {
+   "clave": "1043360800",
+   "nombre": "Dragón volador Agheel",
+   "flag": 1049300345,
+   "map": [
+    60,
+    43,
+    36,
+    0
+   ],
+   "spawn": 1043360971,
+   "dist_spawn": 86.6,
+   "boss": 1043360800,
+   "defeat": 1043360800,
+   "runes": 5000,
+   "boss_msb": [
+    -73.89011,
+    64.98778,
+    65.08713
+   ],
+   "spawn_msb": [
+    -83.81,
+    64.72,
+    -5.6
+   ]
+  },
+  {
+   "clave": "1043370340",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300346,
+   "map": [
+    60,
+    43,
+    37,
+    0
+   ],
+   "spawn": 1043370971,
+   "dist_spawn": 47.5,
+   "boss": 1043370340,
+   "defeat": 1043370800,
+   "runes": 2400,
+   "boss_msb": [
+    66.377,
+    90.88,
+    -95.647
+   ],
+   "spawn_msb": [
+    25.533646,
+    88.18502,
+    -87.93302
+   ]
+  },
+  {
+   "clave": "1043530800",
+   "nombre": "Cazador de esferas",
+   "flag": 1049300347,
+   "map": [
+    60,
+    43,
+    53,
+    0
+   ],
+   "spawn": 1043530980,
+   "dist_spawn": 7.3,
+   "boss": 1043530800,
+   "defeat": 1043530800,
+   "runes": 20000,
+   "boss_msb": [
+    -22.266,
+    993.349,
+    0.497
+   ],
+   "spawn_msb": [
+    -6.121,
+    993.058,
+    9.477
+   ]
+  },
+  {
+   "clave": "1044320340",
+   "nombre": "Ave de la muerte",
+   "flag": 1049300348,
+   "map": [
+    60,
+    44,
+    32,
+    0
+   ],
+   "spawn": 1044320972,
+   "dist_spawn": 114.6,
+   "boss": 1044320340,
+   "defeat": 1044320800,
+   "runes": 3900,
+   "boss_msb": [
+    -110.078,
+    42.978,
+    12.02
+   ],
+   "spawn_msb": [
+    -96.04,
+    62.19,
+    119.98
+   ]
+  },
+  {
+   "clave": "1044320342",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300349,
+   "map": [
+    60,
+    44,
+    32,
+    0
+   ],
+   "spawn": 1044320972,
+   "dist_spawn": 135.2,
+   "boss": 1044320342,
+   "defeat": 1044320850,
+   "runes": 3400,
+   "boss_msb": [
+    36.034,
+    41.773,
+    98.873
+   ],
+   "spawn_msb": [
+    -96.04,
+    62.19,
+    119.98
+   ]
+  },
+  {
+   "clave": "1044350800",
+   "nombre": "Caballero sabueso Darriwil",
+   "flag": 1049300350,
+   "map": [
+    60,
+    44,
+    34,
+    0
+   ],
+   "spawn": 1044340980,
+   "dist_spawn": 179,
+   "boss": 1044350800,
+   "defeat": 1044350800,
+   "runes": 1900,
+   "boss_msb": null,
+   "spawn_msb": [
+    100.28,
+    42.3,
+    0.77
+   ]
+  },
+  {
+   "clave": "1044360800",
+   "nombre": "Lunático calabezudo",
+   "flag": 1049300351,
+   "map": [
+    60,
+    44,
+    36,
+    0
+   ],
+   "spawn": 1044360980,
+   "dist_spawn": 4.3,
+   "boss": 1044360800,
+   "defeat": 1044360800,
+   "runes": 1100,
+   "boss_msb": [
+    17.919,
+    80.799,
+    31.133
+   ],
+   "spawn_msb": [
+    17.023401,
+    80.81,
+    34.085213
+   ]
+  },
+  {
+   "clave": "1044530800",
+   "nombre": "Ave de la muerte",
+   "flag": 1049300352,
+   "map": [
+    60,
+    44,
+    53,
+    0
+   ],
+   "spawn": 1044530970,
+   "dist_spawn": 170.4,
+   "boss": 1044530800,
+   "defeat": 1043530800,
+   "runes": 29000,
+   "boss_msb": [
+    -25.278,
+    1026.065,
+    83.627
+   ],
+   "spawn_msb": [
+    -34.886,
+    987.215,
+    -89.519
+   ]
+  },
+  {
+   "clave": "1045520800",
+   "nombre": "Centinela agreste draconiano",
+   "flag": 1049300353,
+   "map": [
+    60,
+    45,
+    52,
+    0
+   ],
+   "spawn": 1045520970,
+   "dist_spawn": 43.2,
+   "boss": 1045520800,
+   "defeat": 1045520800,
+   "runes": 50000,
+   "boss_msb": [
+    27.693,
+    1023.759,
+    43.921
+   ],
+   "spawn_msb": [
+    26.09,
+    1014.522,
+    86.033
+   ]
+  },
+  {
+   "clave": "1047400800",
+   "nombre": "Avatar putrefacto",
+   "flag": 1049300354,
+   "map": [
+    60,
+    47,
+    40,
+    0
+   ],
+   "spawn": 1047400970,
+   "dist_spawn": 110.8,
+   "boss": 1047400800,
+   "defeat": 1047400800,
+   "runes": 9600,
+   "boss_msb": [
+    -102.333,
+    126.084,
+    102.548
+   ],
+   "spawn_msb": [
+    -22.97,
+    168.17,
+    37.62
+   ]
+  },
+  {
+   "clave": "1048370800",
+   "nombre": "Ekzykes, el putrefacto",
+   "flag": 1049300355,
+   "map": [
+    60,
+    48,
+    37,
+    0
+   ],
+   "spawn": 1048370980,
+   "dist_spawn": 109.3,
+   "boss": 1048370800,
+   "defeat": 1048370800,
+   "runes": 38000,
+   "boss_msb": [
+    -48.086,
+    114.951,
+    -42.666
+   ],
+   "spawn_msb": [
+    -118.569,
+    114.331,
+    40.82
+   ]
+  },
+  {
+   "clave": "1048400800",
+   "nombre": "Lunático calabezudo con martillo",
+   "flag": 1049300356,
+   "map": [
+    60,
+    48,
+    40,
+    0
+   ],
+   "spawn": 1048400980,
+   "dist_spawn": 250.2,
+   "boss": 1048400800,
+   "defeat": 1048400800,
+   "runes": 6300,
+   "boss_msb": [
+    -119.157,
+    138.418,
+    -95.785
+   ],
+   "spawn_msb": [
+    112.68,
+    114.02,
+    0.63
+   ]
+  },
+  {
+   "clave": "1048410800",
+   "nombre": "Cazador de esferas",
+   "flag": 1049300357,
+   "map": [
+    60,
+    48,
+    41,
+    0
+   ],
+   "spawn": 1048410980,
+   "dist_spawn": 18.6,
+   "boss": 1048410800,
+   "defeat": 1048410800,
+   "runes": 50000,
+   "boss_msb": [
+    -86.75,
+    225.57,
+    -69.78
+   ],
+   "spawn_msb": [
+    -86.523,
+    226.473,
+    -88.747
+   ]
+  },
+  {
+   "clave": "1048570800",
+   "nombre": "Ave del ritual fúnebre",
+   "flag": 1049300358,
+   "map": [
+    60,
+    48,
+    57,
+    0
+   ],
+   "spawn": 1048570980,
+   "dist_spawn": 209.8,
+   "boss": 1048570800,
+   "defeat": 1048570800,
+   "runes": 220000,
+   "boss_msb": [
+    -110.83,
+    1255.064,
+    109.713
+   ],
+   "spawn_msb": [
+    31.16,
+    1285.63,
+    -38.55
+   ]
+  },
+  {
+   "clave": "1049370800",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300359,
+   "map": [
+    60,
+    49,
+    37,
+    0
+   ],
+   "spawn": 1049370980,
+   "dist_spawn": 138.4,
+   "boss": 1049370800,
+   "defeat": 1049370800,
+   "runes": 8500,
+   "boss_msb": [
+    -122.259,
+    102.512,
+    -8.493
+   ],
+   "spawn_msb": [
+    2.598,
+    88.355,
+    61.241
+   ]
+  },
+  {
+   "clave": "1049370850",
+   "nombre": "Ave del ritual fúnebre",
+   "flag": 1049300360,
+   "map": [
+    60,
+    49,
+    37,
+    0
+   ],
+   "spawn": 1049370980,
+   "dist_spawn": 119.6,
+   "boss": 1049370850,
+   "defeat": 1049370850,
+   "runes": 15000,
+   "boss_msb": [
+    112.216,
+    102.135,
+    15.505
+   ],
+   "spawn_msb": [
+    2.598,
+    88.355,
+    61.241
+   ]
+  },
+  {
+   "clave": "1049380800",
+   "nombre": "Comandante O'Neil",
+   "flag": 1049300361,
+   "map": [
+    60,
+    49,
+    38,
+    0
+   ],
+   "spawn": 1049380980,
+   "dist_spawn": 4.5,
+   "boss": 1049380800,
+   "defeat": 1049380800,
+   "runes": 12000,
+   "boss_msb": [
+    -25.222,
+    65.856,
+    50.57
+   ],
+   "spawn_msb": [
+    -23.937,
+    65.913,
+    46.236
+   ]
+  },
+  {
+   "clave": "1049390800",
+   "nombre": "Monje de Nox",
+   "flag": 1049300362,
+   "map": [
+    60,
+    49,
+    39,
+    0
+   ],
+   "spawn": 1049390981,
+   "dist_spawn": 6.6,
+   "boss": 1049390800,
+   "defeat": 1049390800,
+   "runes": 6400,
+   "boss_msb": [
+    94.019,
+    83.522,
+    86.545
+   ],
+   "spawn_msb": [
+    96.935,
+    83.357,
+    80.659
+   ]
+  },
+  {
+   "clave": "1049390850",
+   "nombre": "Mago guerrero Hugues",
+   "flag": 1049300363,
+   "map": [
+    60,
+    49,
+    39,
+    0
+   ],
+   "spawn": 1049390972,
+   "dist_spawn": 54.4,
+   "boss": 1049390850,
+   "defeat": 1049390850,
+   "runes": 7800,
+   "boss_msb": [
+    -87.897,
+    164.005,
+    -8.448
+   ],
+   "spawn_msb": [
+    -106.799,
+    168.282,
+    50.252
+   ]
+  },
+  {
+   "clave": "1049520800",
+   "nombre": "Fiel de la Hoja Negra",
+   "flag": 1049300364,
+   "map": [
+    60,
+    49,
+    52,
+    0
+   ],
+   "spawn": 1049520970,
+   "dist_spawn": 95.7,
+   "boss": 1049520800,
+   "defeat": 1049520800,
+   "runes": 60000,
+   "boss_msb": [
+    -20.155,
+    1048.488,
+    58.419
+   ],
+   "spawn_msb": [
+    -29.974,
+    1033.38,
+    -39.272
+   ]
+  },
+  {
+   "clave": "1050570800",
+   "nombre": "Ave del ritual fúnebre",
+   "flag": 1049300365,
+   "map": [
+    60,
+    50,
+    57,
+    0
+   ],
+   "spawn": 1050570970,
+   "dist_spawn": 61.6,
+   "boss": 1050570800,
+   "defeat": 1050570800,
+   "runes": 77000,
+   "boss_msb": [
+    51.23,
+    1630.369,
+    -92.161
+   ],
+   "spawn_msb": [
+    110.97,
+    1635.96,
+    -39.3
+   ]
+  },
+  {
+   "clave": "1050570850",
+   "nombre": "Avatar putrefacto",
+   "flag": 1049300366,
+   "map": [
+    60,
+    50,
+    57,
+    0
+   ],
+   "spawn": 1050570970,
+   "dist_spawn": 315,
+   "boss": 1050570850,
+   "defeat": 1050570850,
+   "runes": 160000,
+   "boss_msb": [
+    -85.383,
+    1390.106,
+    -56.416
+   ],
+   "spawn_msb": [
+    110.97,
+    1635.96,
+    -39.3
+   ]
+  },
+  {
+   "clave": "1051360800",
+   "nombre": "Caballero del crisol",
+   "flag": 1049300367,
+   "map": [
+    60,
+    51,
+    36,
+    0
+   ],
+   "spawn": 1051360980,
+   "dist_spawn": 20.5,
+   "boss": 1051360800,
+   "defeat": 1051360800,
+   "runes": 16000,
+   "boss_msb": [
+    97.35,
+    105.5,
+    36.298
+   ],
+   "spawn_msb": [
+    81.68,
+    91.76,
+    17.45
+   ]
+  },
+  {
+   "clave": "1051400800",
+   "nombre": "Avatar putrefacto",
+   "flag": 1049300368,
+   "map": [
+    60,
+    51,
+    40,
+    0
+   ],
+   "spawn": 1051400970,
+   "dist_spawn": 46.7,
+   "boss": 1051400800,
+   "defeat": 1051400800,
+   "runes": 91000,
+   "boss_msb": [
+    37.409,
+    209.366,
+    70.231
+   ],
+   "spawn_msb": [
+    72.889,
+    217.812,
+    99.351
+   ]
+  },
+  {
+   "clave": "1051430800",
+   "nombre": "Fiel de la Hoja Negra",
+   "flag": 1049300369,
+   "map": [
+    60,
+    51,
+    43,
+    0
+   ],
+   "spawn": 1051430600,
+   "dist_spawn": 109.6,
+   "boss": 1051430800,
+   "defeat": 1051430800,
+   "runes": 88000,
+   "boss_msb": [
+    -12.906,
+    336.918,
+    -19.208
+   ],
+   "spawn_msb": [
+    -25.22,
+    344.32,
+    -8.68
+   ]
+  },
+  {
+   "clave": "1051570800",
+   "nombre": "Comandante Niall",
+   "flag": 1049300370,
+   "map": [
+    60,
+    51,
+    57,
+    0
+   ],
+   "spawn": 1051570983,
+   "dist_spawn": 15.8,
+   "boss": 1051570800,
+   "defeat": 1051570800,
+   "runes": 90000,
+   "boss_msb": [
+    78.018,
+    1632,
+    210.249
+   ],
+   "spawn_msb": [
+    84.3,
+    1632.02,
+    195.66
+   ]
+  },
+  {
+   "clave": "1052380800",
+   "nombre": "Radahn, Azote de las Estrellas",
+   "flag": 1049300371,
+   "map": [
+    60,
+    52,
+    38,
+    0
+   ],
+   "spawn": 1052380980,
+   "dist_spawn": 5.4,
+   "boss": 1052380800,
+   "defeat": 1252380800,
+   "runes": 70000,
+   "boss_msb": null,
+   "spawn_msb": [
+    -44.111,
+    33.664,
+    -43.941
+   ]
+  },
+  {
+   "clave": "1052410800",
+   "nombre": "Dragón volador Greyll",
+   "flag": 1049300372,
+   "map": [
+    60,
+    52,
+    41,
+    0
+   ],
+   "spawn": 1052410980,
+   "dist_spawn": 168.7,
+   "boss": 1052410800,
+   "defeat": 1052410800,
+   "runes": 80000,
+   "boss_msb": [
+    -113.588,
+    248.473,
+    137.471
+   ],
+   "spawn_msb": [
+    22.522,
+    219.021,
+    7.942
+   ]
+  },
+  {
+   "clave": "1052410850",
+   "nombre": "Caballería nocturna",
+   "flag": 1049300373,
+   "map": [
+    60,
+    52,
+    41,
+    0
+   ],
+   "spawn": 1052410980,
+   "dist_spawn": 108.7,
+   "boss": 1052410850,
+   "defeat": 1052410850,
+   "runes": 42000,
+   "boss_msb": [
+    8.289,
+    221.357,
+    115.716
+   ],
+   "spawn_msb": [
+    22.522,
+    219.021,
+    7.942
+   ]
+  },
+  {
+   "clave": "1052520800",
+   "nombre": "Gigante de fuego",
+   "flag": 1049300374,
+   "map": [
+    60,
+    52,
+    52,
+    0
+   ],
+   "spawn": 1052523800,
+   "dist_spawn": 27.9,
+   "boss": 1052520800,
+   "defeat": 1052520800,
+   "runes": 180000,
+   "boss_msb": null,
+   "spawn_msb": [
+    80.95,
+    1850.11,
+    70.03
+   ]
+  },
+  {
+   "clave": "1052560800",
+   "nombre": "Avatar del Árbol Áureo",
+   "flag": 1049300375,
+   "map": [
+    60,
+    52,
+    56,
+    0
+   ],
+   "spawn": 1052560980,
+   "dist_spawn": 219.7,
+   "boss": 1052560800,
+   "defeat": 1052560800,
+   "runes": 70000,
+   "boss_msb": [
+    -44.022,
+    1674.29,
+    69.736
+   ],
+   "spawn_msb": [
+    44.59,
+    1666.62,
+    -123.33
+   ]
+  },
+  {
+   "clave": "1053560800",
+   "nombre": "Caballero Vyke de la Mesa Redonda",
+   "flag": 1049300376,
+   "map": [
+    60,
+    53,
+    56,
+    0
+   ],
+   "spawn": 1053560970,
+   "dist_spawn": 79.2,
+   "boss": 1053560800,
+   "defeat": 1053560800,
+   "runes": 75000,
+   "boss_msb": [
+    -52.497,
+    1668.431,
+    -116.306
+   ],
+   "spawn_msb": [
+    -54.31,
+    1661.12,
+    -37.44
+   ]
+  },
+  {
+   "clave": "1248550800",
+   "nombre": "Caballería nocturna con guja",
+   "flag": 1049300377,
+   "map": [
+    60,
+    48,
+    55,
+    0
+   ],
+   "spawn": 1048550970,
+   "dist_spawn": 215.8,
+   "boss": 1248550800,
+   "defeat": 1248550800,
+   "runes": 84000,
+   "boss_msb": null,
+   "spawn_msb": [
+    -106.648,
+    1266.081,
+    -19.112
+   ]
+  },
+  {
+   "clave": "2044450800",
+   "nombre": "Romina, la santa del brote",
+   "flag": 1049300378,
+   "map": [
+    61,
+    44,
+    45,
+    0
+   ],
+   "spawn": 2044450981,
+   "dist_spawn": 16.6,
+   "boss": 2044450800,
+   "defeat": 2044450800,
+   "runes": 380000,
+   "boss_msb": [
+    -56.047,
+    624.992,
+    125.786
+   ],
+   "spawn_msb": [
+    -55.987,
+    624.984,
+    126.262
+   ]
+  },
+  {
+   "clave": "2046380800",
+   "nombre": "Bailarina de Ranah",
+   "flag": 1049300379,
+   "map": [
+    61,
+    46,
+    38,
+    0
+   ],
+   "spawn": 2046380970,
+   "dist_spawn": 46.3,
+   "boss": 2046380800,
+   "defeat": 2046380800,
+   "runes": 80000,
+   "boss_msb": [
+    -22.869,
+    8.449,
+    -96.832
+   ],
+   "spawn_msb": [
+    4.307,
+    19.931,
+    -62.515
+   ]
+  },
+  {
+   "clave": "2046400800",
+   "nombre": "Marigga, la reina semihumana",
+   "flag": 1049300380,
+   "map": [
+    61,
+    46,
+    40,
+    0
+   ],
+   "spawn": 2046400970,
+   "dist_spawn": 113.1,
+   "boss": 2046400800,
+   "defeat": 2046400800,
+   "runes": 100000,
+   "boss_msb": [
+    -69.565,
+    2.583,
+    -12.899
+   ],
+   "spawn_msb": [
+    31.987,
+    14.658,
+    -55.89
+   ]
+  },
+  {
+   "clave": "2046410800",
+   "nombre": "Caballero de la prisión solitaria",
+   "flag": 1049300381,
+   "map": [
+    61,
+    46,
+    41,
+    0
+   ],
+   "spawn": 2046410970,
+   "dist_spawn": 78.7,
+   "boss": 2046410800,
+   "defeat": 2046410800,
+   "runes": 70000,
+   "boss_msb": [
+    -177.908,
+    317.649,
+    54.747
+   ],
+   "spawn_msb": [
+    -99.97,
+    328.29,
+    54.91
+   ]
+  },
+  {
+   "clave": "2046450800",
+   "nombre": "Oso Rojo",
+   "flag": 1049300382,
+   "map": [
+    61,
+    46,
+    45,
+    0
+   ],
+   "spawn": 2046450970,
+   "dist_spawn": 61.8,
+   "boss": 2046450800,
+   "defeat": 2046450800,
+   "runes": 80000,
+   "boss_msb": [
+    108.487,
+    395.904,
+    -80.286
+   ],
+   "spawn_msb": [
+    81.406,
+    409.925,
+    -27.414
+   ]
+  },
+  {
+   "clave": "2046460800",
+   "nombre": "Bestia divina León Danzante",
+   "flag": 1049300383,
+   "map": [
+    61,
+    46,
+    46,
+    0
+   ],
+   "spawn": 2046464500,
+   "dist_spawn": 140.1,
+   "boss": 2046460800,
+   "defeat": 2046460800,
+   "runes": 180000,
+   "boss_msb": [
+    -62.724,
+    536,
+    -40.748
+   ],
+   "spawn_msb": [
+    -91.351,
+    520.185,
+    95.526
+   ]
+  },
+  {
+   "clave": "2047450800",
+   "nombre": "Caballero Negro Garrew",
+   "flag": 1049300384,
+   "map": [
+    61,
+    47,
+    44,
+    0
+   ],
+   "spawn": 2047440970,
+   "dist_spawn": 90,
+   "boss": 2047450800,
+   "defeat": 2047450800,
+   "runes": 80000,
+   "boss_msb": null,
+   "spawn_msb": [
+    -94.996,
+    315.72,
+    65.861
+   ]
+  },
+  {
+   "clave": "2048380850",
+   "nombre": "Dragón de llama espectral",
+   "flag": 1049300385,
+   "map": [
+    61,
+    48,
+    39,
+    0
+   ],
+   "spawn": 2048390980,
+   "dist_spawn": 56.1,
+   "boss": 2048380850,
+   "defeat": 2048380850,
+   "runes": 120000,
+   "boss_msb": null,
+   "spawn_msb": [
+    -98.416,
+    50.439,
+    -39.208
+   ]
+  },
+  {
+   "clave": "2048440800",
+   "nombre": "Rellana, Caballera de Luna Gemela",
+   "flag": 1049300386,
+   "map": [
+    61,
+    48,
+    44,
+    0
+   ],
+   "spawn": 2048440980,
+   "dist_spawn": 15,
+   "boss": 2048440800,
+   "defeat": 2048440800,
+   "runes": 240000,
+   "boss_msb": [
+    -55.456,
+    427.021,
+    47.943
+   ],
+   "spawn_msb": [
+    -56.666,
+    427,
+    35.598
+   ]
+  },
+  {
+   "clave": "2049430800",
+   "nombre": "Dragón de llama espectral",
+   "flag": 1049300387,
+   "map": [
+    61,
+    49,
+    43,
+    0
+   ],
+   "spawn": 2049430980,
+   "dist_spawn": 114.4,
+   "boss": 2049430800,
+   "defeat": 2049430800,
+   "runes": 120000,
+   "boss_msb": [
+    -8.795,
+    379.007,
+    116.912
+   ],
+   "spawn_msb": [
+    -19.417,
+    386.176,
+    3.278
+   ]
+  },
+  {
+   "clave": "2049430850",
+   "nombre": "Caballero Negro Edredd",
+   "flag": 1049300388,
+   "map": [
+    61,
+    49,
+    43,
+    0
+   ],
+   "spawn": 2049430982,
+   "dist_spawn": 19.9,
+   "boss": 2049430850,
+   "defeat": 2049430850,
+   "runes": 80000,
+   "boss_msb": [
+    68.875,
+    396.466,
+    -95.656
+   ],
+   "spawn_msb": [
+    81.13,
+    396.01,
+    -111.35
+   ]
+  },
+  {
+   "clave": "2049450800",
+   "nombre": "Ralva, el Gran Oso Rojo",
+   "flag": 1049300389,
+   "map": [
+    61,
+    49,
+    45,
+    0
+   ],
+   "spawn": 2049450971,
+   "dist_spawn": 77.3,
+   "boss": 2049450800,
+   "defeat": 2049450800,
+   "runes": 180000,
+   "boss_msb": [
+    75.687,
+    396.063,
+    113.126
+   ],
+   "spawn_msb": [
+    -13.628,
+    402.53,
+    114.321
+   ]
+  },
+  {
+   "clave": "2049480800",
+   "nombre": "Comandante Gaius",
+   "flag": 1049300390,
+   "map": [
+    61,
+    49,
+    48,
+    0
+   ],
+   "spawn": 2049480981,
+   "dist_spawn": 74.4,
+   "boss": 2049480800,
+   "defeat": 2049480800,
+   "runes": 230000,
+   "boss_msb": [
+    80.913,
+    579.975,
+    6.875
+   ],
+   "spawn_msb": [
+    42.61,
+    584.01,
+    -56.74
+   ]
+  },
+  {
+   "clave": "2050480800",
+   "nombre": "",
+   "flag": 1049300391,
+   "map": [
+    61,
+    50,
+    48,
+    0
+   ],
+   "spawn": 2050480981,
+   "dist_spawn": 25.7,
+   "boss": 2050480800,
+   "defeat": 2050480800,
+   "runes": 260000,
+   "boss_msb": [
+    -112.39,
+    182.56,
+    17.66
+   ],
+   "spawn_msb": [
+    -41.034,
+    190,
+    110.539
+   ]
+  },
+  {
+   "clave": "2050480860",
+   "nombre": "Centinela agreste",
+   "flag": 1049300392,
+   "map": [
+    61,
+    50,
+    48,
+    0
+   ],
+   "spawn": 2050480980,
+   "dist_spawn": 172,
+   "boss": 2050480860,
+   "defeat": 2050480860,
+   "runes": 120000,
+   "boss_msb": [
+    47.62,
+    541.437,
+    -63.283
+   ],
+   "spawn_msb": [
+    -121.84,
+    565.11,
+    -80.84
+   ]
+  },
+  {
+   "clave": "2051440800",
+   "nombre": "Rakshasa",
+   "flag": 1049300393,
+   "map": [
+    61,
+    51,
+    44,
+    0
+   ],
+   "spawn": 2051440970,
+   "dist_spawn": 44.8,
+   "boss": 2051440800,
+   "defeat": 2051440800,
+   "runes": 90000,
+   "boss_msb": [
+    2.973,
+    162.599,
+    93.062
+   ],
+   "spawn_msb": [
+    -37.57,
+    174.86,
+    88.2
+   ]
+  },
+  {
+   "clave": "2051450720",
+   "nombre": "Conde Ymir, madre de Dedos",
+   "flag": 1049300394,
+   "map": [
+    61,
+    51,
+    45,
+    0
+   ],
+   "spawn": 2051450980,
+   "dist_spawn": 57.1,
+   "boss": 2051450720,
+   "defeat": 2051450800,
+   "runes": 210000,
+   "boss_msb": [
+    -94.9,
+    472.17,
+    -6.64
+   ],
+   "spawn_msb": [
+    -85.54,
+    472.02,
+    50.71
+   ]
+  },
+  {
+   "clave": "2052400800",
+   "nombre": "Dragón de pico escarpado",
+   "flag": 1049300395,
+   "map": [
+    61,
+    52,
+    40,
+    0
+   ],
+   "spawn": 2052400980,
+   "dist_spawn": 190.7,
+   "boss": 2052400800,
+   "defeat": 2052400800,
+   "runes": 120000,
+   "boss_msb": [
+    -64.285,
+    288.996,
+    -65.889
+   ],
+   "spawn_msb": [
+    -184.705,
+    256.729,
+    71.167
+   ]
+  },
+  {
+   "clave": "2052430800",
+   "nombre": "Jori, inquisidor anciano",
+   "flag": 1049300396,
+   "map": [
+    61,
+    52,
+    43,
+    0
+   ],
+   "spawn": 2052430980,
+   "dist_spawn": 10.2,
+   "boss": 2052430800,
+   "defeat": 2052430800,
+   "runes": 260000,
+   "boss_msb": [
+    -67.749,
+    -512.202,
+    62.5
+   ],
+   "spawn_msb": [
+    -68.446,
+    -512.197,
+    57.733
+   ]
+  },
+  {
+   "clave": "2052480800",
+   "nombre": "Bestia de la Estrella fugaz",
+   "flag": 1049300397,
+   "map": [
+    61,
+    52,
+    48,
+    0
+   ],
+   "spawn": 2052480970,
+   "dist_spawn": 74.3,
+   "boss": 2052480800,
+   "defeat": 2052480800,
+   "runes": 170000,
+   "boss_msb": [
+    39.212,
+    478.27,
+    116.998
+   ],
+   "spawn_msb": [
+    -8.04,
+    479.86,
+    59.7
+   ]
+  },
+  {
+   "clave": "2054390800",
+   "nombre": "Bayle el Temible",
+   "flag": 1049300398,
+   "map": [
+    61,
+    54,
+    39,
+    0
+   ],
+   "spawn": 2054390980,
+   "dist_spawn": 102.4,
+   "boss": 2054390800,
+   "defeat": 2054390800,
+   "runes": 490000,
+   "boss_msb": [
+    132.75511,
+    954.324,
+    12.277872
+   ],
+   "spawn_msb": [
+    41.843,
+    955.8,
+    100.564
+   ]
+  },
+  {
+   "clave": "2054390850",
+   "nombre": "Dragón antiguo Senessax",
+   "flag": 1049300399,
+   "map": [
+    61,
+    54,
+    39,
+    0
+   ],
+   "spawn": 2054390970,
+   "dist_spawn": 107.4,
+   "boss": 2054390850,
+   "defeat": 2054390850,
+   "runes": 200000,
+   "boss_msb": [
+    -72.883,
+    511.943,
+    19.442
+   ],
+   "spawn_msb": [
+    -175.13,
+    507.158,
+    -12.975
+   ]
+  }
+ ]
+}

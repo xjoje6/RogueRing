@@ -1,0 +1,2311 @@
+{
+ "_nota": "Parejas posibles del cooperativo (tools/mezclas_coop.py): el mod sortea de aquí al empezar cada acto. No editar a mano.",
+ "encounters": [
+  {
+   "id": "mezcla3_39701942_48100150",
+   "name": "Beastman of Farum Azula (Cleaver) and Erdtree Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_48100150",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    }
+   ],
+   "vida": 0.89
+  },
+  {
+   "id": "mezcla3_39701942_34000952",
+   "name": "Beastman of Farum Azula (Cleaver) and Putrid Grave Warden Duelist",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_34000952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_39701942_21002922",
+   "name": "Beastman of Farum Azula (Cleaver) and Alecto, Black Knife Ringleader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_21002922",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_39701942_71000950",
+   "name": "Beastman of Farum Azula (Cleaver) and Ancient Hero of Zamor",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_71000950",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_39701942_48110042",
+   "name": "Beastman of Farum Azula (Cleaver) and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_48110042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    }
+   ],
+   "vida": 0.89
+  },
+  {
+   "id": "mezcla3_39701942_34601952",
+   "name": "Beastman of Farum Azula (Cleaver) and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_34601952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ],
+   "vida": 1.09
+  },
+  {
+   "id": "mezcla3_39701942_48110052",
+   "name": "Beastman of Farum Azula (Cleaver) and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_48110052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 4811,
+     "npc": 48110052,
+     "think": 48110952
+    }
+   ],
+   "vida": 0.89
+  },
+  {
+   "id": "mezcla3_39701942_51600000",
+   "name": "Beastman of Farum Azula (Cleaver) and Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_51600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ],
+   "vida": 1.17
+  },
+  {
+   "id": "mezcla3_39701942_58400000",
+   "name": "Beastman of Farum Azula (Cleaver) and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ],
+   "vida": 1.24
+  },
+  {
+   "id": "mezcla3_39701942_50400000",
+   "name": "Beastman of Farum Azula (Cleaver) and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_39701942_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39701942,
+     "think": 39701200
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_48100150_34000952",
+   "name": "Erdtree Avatar and Putrid Grave Warden Duelist",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48100150_34000952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    },
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    }
+   ],
+   "vida": 0.7
+  },
+  {
+   "id": "mezcla3_48100150_21002922",
+   "name": "Erdtree Avatar and Alecto, Black Knife Ringleader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48100150_21002922",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    },
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    }
+   ],
+   "vida": 0.69
+  },
+  {
+   "id": "mezcla3_34000952_21002922",
+   "name": "Putrid Grave Warden Duelist and Alecto, Black Knife Ringleader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_21002922",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    }
+   ],
+   "vida": 0.81
+  },
+  {
+   "id": "mezcla3_34000952_71000950",
+   "name": "Putrid Grave Warden Duelist and Ancient Hero of Zamor",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_71000950",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    }
+   ],
+   "vida": 0.78
+  },
+  {
+   "id": "mezcla3_34000952_30500051",
+   "name": "Putrid Grave Warden Duelist and Commander Niall",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_30500051",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    }
+   ],
+   "vida": 0.51
+  },
+  {
+   "id": "mezcla3_34000952_48110042",
+   "name": "Putrid Grave Warden Duelist and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_48110042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    }
+   ],
+   "vida": 0.7
+  },
+  {
+   "id": "mezcla3_34000952_34601952",
+   "name": "Putrid Grave Warden Duelist and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_34601952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_34000952_35600042",
+   "name": "Putrid Grave Warden Duelist and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.64
+  },
+  {
+   "id": "mezcla3_34000952_48110052",
+   "name": "Putrid Grave Warden Duelist and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_48110052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 4811,
+     "npc": 48110052,
+     "think": 48110952
+    }
+   ],
+   "vida": 0.7
+  },
+  {
+   "id": "mezcla3_34000952_51600000",
+   "name": "Putrid Grave Warden Duelist and Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_51600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_34000952_58400000",
+   "name": "Putrid Grave Warden Duelist and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_34000952_50400000",
+   "name": "Putrid Grave Warden Duelist and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 0.99
+  },
+  {
+   "id": "mezcla3_21002922_71000950",
+   "name": "Alecto, Black Knife Ringleader and Ancient Hero of Zamor",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_71000950",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    }
+   ],
+   "vida": 0.77
+  },
+  {
+   "id": "mezcla3_21002922_30500051",
+   "name": "Alecto, Black Knife Ringleader and Commander Niall",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_30500051",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    }
+   ],
+   "vida": 0.51
+  },
+  {
+   "id": "mezcla3_21002922_48110042",
+   "name": "Alecto, Black Knife Ringleader and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_48110042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    }
+   ],
+   "vida": 0.69
+  },
+  {
+   "id": "mezcla3_21002922_34601952",
+   "name": "Alecto, Black Knife Ringleader and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_34601952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_21002922_35600042",
+   "name": "Alecto, Black Knife Ringleader and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.63
+  },
+  {
+   "id": "mezcla3_21002922_48110052",
+   "name": "Alecto, Black Knife Ringleader and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_48110052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 4811,
+     "npc": 48110052,
+     "think": 48110952
+    }
+   ],
+   "vida": 0.69
+  },
+  {
+   "id": "mezcla3_21002922_51600000",
+   "name": "Alecto, Black Knife Ringleader and Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_51600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_21002922_58400000",
+   "name": "Alecto, Black Knife Ringleader and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_21002922_50400000",
+   "name": "Alecto, Black Knife Ringleader and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 0.98
+  },
+  {
+   "id": "mezcla3_71000950_30500051",
+   "name": "Ancient Hero of Zamor and Commander Niall",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_30500051",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    }
+   ],
+   "vida": 0.5
+  },
+  {
+   "id": "mezcla3_71000950_34601952",
+   "name": "Ancient Hero of Zamor and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_34601952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_71000950_35600042",
+   "name": "Ancient Hero of Zamor and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.61
+  },
+  {
+   "id": "mezcla3_71000950_51600000",
+   "name": "Ancient Hero of Zamor and Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_51600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_71000950_58400000",
+   "name": "Ancient Hero of Zamor and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_71000950_50400000",
+   "name": "Ancient Hero of Zamor and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 0.93
+  },
+  {
+   "id": "mezcla3_30500051_35600042",
+   "name": "Commander Niall and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_30500051_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.43
+  },
+  {
+   "id": "mezcla3_34601952_51600000",
+   "name": "Misbegotten Crusader and Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34601952_51600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ],
+   "vida": 1.13
+  },
+  {
+   "id": "mezcla3_34601952_58400000",
+   "name": "Misbegotten Crusader and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34601952_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ],
+   "vida": 1.19
+  },
+  {
+   "id": "mezcla3_34601952_50400000",
+   "name": "Misbegotten Crusader and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34601952_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_35600042_50400000",
+   "name": "Godskin Apostle and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_35600042_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 0.73
+  },
+  {
+   "id": "mezcla3_51600000_58400000",
+   "name": "Fire Knight and Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_51600000_58400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ],
+   "vida": 1.29
+  },
+  {
+   "id": "mezcla3_51600000_50400000",
+   "name": "Fire Knight and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_51600000_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ]
+  },
+  {
+   "id": "mezcla3_58400000_50400000",
+   "name": "Black Knight and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_58400000_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 1.04
+  },
+  {
+   "id": "mezcla3_47701242_50400000",
+   "name": "Black Blade Kindred and Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_47701242_50400000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47701242,
+     "think": 47706900
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ],
+   "vida": 0.81,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_49110052_57800000",
+   "name": "Great Wyrm Theodorix and Runebear",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_49110052_57800000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4911,
+     "npc": 49110052,
+     "think": 49100952
+    },
+    {
+     "chr": 5780,
+     "npc": 57800000,
+     "think": 57800000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.34
+  },
+  {
+   "id": "mezcla3_71000950_49801052",
+   "name": "Ancient Hero of Zamor and Death Rite Bird",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_49801052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 4980,
+     "npc": 49801052,
+     "think": 49800100
+    }
+   ],
+   "vida": 0.54,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_48110052_59600000",
+   "name": "Putrid Avatar and Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48110052_59600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4811,
+     "npc": 48110052,
+     "think": 48110952
+    },
+    {
+     "chr": 5960,
+     "npc": 59600000,
+     "think": 59600000
+    }
+   ],
+   "vida": 0.47,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_47700250_35600042",
+   "name": "Black Blade Kindred and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_47700250_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47700250,
+     "think": 47705950
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.56,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_48110042_49110052",
+   "name": "Putrid Avatar and Great Wyrm Theodorix",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48110042_49110052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    },
+    {
+     "chr": 4911,
+     "npc": 49110052,
+     "think": 49100952
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.4
+  },
+  {
+   "id": "mezcla3_47701242_48110042",
+   "name": "Black Blade Kindred and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_47701242_48110042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47701242,
+     "think": 47706900
+    },
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    }
+   ],
+   "vida": 0.6,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_49801052_59600000",
+   "name": "Death Rite Bird and Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_49801052_59600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4980,
+     "npc": 49801052,
+     "think": 49800100
+    },
+    {
+     "chr": 5960,
+     "npc": 59600000,
+     "think": 59600000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.41
+  },
+  {
+   "id": "mezcla3_46400942_34000952",
+   "name": "Putrid Tree Spirit and Putrid Grave Warden Duelist",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_46400942_34000952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4640,
+     "npc": 46400942,
+     "think": 46400842
+    },
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    }
+   ],
+   "vida": 0.53,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_30500051_59600000",
+   "name": "Commander Niall and Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_30500051_59600000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    },
+    {
+     "chr": 5960,
+     "npc": 59600000,
+     "think": 59600000
+    }
+   ],
+   "vida": 0.38,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_71000950_46200952",
+   "name": "Ancient Hero of Zamor and Astel, Stars of Darkness",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_71000950_46200952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000950,
+     "think": 71000950
+    },
+    {
+     "chr": 4620,
+     "npc": 46200952,
+     "think": 46200200
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.51
+  },
+  {
+   "id": "mezcla3_48100150_49110052",
+   "name": "Erdtree Avatar and Great Wyrm Theodorix",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48100150_49110052",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    },
+    {
+     "chr": 4911,
+     "npc": 49110052,
+     "think": 49100952
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.4
+  },
+  {
+   "id": "mezcla3_46400942_49801050",
+   "name": "Putrid Tree Spirit and Death Rite Bird",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_46400942_49801050",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4640,
+     "npc": 46400942,
+     "think": 46400842
+    },
+    {
+     "chr": 4980,
+     "npc": 49801050,
+     "think": 49800950
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.41
+  },
+  {
+   "id": "mezcla3_48100150_34601952",
+   "name": "Erdtree Avatar and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48100150_34601952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ],
+   "vida": 0.87,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_46400942_35600042",
+   "name": "Putrid Tree Spirit and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_46400942_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4640,
+     "npc": 46400942,
+     "think": 46400842
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.44,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_21002922_46200952",
+   "name": "Alecto, Black Knife Ringleader and Astel, Stars of Darkness",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_21002922_46200952",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 4620,
+     "npc": 46200952,
+     "think": 46200200
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.52
+  },
+  {
+   "id": "mezcla3_48100150_35600042",
+   "name": "Erdtree Avatar and Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48100150_35600042",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100150,
+     "think": 48100000
+    },
+    {
+     "chr": 3560,
+     "npc": 35600042,
+     "think": 35600942
+    }
+   ],
+   "vida": 0.56,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_34000952_57800000",
+   "name": "Putrid Grave Warden Duelist and Runebear",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_34000952_57800000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000952,
+     "think": 34000010
+    },
+    {
+     "chr": 5780,
+     "npc": 57800000,
+     "think": 57800000
+    }
+   ],
+   "vida": 0.54,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_46200952_57900000",
+   "name": "Astel, Stars of Darkness and Guardian Golem",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_46200952_57900000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4620,
+     "npc": 46200952,
+     "think": 46200200
+    },
+    {
+     "chr": 5790,
+     "npc": 57900000,
+     "think": 57900000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.3
+  },
+  {
+   "id": "mezcla3_30500051_57800000",
+   "name": "Commander Niall and Runebear",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_30500051_57800000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    },
+    {
+     "chr": 5780,
+     "npc": 57800000,
+     "think": 57800000
+    }
+   ],
+   "vida": 0.39,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_30500051_57900000",
+   "name": "Commander Niall and Guardian Golem",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_30500051_57900000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    },
+    {
+     "chr": 5790,
+     "npc": 57900000,
+     "think": 57900000
+    }
+   ],
+   "vida": 0.3,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_50200087_53000082",
+   "name": "Putrescent Knight and Rellana, Twin Moon Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_50200087_53000082",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    },
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    }
+   ],
+   "vida": 0.69
+  },
+  {
+   "id": "mezcla3_53000082_50300094",
+   "name": "Rellana, Twin Moon Knight and Romina, Saint of the Bud",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_53000082_50300094",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    },
+    {
+     "chr": 5030,
+     "npc": 50300094,
+     "think": 50300000
+    }
+   ],
+   "vida": 0.59
+  },
+  {
+   "id": "mezcla3_53000082_50200087",
+   "name": "Rellana, Twin Moon Knight and Putrescent Knight: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_53000082_50200087",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    },
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    }
+   ],
+   "vida": 0.69
+  },
+  {
+   "id": "mezcla3_53000082_32500000",
+   "name": "Rellana, Twin Moon Knight and Draconic Tree Sentinel",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_53000082_32500000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    },
+    {
+     "chr": 3250,
+     "npc": 32500000,
+     "think": 32500000
+    }
+   ],
+   "vida": 0.65
+  },
+  {
+   "id": "mezcla3_63101093_58200990",
+   "name": "Fallingstar Beast and Ralva the Great Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_63101093_58200990",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6310,
+     "npc": 63101093,
+     "think": 63100930
+    },
+    {
+     "chr": 5820,
+     "npc": 58200990,
+     "think": 58200000
+    }
+   ],
+   "vida": 0.7,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52100094_50300094",
+   "name": "Divine Beast Dancing Lion and Romina, Saint of the Bud",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52100094_50300094",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5210,
+     "npc": 52100094,
+     "think": 52100010
+    },
+    {
+     "chr": 5030,
+     "npc": 50300094,
+     "think": 50300000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.64
+  },
+  {
+   "id": "mezcla3_58200990_50200087",
+   "name": "Ralva the Great Red Bear and Putrescent Knight: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_58200990_50200087",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5820,
+     "npc": 58200990,
+     "think": 58200000
+    },
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    }
+   ],
+   "vida": 0.72,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_62601084_52300396",
+   "name": "Death Rite Bird and Scadutree Avatar",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_62601084_52300396",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6260,
+     "npc": 62601084,
+     "think": 62600900
+    },
+    {
+     "chr": 5230,
+     "npc": 52300396,
+     "think": 52300000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.89
+  },
+  {
+   "id": "mezcla3_63101093_50200087",
+   "name": "Fallingstar Beast and Putrescent Knight: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_63101093_50200087",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6310,
+     "npc": 63101093,
+     "think": 63100930
+    },
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    }
+   ],
+   "vida": 0.86,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52300396_52100094",
+   "name": "Scadutree Avatar and Divine Beast Dancing Lion",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52300396_52100094",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5230,
+     "npc": 52300396,
+     "think": 52300000
+    },
+    {
+     "chr": 5210,
+     "npc": 52100094,
+     "think": 52100010
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.92
+  },
+  {
+   "id": "mezcla3_58200095_62601084",
+   "name": "Rugalea the Great Red Bear and Death Rite Bird",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_58200095_62601084",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5820,
+     "npc": 58200095,
+     "think": 58200000
+    },
+    {
+     "chr": 6260,
+     "npc": 62601084,
+     "think": 62600900
+    }
+   ],
+   "vida": 0.62,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_62601084_50200087",
+   "name": "Death Rite Bird and Putrescent Knight: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_62601084_50200087",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6260,
+     "npc": 62601084,
+     "think": 62600900
+    },
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    }
+   ],
+   "vida": 0.74,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_63101093_50300094",
+   "name": "Fallingstar Beast and Romina, Saint of the Bud",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_63101093_50300094",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6310,
+     "npc": 63101093,
+     "think": 63100930
+    },
+    {
+     "chr": 5030,
+     "npc": 50300094,
+     "think": 50300000
+    }
+   ],
+   "vida": 0.7,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52300396_53000082",
+   "name": "Scadutree Avatar and Rellana, Twin Moon Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52300396_53000082",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5230,
+     "npc": 52300396,
+     "think": 52300000
+    },
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    }
+   ],
+   "vida": 0.82,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_50300094_32500000",
+   "name": "Romina, Saint of the Bud and Draconic Tree Sentinel",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_50300094_32500000",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5030,
+     "npc": 50300094,
+     "think": 50300000
+    },
+    {
+     "chr": 3250,
+     "npc": 32500000,
+     "think": 32500000
+    }
+   ],
+   "vida": 0.68,
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52100094_53000082",
+   "name": "Divine Beast Dancing Lion and Rellana, Twin Moon Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52100094_53000082",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5210,
+     "npc": 52100094,
+     "think": 52100010
+    },
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    }
+   ],
+   "arena": "grande",
+   "vida": 0.61
+  },
+  {
+   "id": "mezcla3_50000092_45200072",
+   "name": "Commander Gaius and Dragonlord Placidusax",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_50000092_45200072",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5000,
+     "npc": 50000092,
+     "think": 50000010
+    },
+    {
+     "chr": 4520,
+     "npc": 45200072,
+     "think": 45200000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_50000092_48000068",
+   "name": "Commander Gaius and Mohg, Lord of Blood",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_50000092_48000068",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5000,
+     "npc": 50000092,
+     "think": 50000010
+    },
+    {
+     "chr": 4800,
+     "npc": 48000068,
+     "think": 48000000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52000097_48000068",
+   "name": "Metyr, Mother of Fingers and Mohg, Lord of Blood",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52000097_48000068",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5200,
+     "npc": 52000097,
+     "think": 52000000
+    },
+    {
+     "chr": 4800,
+     "npc": 48000068,
+     "think": 48000000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_52000097_45200072",
+   "name": "Metyr, Mother of Fingers and Dragonlord Placidusax",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_52000097_45200072",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5200,
+     "npc": 52000097,
+     "think": 52000000
+    },
+    {
+     "chr": 4520,
+     "npc": 45200072,
+     "think": 45200000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_50000092_52000097",
+   "name": "Commander Gaius and Metyr, Mother of Fingers",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_50000092_52000097",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5000,
+     "npc": 50000092,
+     "think": 50000010
+    },
+    {
+     "chr": 5200,
+     "npc": 52000097,
+     "think": 52000000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "mezcla3_48000068_45200072",
+   "name": "Mohg, Lord of Blood and Dragonlord Placidusax",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "mezcla3_48000068_45200072",
+    "mezcla"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4800,
+     "npc": 48000068,
+     "think": 48000000
+    },
+    {
+     "chr": 4520,
+     "npc": 45200072,
+     "think": 45200000
+    }
+   ],
+   "arena": "grande"
+  }
+ ]
+}

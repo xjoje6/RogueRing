@@ -1,0 +1,462 @@
+{
+ "_nota": "Dúos del acto 2 para las runs de cooperativo (docs/LISTAS_Y_COMBATES.md).",
+ "encounters": [
+  {
+   "id": "coop2_normal_0_guerrero_bastardo_y_caballero",
+   "name": "Misbegotten Warrior and Crucible Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_0_guerrero_bastardo_y_caballero"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3460,
+     "npc": 34600930,
+     "think": 34600900
+    },
+    {
+     "chr": 2500,
+     "npc": 25000941,
+     "think": 25000040
+    }
+   ],
+   "vida": 0.81
+  },
+  {
+   "id": "coop2_normal_1_reinas_semihumanas",
+   "name": "Demi-Human Queen Margot and Demi-Human Queen Maggie",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_1_reinas_semihumanas"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4130,
+     "npc": 41301932,
+     "think": 41301000
+    },
+    {
+     "chr": 4130,
+     "npc": 41300032,
+     "think": 41300000
+    }
+   ],
+   "vida": 0.57,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_normal_2_podredumbre_avatar_y_esp_ritu",
+   "name": "Putrid Avatar and Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_2_podredumbre_avatar_y_esp_ritu"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4811,
+     "npc": 48110040,
+     "think": 48110040
+    },
+    {
+     "chr": 4640,
+     "npc": 46400007,
+     "think": 46400007
+    }
+   ],
+   "vida": 0.3,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_normal_3_duelistas_guardianes_de_las_tu",
+   "name": "Two Grave Warden Duelists",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_3_duelistas_guardianes_de_las_tu"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34001133,
+     "think": 34001010
+    },
+    {
+     "chr": 3400,
+     "npc": 34001110,
+     "think": 34001010
+    }
+   ],
+   "vida": 0.63
+  },
+  {
+   "id": "coop2_normal_4_caballero_sabueso_y_elemer",
+   "name": "Bloodhound Knight and Elemer of the Briar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_4_caballero_sabueso_y_elemer"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4290,
+     "npc": 42900920,
+     "think": 42900000
+    },
+    {
+     "chr": 3100,
+     "npc": 31000931,
+     "think": 31000931
+    }
+   ],
+   "vida": 0.63
+  },
+  {
+   "id": "coop2_normal_5_viejos_h_roes_de_zamor",
+   "name": "Two Ancient Hero of Zamors",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_normal_5_viejos_h_roes_de_zamor"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 7100,
+     "npc": 71000012,
+     "think": 71000900
+    },
+    {
+     "chr": 7100,
+     "npc": 71000030,
+     "think": 71000000
+    }
+   ],
+   "vida": 0.43
+  },
+  {
+   "id": "coop2_elite_0_g_rgolas_denodadas",
+   "name": "Two Valiant Gargoyles",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_0_g_rgolas_denodadas"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47701165,
+     "think": 47701200
+    },
+    {
+     "chr": 4770,
+     "npc": 47701165,
+     "think": 47701200
+    }
+   ],
+   "vida": 0.55,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_elite_1_gemelos_ca_dos",
+   "name": "Two Fell Twins",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_1_gemelos_ca_dos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2140,
+     "npc": 21403050,
+     "think": 21400900
+    },
+    {
+     "chr": 2140,
+     "npc": 21403050,
+     "think": 21400900
+    }
+   ],
+   "vida": 0.59
+  },
+  {
+   "id": "coop2_elite_2_ordovis_y_su_compa_ero",
+   "name": "Crucible Knight Ordovis and Crucible Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_2_ordovis_y_su_compa_ero"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2500,
+     "npc": 25000933,
+     "think": 25000030
+    },
+    {
+     "chr": 2500,
+     "npc": 25000941,
+     "think": 25000040
+    }
+   ],
+   "vida": 1.14
+  },
+  {
+   "id": "coop2_elite_3_caballer_a_nocturna_del_altipl",
+   "name": "Two Night's Cavalrys",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_3_caballer_a_nocturna_del_altipl"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3150,
+     "npc": 31500050,
+     "think": 31500000
+    },
+    {
+     "chr": 3150,
+     "npc": 31500042,
+     "think": 31500000
+    }
+   ],
+   "vida": 0.95
+  },
+  {
+   "id": "coop2_elite_5_caballeros_de_la_muerte",
+   "name": "Two Death Knights",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_5_caballeros_de_la_muerte"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5070,
+     "npc": 50700081,
+     "think": 50700010
+    },
+    {
+     "chr": 5070,
+     "npc": 50701095,
+     "think": 50701010
+    }
+   ],
+   "vida": 0.85
+  },
+  {
+   "id": "coop2_elite_6_centinelas_del_dlc",
+   "name": "Two Tree Sentinels",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_6_centinelas_del_dlc"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6251,
+     "npc": 62511093,
+     "think": 62511010
+    },
+    {
+     "chr": 6251,
+     "npc": 62510093,
+     "think": 62510900
+    }
+   ],
+   "vida": 0.6,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_elite_7_onze_y_marigga_la_reina_semihu",
+   "name": "Demi-Human Swordmaster Onze and Demi-Human Queen Marigga",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_7_onze_y_marigga_la_reina_semihu"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5810,
+     "npc": 58100980,
+     "think": 58100900
+    },
+    {
+     "chr": 5730,
+     "npc": 57300083,
+     "think": 57300000
+    }
+   ],
+   "vida": 0.97
+  },
+  {
+   "id": "coop2_elite_8_caballero_negro_edredd_y_el_os",
+   "name": "Black Knight Edredd and Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_elite_8_caballero_negro_edredd_y_el_os"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5840,
+     "npc": 58400690,
+     "think": 58401090
+    },
+    {
+     "chr": 0,
+     "npc": 524210095,
+     "think": 524210000
+    }
+   ],
+   "vida": 0.8
+  },
+  {
+   "id": "coop2_boss_0_hermanos_augurio_morgott_y_moh",
+   "name": "Morgott and Mohg",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_boss_0_hermanos_augurio_morgott_y_moh"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2130,
+     "npc": 21300534,
+     "think": 21300500
+    },
+    {
+     "chr": 4800,
+     "npc": 48001935,
+     "think": 48000000
+    }
+   ],
+   "vida": 0.67,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_boss_1_leyndell_godfrey_sombra_y_morg",
+   "name": "Godfrey and Morgott",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_boss_1_leyndell_godfrey_sombra_y_morg"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4720,
+     "npc": 47200134,
+     "think": 47200000
+    },
+    {
+     "chr": 2130,
+     "npc": 21300534,
+     "think": 21300500
+    }
+   ],
+   "vida": 0.8,
+   "arena": "grande"
+  },
+  {
+   "id": "coop2_boss_2_d_o_sacrodermo_ap_stol_y_noble",
+   "name": "Godskin Apostle and Godskin Noble",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_boss_2_d_o_sacrodermo_ap_stol_y_noble"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3560,
+     "npc": 35600030,
+     "think": 35600900
+    },
+    {
+     "chr": 3570,
+     "npc": 35700038,
+     "think": 35700900
+    }
+   ],
+   "vida": 0.76
+  },
+  {
+   "id": "coop2_boss_3_el_le_n_danzante_y_loretta",
+   "name": "Divine Beast Dancing Lion and Loretta",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop2_boss_3_el_le_n_danzante_y_loretta"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5210,
+     "npc": 52100088,
+     "think": 52100000
+    },
+    {
+     "chr": 3252,
+     "npc": 32520054,
+     "think": 32520054
+    }
+   ],
+   "vida": 0.81
+  }
+ ]
+}

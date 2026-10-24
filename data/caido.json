@@ -1,0 +1,15 @@
+{
+  "_nota": "Cooperativo, caídos (dll/harness/src/director/caido.rs). Animaciones de Nightreign en huecos de evento del jugador, sin sus eventos (tools/ModBuilder, bloque «Caído»). Elegidas en el banco el 22-10: a cuatro patas = la de gatear (60530←20500) parada a los 0,4 s; levantarse = 60810←17650 (2,4 s). Las 60750-60790 (17440-17480) son caídas largas de 3 s; la 60800 (17600), tumbado.",
+  "caer": 60530,
+  "suelo": 60530,
+  "congelar": 0.4,
+  "levantarse": 60810,
+  "ayudar": 0,
+  "caer_segundos": 0.0,
+  "levantarse_segundos": 2.5,
+  "segundos": 3.0,
+  "distancia": 2.5,
+  "vida": 0.1,
+  "giro": 120.0,
+  "lado": 1.0
+}

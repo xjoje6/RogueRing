@@ -1,0 +1,561 @@
+{
+ "_nota": "Dúos del acto 1 para las runs de cooperativo (docs/LISTAS_Y_COMBATES.md).",
+ "encounters": [
+  {
+   "id": "coop1_normal_0_asesinas_de_los_cuchillos_negr",
+   "name": "Two Black Knife Assassins",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_0_asesinas_de_los_cuchillos_negr"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21001010,
+     "think": 21000010
+    },
+    {
+     "chr": 2100,
+     "npc": 21000820,
+     "think": 21000000
+    }
+   ],
+   "vida": 0.84
+  },
+  {
+   "id": "coop1_normal_1_perros_guardianes_funerarios",
+   "name": "Two Erdtree Burial Watchdogs",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_1_perros_guardianes_funerarios"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4260,
+     "npc": 42600110,
+     "think": 42600000
+    },
+    {
+     "chr": 4260,
+     "npc": 42600512,
+     "think": 42600900
+    }
+   ],
+   "vida": 0.58
+  },
+  {
+   "id": "coop1_normal_2_caballer_a_nocturna",
+   "name": "Two Night's Cavalrys",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_2_caballer_a_nocturna"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3150,
+     "npc": 31500010,
+     "think": 31500000
+    },
+    {
+     "chr": 3150,
+     "npc": 31501012,
+     "think": 31501000
+    }
+   ],
+   "vida": 0.61
+  },
+  {
+   "id": "coop1_normal_3_sombras_del_cementerio",
+   "name": "Two Cemetery Shades",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_3_sombras_del_cementerio"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3664,
+     "npc": 36640012,
+     "think": 36640912
+    },
+    {
+     "chr": 3664,
+     "npc": 36640920,
+     "think": 36640920
+    }
+   ],
+   "vida": 2.01
+  },
+  {
+   "id": "coop1_normal_4_bastardos",
+   "name": "Scaly Misbegotten and Leonine Misbegotten",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_4_bastardos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3451,
+     "npc": 34510912,
+     "think": 34510000
+    },
+    {
+     "chr": 3460,
+     "npc": 34600913,
+     "think": 34601000
+    }
+   ],
+   "vida": 1.03
+  },
+  {
+   "id": "coop1_normal_5_caballero_sabueso_y_asesina",
+   "name": "Bloodhound Knight and Black Knife Assassin",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_5_caballero_sabueso_y_asesina"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4290,
+     "npc": 42900920,
+     "think": 42900000
+    },
+    {
+     "chr": 2100,
+     "npc": 21001010,
+     "think": 21000010
+    }
+   ],
+   "vida": 1.05
+  },
+  {
+   "id": "coop1_normal_6_lun_ticos_calabezudos",
+   "name": "Two Mad Pumpkin Heads",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_6_lun_ticos_calabezudos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4340,
+     "npc": 43400910,
+     "think": 43400110
+    },
+    {
+     "chr": 4340,
+     "npc": 43400910,
+     "think": 43400110
+    }
+   ],
+   "vida": 1.05,
+   "arena": "grande"
+  },
+  {
+   "id": "coop1_normal_7_duelista_guardi_n_y_caballero",
+   "name": "Grave Warden Duelist and Cleanrot Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_7_duelista_guardi_n_y_caballero"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34001110,
+     "think": 34001010
+    },
+    {
+     "chr": 3800,
+     "npc": 38000920,
+     "think": 38000000
+    }
+   ],
+   "vida": 0.88
+  },
+  {
+   "id": "coop1_normal_8_perfumista_tricia_y_guerrero_b",
+   "name": "Perfumer Tricia and Misbegotten Warrior",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_8_perfumista_tricia_y_guerrero_b"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3701,
+     "npc": 37011930,
+     "think": 37010900
+    },
+    {
+     "chr": 3460,
+     "npc": 34600930,
+     "think": 34600900
+    }
+   ],
+   "vida": 1.45
+  },
+  {
+   "id": "coop1_normal_9_jefes_semihumanos",
+   "name": "Two Demi-Human Chiefs",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_9_jefes_semihumanos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4120,
+     "npc": 41200910,
+     "think": 41200100
+    },
+    {
+     "chr": 4120,
+     "npc": 41200910,
+     "think": 41200100
+    }
+   ],
+   "vida": 1.15
+  },
+  {
+   "id": "coop1_normal_10_caballeros_desterrados",
+   "name": "Two Banished Knights",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_10_caballeros_desterrados"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3010,
+     "npc": 30100000,
+     "think": 30100000
+    },
+    {
+     "chr": 3010,
+     "npc": 30100000,
+     "think": 30100000
+    }
+   ],
+   "vida": 1.29
+  },
+  {
+   "id": "coop1_normal_11_trols",
+   "name": "Troll and Stonedigger Troll",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_normal_11_trols"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4600,
+     "npc": 46000000,
+     "think": 46000000
+    },
+    {
+     "chr": 4603,
+     "npc": 46030910,
+     "think": 46030100
+    }
+   ],
+   "vida": 0.4,
+   "arena": "grande"
+  },
+  {
+   "id": "coop1_elite_0_caballeros_del_crisol",
+   "name": "Two Crucible Knights",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_0_caballeros_del_crisol"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2500,
+     "npc": 25001933,
+     "think": 25001030
+    },
+    {
+     "chr": 2500,
+     "npc": 25000010,
+     "think": 25000030
+    }
+   ],
+   "vida": 1.01
+  },
+  {
+   "id": "coop1_elite_1_monjes_de_nox",
+   "name": "Two Nox Monks",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_1_monjes_de_nox"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3300,
+     "npc": 33000940,
+     "think": 33000900
+    },
+    {
+     "chr": 3300,
+     "npc": 33000940,
+     "think": 33000900
+    }
+   ],
+   "vida": 2.5
+  },
+  {
+   "id": "coop1_elite_2_duelista_fren_tico_y_noble_san",
+   "name": "Frenzied Duelist and Sanguine Noble",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_2_duelista_fren_tico_y_noble_san"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34000940,
+     "think": 34000010
+    },
+    {
+     "chr": 3550,
+     "npc": 35500930,
+     "think": 35500000
+    }
+   ],
+   "vida": 0.91
+  },
+  {
+   "id": "coop1_elite_3_caballeros_imputrescibles",
+   "name": "Cleanrot Knight and Cleanrot Knight (Spear)",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_3_caballeros_imputrescibles"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3800,
+     "npc": 38000920,
+     "think": 38000000
+    },
+    {
+     "chr": 3800,
+     "npc": 38000940,
+     "think": 38000000
+    }
+   ],
+   "vida": 1.94
+  },
+  {
+   "id": "coop1_elite_4_aves_de_la_muerte",
+   "name": "Deathbird and Death Rite Bird",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_4_aves_de_la_muerte"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4980,
+     "npc": 49800010,
+     "think": 49800100
+    },
+    {
+     "chr": 4980,
+     "npc": 49801020,
+     "think": 49800100
+    }
+   ],
+   "vida": 0.37,
+   "arena": "grande"
+  },
+  {
+   "id": "coop1_elite_5_avatar_y_perro_guardi_n",
+   "name": "Erdtree Avatar and Erdtree Burial Watchdog (Sword)",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_5_avatar_y_perro_guardi_n"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4810,
+     "npc": 48100012,
+     "think": 48100900
+    },
+    {
+     "chr": 4260,
+     "npc": 42600940,
+     "think": 42600000
+    }
+   ],
+   "vida": 0.61,
+   "arena": "grande"
+  },
+  {
+   "id": "coop1_elite_6_centinela_agreste_y_cazador_de",
+   "name": "Tree Sentinel and Bell Bearing Hunter",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_elite_6_centinela_agreste_y_cazador_de"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3251,
+     "npc": 32510010,
+     "think": 32510900
+    },
+    {
+     "chr": 3100,
+     "npc": 31000010,
+     "think": 31001000
+    }
+   ],
+   "vida": 0.52
+  },
+  {
+   "id": "coop1_boss_0_castillo_de_velo_tormentoso_ma",
+   "name": "Margit and Godrick the Grafted",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_boss_0_castillo_de_velo_tormentoso_ma"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2130,
+     "npc": 21300014,
+     "think": 21300000
+    },
+    {
+     "chr": 4750,
+     "npc": 47500014,
+     "think": 47500000
+    }
+   ],
+   "vida": 0.41
+  },
+  {
+   "id": "coop1_boss_1_academia_rennala_y_el_lobo_roj",
+   "name": "Rennala and Red Wolf of Radagon",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_boss_1_academia_rennala_y_el_lobo_roj"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2031,
+     "npc": 20310024,
+     "think": 20310000
+    },
+    {
+     "chr": 3181,
+     "npc": 31811024,
+     "think": 31810024
+    }
+   ],
+   "vida": 0.9,
+   "arena": "grande"
+  },
+  {
+   "id": "coop1_boss_2_caria_loretta_y_el_esp_ritu_an",
+   "name": "Royal Knight Loretta and Regal Ancestor Spirit",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop1_boss_2_caria_loretta_y_el_esp_ritu_an"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3252,
+     "npc": 32520921,
+     "think": 32520110
+    },
+    {
+     "chr": 4670,
+     "npc": 46700065,
+     "think": 46700100
+    }
+   ],
+   "vida": 0.64,
+   "arena": "grande"
+  }
+ ]
+}

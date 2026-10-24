@@ -1,0 +1,7160 @@
+[
+ {
+  "id": 1000000,
+  "nombre": "Dagger",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   5,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10000,
+  "unica": false
+ },
+ {
+  "id": 1010000,
+  "nombre": "Black Knife",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Dagger",
+  "req": [
+   8,
+   12,
+   0,
+   18,
+   0
+  ],
+  "icono": 10001,
+  "unica": true
+ },
+ {
+  "id": 1020000,
+  "nombre": "Parrying Dagger",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   5,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10002,
+  "unica": false
+ },
+ {
+  "id": 1030000,
+  "nombre": "Miséricorde",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   7,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10003,
+  "unica": false
+ },
+ {
+  "id": 1040000,
+  "nombre": "Reduvia",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Dagger",
+  "req": [
+   5,
+   13,
+   0,
+   0,
+   13
+  ],
+  "icono": 10004,
+  "unica": true
+ },
+ {
+  "id": 1050000,
+  "nombre": "Crystal Knife",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   8,
+   12,
+   9,
+   0,
+   0
+  ],
+  "icono": 10005,
+  "unica": true
+ },
+ {
+  "id": 1060000,
+  "nombre": "Celebrant's Sickle",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   6,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10006,
+  "unica": false
+ },
+ {
+  "id": 1070000,
+  "nombre": "Glintstone Kris",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Dagger",
+  "req": [
+   5,
+   12,
+   16,
+   0,
+   0
+  ],
+  "icono": 10007,
+  "unica": true
+ },
+ {
+  "id": 1080000,
+  "nombre": "Scorpion's Stinger",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Dagger",
+  "req": [
+   6,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10008,
+  "unica": true
+ },
+ {
+  "id": 1090000,
+  "nombre": "Great Knife",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   6,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10009,
+  "unica": false
+ },
+ {
+  "id": 1100000,
+  "nombre": "Wakizashi",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   9,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10010,
+  "unica": false
+ },
+ {
+  "id": 1110000,
+  "nombre": "Cinquedea",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Dagger",
+  "req": [
+   10,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10011,
+  "unica": true
+ },
+ {
+  "id": 1130000,
+  "nombre": "Ivory Sickle",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   6,
+   11,
+   13,
+   0,
+   0
+  ],
+  "icono": 10013,
+  "unica": true
+ },
+ {
+  "id": 1140000,
+  "nombre": "Bloodstained Dagger",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   9,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10014,
+  "unica": false
+ },
+ {
+  "id": 1150000,
+  "nombre": "Erdsteel Dagger",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Dagger",
+  "req": [
+   7,
+   12,
+   0,
+   14,
+   0
+  ],
+  "icono": 10015,
+  "unica": false
+ },
+ {
+  "id": 1160000,
+  "nombre": "Blade of Calling",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Dagger",
+  "req": [
+   6,
+   13,
+   0,
+   15,
+   0
+  ],
+  "icono": 10016,
+  "unica": true
+ },
+ {
+  "id": 2000000,
+  "nombre": "Longsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10040,
+  "unica": false
+ },
+ {
+  "id": 2010000,
+  "nombre": "Short Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   8,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10041,
+  "unica": false
+ },
+ {
+  "id": 2020000,
+  "nombre": "Broadsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10042,
+  "unica": false
+ },
+ {
+  "id": 2040000,
+  "nombre": "Lordsworn's Straight Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10044,
+  "unica": false
+ },
+ {
+  "id": 2050000,
+  "nombre": "Weathered Straight Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   7,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10045,
+  "unica": false
+ },
+ {
+  "id": 2060000,
+  "nombre": "Ornamental Straight Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10046,
+  "unica": true
+ },
+ {
+  "id": 2070000,
+  "nombre": "Golden Epitaph",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   12,
+   10,
+   0,
+   14,
+   0
+  ],
+  "icono": 10047,
+  "unica": true
+ },
+ {
+  "id": 2080000,
+  "nombre": "Nox Flowing Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Sword",
+  "req": [
+   8,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10048,
+  "unica": true
+ },
+ {
+  "id": 2090000,
+  "nombre": "Inseparable Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   18,
+   18,
+   0,
+   20,
+   0
+  ],
+  "icono": 10049,
+  "unica": true
+ },
+ {
+  "id": 2110000,
+  "nombre": "Coded Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   0,
+   0,
+   0,
+   20,
+   0
+  ],
+  "icono": 10051,
+  "unica": true
+ },
+ {
+  "id": 2140000,
+  "nombre": "Sword of Night and Flame",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Straight Sword",
+  "req": [
+   12,
+   12,
+   24,
+   24,
+   0
+  ],
+  "icono": 10053,
+  "unica": true
+ },
+ {
+  "id": 2150000,
+  "nombre": "Crystal Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   13,
+   10,
+   15,
+   0,
+   0
+  ],
+  "icono": 10054,
+  "unica": true
+ },
+ {
+  "id": 2180000,
+  "nombre": "Carian Knight's Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   10,
+   18,
+   0,
+   0
+  ],
+  "icono": 10057,
+  "unica": true
+ },
+ {
+  "id": 2190000,
+  "nombre": "Sword of St. Trina",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   12,
+   14,
+   0,
+   0
+  ],
+  "icono": 10058,
+  "unica": true
+ },
+ {
+  "id": 2200000,
+  "nombre": "Miquellan Knight's Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   11,
+   11,
+   0,
+   16,
+   0
+  ],
+  "icono": 10059,
+  "unica": true
+ },
+ {
+  "id": 2210000,
+  "nombre": "Cane Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   8,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10060,
+  "unica": false
+ },
+ {
+  "id": 2220000,
+  "nombre": "Regalia of Eochaid",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   12,
+   18,
+   0,
+   0,
+   15
+  ],
+  "icono": 10061,
+  "unica": true
+ },
+ {
+  "id": 2230000,
+  "nombre": "Noble's Slender Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   8,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10062,
+  "unica": false
+ },
+ {
+  "id": 2240000,
+  "nombre": "Warhawk's Talon",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   10,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10063,
+  "unica": false
+ },
+ {
+  "id": 2250000,
+  "nombre": "Lazuli Glintstone Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Straight Sword",
+  "req": [
+   8,
+   9,
+   13,
+   0,
+   0
+  ],
+  "icono": 10064,
+  "unica": true
+ },
+ {
+  "id": 2260000,
+  "nombre": "Rotten Crystal Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Straight Sword",
+  "req": [
+   13,
+   10,
+   15,
+   0,
+   0
+  ],
+  "icono": 10065,
+  "unica": true
+ },
+ {
+  "id": 3000000,
+  "nombre": "Bastard Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10080,
+  "unica": false
+ },
+ {
+  "id": 3010000,
+  "nombre": "Forked Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   14,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10081,
+  "unica": false
+ },
+ {
+  "id": 3020000,
+  "nombre": "Iron Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   18,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10082,
+  "unica": false
+ },
+ {
+  "id": 3030000,
+  "nombre": "Lordsworn's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10083,
+  "unica": false
+ },
+ {
+  "id": 3040000,
+  "nombre": "Knight's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10084,
+  "unica": false
+ },
+ {
+  "id": 3050000,
+  "nombre": "Flamberge",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   15,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10085,
+  "unica": false
+ },
+ {
+  "id": 3060000,
+  "nombre": "Ordovis's Greatsword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   25,
+   13,
+   0,
+   15,
+   0
+  ],
+  "icono": 10086,
+  "unica": true
+ },
+ {
+  "id": 3070000,
+  "nombre": "Alabaster Lord's Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   12,
+   18,
+   0,
+   0
+  ],
+  "icono": 10087,
+  "unica": true
+ },
+ {
+  "id": 3080000,
+  "nombre": "Banished Knight's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   17,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10088,
+  "unica": false
+ },
+ {
+  "id": 3090000,
+  "nombre": "Dark Moon Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   11,
+   38,
+   0,
+   0
+  ],
+  "icono": 10089,
+  "unica": true
+ },
+ {
+  "id": 3100000,
+  "nombre": "Sacred Relic Sword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greatsword",
+  "req": [
+   14,
+   24,
+   0,
+   22,
+   0
+  ],
+  "icono": 10090,
+  "unica": true
+ },
+ {
+  "id": 3130000,
+  "nombre": "Helphen's Steeple",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   19,
+   10,
+   22,
+   0,
+   0
+  ],
+  "icono": 10093,
+  "unica": true
+ },
+ {
+  "id": 3140000,
+  "nombre": "Blasphemous Blade",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greatsword",
+  "req": [
+   22,
+   15,
+   0,
+   21,
+   0
+  ],
+  "icono": 10094,
+  "unica": true
+ },
+ {
+  "id": 3150000,
+  "nombre": "Marais Executioner's Sword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greatsword",
+  "req": [
+   24,
+   14,
+   0,
+   0,
+   23
+  ],
+  "icono": 10095,
+  "unica": true
+ },
+ {
+  "id": 3160000,
+  "nombre": "Sword of Milos",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   15,
+   19,
+   0,
+   0,
+   0
+  ],
+  "icono": 10096,
+  "unica": true
+ },
+ {
+  "id": 3170000,
+  "nombre": "Golden Order Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   21,
+   0,
+   28,
+   0
+  ],
+  "icono": 10097,
+  "unica": true
+ },
+ {
+  "id": 3180000,
+  "nombre": "Claymore",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   16,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10098,
+  "unica": false
+ },
+ {
+  "id": 3190000,
+  "nombre": "Gargoyle's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greatsword",
+  "req": [
+   18,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10099,
+  "unica": false
+ },
+ {
+  "id": 3200000,
+  "nombre": "Death's Poker",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   15,
+   17,
+   11,
+   0,
+   0
+  ],
+  "icono": 10100,
+  "unica": true
+ },
+ {
+  "id": 3210000,
+  "nombre": "Gargoyle's Blackblade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   18,
+   10,
+   0,
+   22,
+   0
+  ],
+  "icono": 10101,
+  "unica": true
+ },
+ {
+  "id": 3560000,
+  "nombre": "Leontiel's Greatsword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greatsword",
+  "req": [
+   13,
+   26,
+   0,
+   0,
+   0
+  ],
+  "icono": 12401,
+  "unica": true
+ },
+ {
+  "id": 4000000,
+  "nombre": "Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Sword",
+  "req": [
+   31,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10120,
+  "unica": false
+ },
+ {
+  "id": 4010000,
+  "nombre": "Watchdog's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Sword",
+  "req": [
+   30,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10121,
+  "unica": false
+ },
+ {
+  "id": 4020000,
+  "nombre": "Maliketh's Black Blade",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Sword",
+  "req": [
+   34,
+   12,
+   0,
+   20,
+   0
+  ],
+  "icono": 10122,
+  "unica": true
+ },
+ {
+  "id": 4030000,
+  "nombre": "Troll's Golden Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Sword",
+  "req": [
+   29,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10123,
+  "unica": false
+ },
+ {
+  "id": 4040000,
+  "nombre": "Zweihander",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Sword",
+  "req": [
+   19,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10124,
+  "unica": false
+ },
+ {
+  "id": 4050000,
+  "nombre": "Starscourge Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Sword",
+  "req": [
+   38,
+   12,
+   15,
+   0,
+   0
+  ],
+  "icono": 10125,
+  "unica": true
+ },
+ {
+  "id": 4060000,
+  "nombre": "Royal Greatsword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Sword",
+  "req": [
+   26,
+   18,
+   22,
+   0,
+   0
+  ],
+  "icono": 10126,
+  "unica": true
+ },
+ {
+  "id": 4070000,
+  "nombre": "Godslayer's Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Sword",
+  "req": [
+   20,
+   22,
+   0,
+   20,
+   0
+  ],
+  "icono": 10127,
+  "unica": true
+ },
+ {
+  "id": 4080000,
+  "nombre": "Ruins Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Sword",
+  "req": [
+   50,
+   0,
+   16,
+   0,
+   0
+  ],
+  "icono": 10128,
+  "unica": true
+ },
+ {
+  "id": 4100000,
+  "nombre": "Grafted Blade Greatsword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Sword",
+  "req": [
+   40,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10130,
+  "unica": true
+ },
+ {
+  "id": 4110000,
+  "nombre": "Troll Knight's Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Sword",
+  "req": [
+   20,
+   14,
+   18,
+   0,
+   0
+  ],
+  "icono": 10132,
+  "unica": true
+ },
+ {
+  "id": 5000000,
+  "nombre": "Estoc",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   11,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10160,
+  "unica": false
+ },
+ {
+  "id": 5010000,
+  "nombre": "Cleanrot Knight's Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   11,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10161,
+  "unica": false
+ },
+ {
+  "id": 5020000,
+  "nombre": "Rapier",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   7,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10162,
+  "unica": false
+ },
+ {
+  "id": 5030000,
+  "nombre": "Rogier's Rapier",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   8,
+   17,
+   0,
+   0,
+   0
+  ],
+  "icono": 10163,
+  "unica": false
+ },
+ {
+  "id": 5040000,
+  "nombre": "Antspur Rapier",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   10,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10164,
+  "unica": false
+ },
+ {
+  "id": 5050000,
+  "nombre": "Frozen Needle",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   11,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10165,
+  "unica": true
+ },
+ {
+  "id": 5060000,
+  "nombre": "Noble's Estoc",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Thrusting Sword",
+  "req": [
+   9,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10166,
+  "unica": false
+ },
+ {
+  "id": 6000000,
+  "nombre": "Bloody Helice",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Heavy Thrusting Sword",
+  "req": [
+   16,
+   19,
+   0,
+   0,
+   17
+  ],
+  "icono": 10200,
+  "unica": true
+ },
+ {
+  "id": 6010000,
+  "nombre": "Godskin Stitcher",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Heavy Thrusting Sword",
+  "req": [
+   14,
+   17,
+   0,
+   0,
+   0
+  ],
+  "icono": 10201,
+  "unica": false
+ },
+ {
+  "id": 6020000,
+  "nombre": "Great Épée",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Heavy Thrusting Sword",
+  "req": [
+   15,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10202,
+  "unica": false
+ },
+ {
+  "id": 6040000,
+  "nombre": "Dragon King's Cragblade",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Heavy Thrusting Sword",
+  "req": [
+   18,
+   37,
+   0,
+   0,
+   0
+  ],
+  "icono": 10204,
+  "unica": true
+ },
+ {
+  "id": 7000000,
+  "nombre": "Falchion",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   9,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10240,
+  "unica": false
+ },
+ {
+  "id": 7010000,
+  "nombre": "Beastman's Curved Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   13,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10241,
+  "unica": false
+ },
+ {
+  "id": 7020000,
+  "nombre": "Shotel",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   9,
+   19,
+   0,
+   0,
+   0
+  ],
+  "icono": 10242,
+  "unica": false
+ },
+ {
+  "id": 7030000,
+  "nombre": "Shamshir",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   7,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10243,
+  "unica": false
+ },
+ {
+  "id": 7040000,
+  "nombre": "Bandit's Curved Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   11,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10244,
+  "unica": false
+ },
+ {
+  "id": 7050000,
+  "nombre": "Magma Blade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Sword",
+  "req": [
+   9,
+   15,
+   0,
+   16,
+   0
+  ],
+  "icono": 10245,
+  "unica": true
+ },
+ {
+  "id": 7060000,
+  "nombre": "Flowing Curved Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Sword",
+  "req": [
+   9,
+   17,
+   0,
+   0,
+   0
+  ],
+  "icono": 10246,
+  "unica": false
+ },
+ {
+  "id": 7070000,
+  "nombre": "Wing of Astel",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Sword",
+  "req": [
+   7,
+   17,
+   20,
+   0,
+   0
+  ],
+  "icono": 10247,
+  "unica": true
+ },
+ {
+  "id": 7080000,
+  "nombre": "Scavenger's Curved Sword",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   9,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10248,
+  "unica": false
+ },
+ {
+  "id": 7100000,
+  "nombre": "Eclipse Shotel",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Curved Sword",
+  "req": [
+   10,
+   25,
+   0,
+   30,
+   0
+  ],
+  "icono": 10250,
+  "unica": true
+ },
+ {
+  "id": 7110000,
+  "nombre": "Serpent-God's Curved Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Sword",
+  "req": [
+   13,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10251,
+  "unica": false
+ },
+ {
+  "id": 7120000,
+  "nombre": "Mantis Blade",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   10,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10252,
+  "unica": false
+ },
+ {
+  "id": 7140000,
+  "nombre": "Scimitar",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   7,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10254,
+  "unica": false
+ },
+ {
+  "id": 7150000,
+  "nombre": "Grossmesser",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Sword",
+  "req": [
+   14,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10255,
+  "unica": false
+ },
+ {
+  "id": 8010000,
+  "nombre": "Onyx Lord's Greatsword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   20,
+   16,
+   16,
+   0,
+   0
+  ],
+  "icono": 10280,
+  "unica": true
+ },
+ {
+  "id": 8020000,
+  "nombre": "Dismounter",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   19,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10281,
+  "unica": false
+ },
+ {
+  "id": 8030000,
+  "nombre": "Bloodhound's Fang",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   18,
+   17,
+   0,
+   0,
+   0
+  ],
+  "icono": 10282,
+  "unica": true
+ },
+ {
+  "id": 8040000,
+  "nombre": "Magma Wyrm's Scalesword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   24,
+   15,
+   0,
+   18,
+   0
+  ],
+  "icono": 10283,
+  "unica": true
+ },
+ {
+  "id": 8050000,
+  "nombre": "Zamor Curved Sword",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   16,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10289,
+  "unica": true
+ },
+ {
+  "id": 8060000,
+  "nombre": "Omen Cleaver",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   19,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10284,
+  "unica": false
+ },
+ {
+  "id": 8070000,
+  "nombre": "Monk's Flameblade",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   18,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10285,
+  "unica": false
+ },
+ {
+  "id": 8080000,
+  "nombre": "Beastman's Cleaver",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   25,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10286,
+  "unica": false
+ },
+ {
+  "id": 8100000,
+  "nombre": "Morgott's Cursed Sword",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Curved Greatsword",
+  "req": [
+   14,
+   35,
+   0,
+   0,
+   17
+  ],
+  "icono": 10288,
+  "unica": true
+ },
+ {
+  "id": 8530000,
+  "nombre": "Hefty Scimitar",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Curved Greatsword",
+  "req": [
+   13,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 12400,
+  "unica": false
+ },
+ {
+  "id": 9000000,
+  "nombre": "Uchigatana",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Katana",
+  "req": [
+   11,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10320,
+  "unica": false
+ },
+ {
+  "id": 9010000,
+  "nombre": "Nagakiba",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Katana",
+  "req": [
+   18,
+   22,
+   0,
+   0,
+   0
+  ],
+  "icono": 10321,
+  "unica": false
+ },
+ {
+  "id": 9020000,
+  "nombre": "Hand of Malenia",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Katana",
+  "req": [
+   16,
+   48,
+   0,
+   0,
+   0
+  ],
+  "icono": 10322,
+  "unica": true
+ },
+ {
+  "id": 9030000,
+  "nombre": "Meteoric Ore Blade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Katana",
+  "req": [
+   15,
+   14,
+   18,
+   0,
+   0
+  ],
+  "icono": 10323,
+  "unica": true
+ },
+ {
+  "id": 9040000,
+  "nombre": "Rivers of Blood",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Katana",
+  "req": [
+   12,
+   18,
+   0,
+   0,
+   20
+  ],
+  "icono": 10324,
+  "unica": true
+ },
+ {
+  "id": 9060000,
+  "nombre": "Moonveil",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Katana",
+  "req": [
+   12,
+   18,
+   23,
+   0,
+   0
+  ],
+  "icono": 10326,
+  "unica": true
+ },
+ {
+  "id": 9070000,
+  "nombre": "Dragonscale Blade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Katana",
+  "req": [
+   12,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10327,
+  "unica": true
+ },
+ {
+  "id": 9080000,
+  "nombre": "Serpentbone Blade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Katana",
+  "req": [
+   11,
+   22,
+   0,
+   0,
+   0
+  ],
+  "icono": 10328,
+  "unica": true
+ },
+ {
+  "id": 10000000,
+  "nombre": "Twinblade",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Twinblade",
+  "req": [
+   10,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10360,
+  "unica": false
+ },
+ {
+  "id": 10010000,
+  "nombre": "Godskin Peeler",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Twinblade",
+  "req": [
+   17,
+   22,
+   0,
+   0,
+   0
+  ],
+  "icono": 10361,
+  "unica": false
+ },
+ {
+  "id": 10030000,
+  "nombre": "Twinned Knight Swords",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Twinblade",
+  "req": [
+   16,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10362,
+  "unica": false
+ },
+ {
+  "id": 10050000,
+  "nombre": "Eleonora's Poleblade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Twinblade",
+  "req": [
+   12,
+   21,
+   0,
+   0,
+   19
+  ],
+  "icono": 10364,
+  "unica": true
+ },
+ {
+  "id": 10080000,
+  "nombre": "Gargoyle's Twinblade",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Twinblade",
+  "req": [
+   18,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10367,
+  "unica": false
+ },
+ {
+  "id": 10090000,
+  "nombre": "Gargoyle's Black Blades",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Twinblade",
+  "req": [
+   18,
+   15,
+   0,
+   22,
+   0
+  ],
+  "icono": 10368,
+  "unica": true
+ },
+ {
+  "id": 11000000,
+  "nombre": "Mace",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   12,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10400,
+  "unica": false
+ },
+ {
+  "id": 11010000,
+  "nombre": "Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   10,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10401,
+  "unica": false
+ },
+ {
+  "id": 11030000,
+  "nombre": "Curved Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   11,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10402,
+  "unica": false
+ },
+ {
+  "id": 11040000,
+  "nombre": "Warpick",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   11,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10403,
+  "unica": false
+ },
+ {
+  "id": 11050000,
+  "nombre": "Morning Star",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   12,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10404,
+  "unica": false
+ },
+ {
+  "id": 11060000,
+  "nombre": "Varré's Bouquet",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hammer",
+  "req": [
+   8,
+   16,
+   0,
+   0,
+   24
+  ],
+  "icono": 10405,
+  "unica": true
+ },
+ {
+  "id": 11070000,
+  "nombre": "Spiked Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   12,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10406,
+  "unica": false
+ },
+ {
+  "id": 11080000,
+  "nombre": "Hammer",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   14,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10407,
+  "unica": false
+ },
+ {
+  "id": 11090000,
+  "nombre": "Monk's Flamemace",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   13,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10408,
+  "unica": false
+ },
+ {
+  "id": 11100000,
+  "nombre": "Envoy's Horn",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hammer",
+  "req": [
+   10,
+   12,
+   0,
+   16,
+   0
+  ],
+  "icono": 10409,
+  "unica": true
+ },
+ {
+  "id": 11110000,
+  "nombre": "Scepter of the All-Knowing",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hammer",
+  "req": [
+   12,
+   18,
+   21,
+   0,
+   0
+  ],
+  "icono": 10410,
+  "unica": true
+ },
+ {
+  "id": 11120000,
+  "nombre": "Nox Flowing Hammer",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hammer",
+  "req": [
+   17,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10411,
+  "unica": true
+ },
+ {
+  "id": 11130000,
+  "nombre": "Ringed Finger",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hammer",
+  "req": [
+   15,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10412,
+  "unica": true
+ },
+ {
+  "id": 11140000,
+  "nombre": "Stone Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Hammer",
+  "req": [
+   16,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10413,
+  "unica": false
+ },
+ {
+  "id": 11150000,
+  "nombre": "Marika's Hammer",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Hammer",
+  "req": [
+   20,
+   12,
+   0,
+   19,
+   0
+  ],
+  "icono": 10414,
+  "unica": true
+ },
+ {
+  "id": 12000000,
+  "nombre": "Large Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   22,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10440,
+  "unica": false
+ },
+ {
+  "id": 12010000,
+  "nombre": "Greathorn Hammer",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   22,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10441,
+  "unica": false
+ },
+ {
+  "id": 12020000,
+  "nombre": "Battle Hammer",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   26,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10442,
+  "unica": false
+ },
+ {
+  "id": 12060000,
+  "nombre": "Great Mace",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   28,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10443,
+  "unica": false
+ },
+ {
+  "id": 12080000,
+  "nombre": "Curved Great Club",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   24,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10444,
+  "unica": false
+ },
+ {
+  "id": 12130000,
+  "nombre": "Celebrant's Skull",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   18,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10445,
+  "unica": false
+ },
+ {
+  "id": 12140000,
+  "nombre": "Pickaxe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   22,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10446,
+  "unica": false
+ },
+ {
+  "id": 12150000,
+  "nombre": "Beastclaw Greathammer",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   20,
+   10,
+   0,
+   18,
+   0
+  ],
+  "icono": 10447,
+  "unica": true
+ },
+ {
+  "id": 12160000,
+  "nombre": "Envoy's Long Horn",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   23,
+   11,
+   0,
+   18,
+   0
+  ],
+  "icono": 10448,
+  "unica": true
+ },
+ {
+  "id": 12170000,
+  "nombre": "Cranial Vessel Candlestand",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   26,
+   8,
+   0,
+   22,
+   0
+  ],
+  "icono": 10449,
+  "unica": true
+ },
+ {
+  "id": 12180000,
+  "nombre": "Great Stars",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   22,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10450,
+  "unica": false
+ },
+ {
+  "id": 12190000,
+  "nombre": "Brick Hammer",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   31,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10451,
+  "unica": false
+ },
+ {
+  "id": 12200000,
+  "nombre": "Devourer's Scepter",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Great Hammer",
+  "req": [
+   24,
+   20,
+   0,
+   25,
+   0
+  ],
+  "icono": 10452,
+  "unica": true
+ },
+ {
+  "id": 12210000,
+  "nombre": "Rotten Battle Hammer",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Hammer",
+  "req": [
+   26,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10453,
+  "unica": false
+ },
+ {
+  "id": 13000000,
+  "nombre": "Nightrider Flail",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Flail",
+  "req": [
+   10,
+   24,
+   0,
+   0,
+   0
+  ],
+  "icono": 10480,
+  "unica": false
+ },
+ {
+  "id": 13010000,
+  "nombre": "Flail",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Flail",
+  "req": [
+   10,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10481,
+  "unica": false
+ },
+ {
+  "id": 13020000,
+  "nombre": "Family Heads",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Flail",
+  "req": [
+   8,
+   18,
+   16,
+   0,
+   0
+  ],
+  "icono": 10482,
+  "unica": true
+ },
+ {
+  "id": 13030000,
+  "nombre": "Bastard's Stars",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Flail",
+  "req": [
+   8,
+   22,
+   22,
+   0,
+   0
+  ],
+  "icono": 10483,
+  "unica": true
+ },
+ {
+  "id": 13040000,
+  "nombre": "Chainlink Flail",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Flail",
+  "req": [
+   18,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10484,
+  "unica": false
+ },
+ {
+  "id": 13510000,
+  "nombre": "Golden Order Flail",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Flail",
+  "req": [
+   9,
+   16,
+   0,
+   26,
+   0
+  ],
+  "icono": 12402,
+  "unica": true
+ },
+ {
+  "id": 14000000,
+  "nombre": "Battle Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   12,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10520,
+  "unica": false
+ },
+ {
+  "id": 14010000,
+  "nombre": "Forked Hatchet",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   9,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10521,
+  "unica": false
+ },
+ {
+  "id": 14020000,
+  "nombre": "Hand Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   9,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10522,
+  "unica": false
+ },
+ {
+  "id": 14030000,
+  "nombre": "Jawbone Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   14,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10523,
+  "unica": false
+ },
+ {
+  "id": 14040000,
+  "nombre": "Iron Cleaver",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   15,
+   7,
+   0,
+   0,
+   0
+  ],
+  "icono": 10524,
+  "unica": false
+ },
+ {
+  "id": 14050000,
+  "nombre": "Ripple Blade",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Axe",
+  "req": [
+   11,
+   11,
+   0,
+   0,
+   20
+  ],
+  "icono": 10525,
+  "unica": true
+ },
+ {
+  "id": 14060000,
+  "nombre": "Celebrant's Cleaver",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   12,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10526,
+  "unica": false
+ },
+ {
+  "id": 14080000,
+  "nombre": "Icerind Hatchet",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Axe",
+  "req": [
+   11,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10527,
+  "unica": true
+ },
+ {
+  "id": 14100000,
+  "nombre": "Highland Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   12,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10529,
+  "unica": false
+ },
+ {
+  "id": 14110000,
+  "nombre": "Sacrificial Axe",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Axe",
+  "req": [
+   16,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10530,
+  "unica": false
+ },
+ {
+  "id": 14120000,
+  "nombre": "Rosus' Axe",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Axe",
+  "req": [
+   18,
+   10,
+   18,
+   0,
+   0
+  ],
+  "icono": 10531,
+  "unica": true
+ },
+ {
+  "id": 14140000,
+  "nombre": "Stormhawk Axe",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Axe",
+  "req": [
+   19,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10533,
+  "unica": true
+ },
+ {
+  "id": 15000000,
+  "nombre": "Greataxe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   30,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10560,
+  "unica": false
+ },
+ {
+  "id": 15010000,
+  "nombre": "Warped Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Axe",
+  "req": [
+   24,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10561,
+  "unica": false
+ },
+ {
+  "id": 15020000,
+  "nombre": "Great Omenkiller Cleaver",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   23,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10562,
+  "unica": false
+ },
+ {
+  "id": 15030000,
+  "nombre": "Crescent Moon Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   25,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10563,
+  "unica": false
+ },
+ {
+  "id": 15040000,
+  "nombre": "Axe of Godrick",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greataxe",
+  "req": [
+   34,
+   22,
+   0,
+   0,
+   0
+  ],
+  "icono": 10564,
+  "unica": true
+ },
+ {
+  "id": 15050000,
+  "nombre": "Longhaft Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   24,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10565,
+  "unica": false
+ },
+ {
+  "id": 15060000,
+  "nombre": "Rusted Anchor",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   26,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10566,
+  "unica": false
+ },
+ {
+  "id": 15080000,
+  "nombre": "Executioner's Greataxe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   34,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10568,
+  "unica": false
+ },
+ {
+  "id": 15110000,
+  "nombre": "Winged Greathorn",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Greataxe",
+  "req": [
+   30,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10571,
+  "unica": true
+ },
+ {
+  "id": 15120000,
+  "nombre": "Butchering Knife",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Greataxe",
+  "req": [
+   16,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10572,
+  "unica": false
+ },
+ {
+  "id": 15130000,
+  "nombre": "Gargoyle's Great Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   24,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10573,
+  "unica": false
+ },
+ {
+  "id": 15140000,
+  "nombre": "Gargoyle's Black Axe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Greataxe",
+  "req": [
+   24,
+   8,
+   0,
+   22,
+   0
+  ],
+  "icono": 10574,
+  "unica": true
+ },
+ {
+  "id": 16000000,
+  "nombre": "Short Spear",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   10,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10600,
+  "unica": false
+ },
+ {
+  "id": 16010000,
+  "nombre": "Spear",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   12,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10601,
+  "unica": false
+ },
+ {
+  "id": 16020000,
+  "nombre": "Crystal Spear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Spear",
+  "req": [
+   10,
+   16,
+   16,
+   0,
+   0
+  ],
+  "icono": 10602,
+  "unica": true
+ },
+ {
+  "id": 16030000,
+  "nombre": "Clayman's Harpoon",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   12,
+   10,
+   12,
+   0,
+   0
+  ],
+  "icono": 10603,
+  "unica": false
+ },
+ {
+  "id": 16040000,
+  "nombre": "Cleanrot Spear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Spear",
+  "req": [
+   16,
+   16,
+   0,
+   14,
+   0
+  ],
+  "icono": 10604,
+  "unica": true
+ },
+ {
+  "id": 16050000,
+  "nombre": "Partisan",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   15,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10605,
+  "unica": false
+ },
+ {
+  "id": 16060000,
+  "nombre": "Celebrant's Rib-Rake",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   8,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10606,
+  "unica": false
+ },
+ {
+  "id": 16070000,
+  "nombre": "Pike",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   20,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10607,
+  "unica": false
+ },
+ {
+  "id": 16080000,
+  "nombre": "Torchpole",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   14,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10608,
+  "unica": true
+ },
+ {
+  "id": 16090000,
+  "nombre": "Bolt of Gransax",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Spear",
+  "req": [
+   20,
+   40,
+   0,
+   0,
+   0
+  ],
+  "icono": 10609,
+  "unica": true
+ },
+ {
+  "id": 16110000,
+  "nombre": "Cross-Naginata",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   16,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10611,
+  "unica": false
+ },
+ {
+  "id": 16120000,
+  "nombre": "Death Ritual Spear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Spear",
+  "req": [
+   14,
+   20,
+   18,
+   0,
+   0
+  ],
+  "icono": 10612,
+  "unica": true
+ },
+ {
+  "id": 16130000,
+  "nombre": "Inquisitor's Girandole",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Spear",
+  "req": [
+   18,
+   15,
+   0,
+   16,
+   0
+  ],
+  "icono": 10613,
+  "unica": true
+ },
+ {
+  "id": 16140000,
+  "nombre": "Spiked Spear",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   14,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10614,
+  "unica": false
+ },
+ {
+  "id": 16150000,
+  "nombre": "Iron Spear",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Spear",
+  "req": [
+   13,
+   11,
+   0,
+   0,
+   0
+  ],
+  "icono": 10615,
+  "unica": false
+ },
+ {
+  "id": 16160000,
+  "nombre": "Rotten Crystal Spear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Spear",
+  "req": [
+   10,
+   16,
+   16,
+   0,
+   0
+  ],
+  "icono": 10616,
+  "unica": true
+ },
+ {
+  "id": 17010000,
+  "nombre": "Mohgwyn's Sacred Spear",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Great Spear",
+  "req": [
+   24,
+   14,
+   0,
+   0,
+   27
+  ],
+  "icono": 10641,
+  "unica": true
+ },
+ {
+  "id": 17020000,
+  "nombre": "Siluria's Tree",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Spear",
+  "req": [
+   27,
+   13,
+   0,
+   20,
+   0
+  ],
+  "icono": 10642,
+  "unica": true
+ },
+ {
+  "id": 17030000,
+  "nombre": "Serpent-Hunter",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Spear",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10643,
+  "unica": true
+ },
+ {
+  "id": 17050000,
+  "nombre": "Vyke's War Spear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Spear",
+  "req": [
+   16,
+   20,
+   0,
+   18,
+   0
+  ],
+  "icono": 10645,
+  "unica": true
+ },
+ {
+  "id": 17060000,
+  "nombre": "Lance",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Spear",
+  "req": [
+   20,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10646,
+  "unica": false
+ },
+ {
+  "id": 17070000,
+  "nombre": "Treespear",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Spear",
+  "req": [
+   15,
+   22,
+   0,
+   18,
+   0
+  ],
+  "icono": 10647,
+  "unica": true
+ },
+ {
+  "id": 18000000,
+  "nombre": "Halberd",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   14,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10680,
+  "unica": false
+ },
+ {
+  "id": 18010000,
+  "nombre": "Pest's Glaive",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   13,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10681,
+  "unica": false
+ },
+ {
+  "id": 18020000,
+  "nombre": "Lucerne",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   15,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10682,
+  "unica": false
+ },
+ {
+  "id": 18030000,
+  "nombre": "Banished Knight's Halberd",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   14,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10683,
+  "unica": false
+ },
+ {
+  "id": 18040000,
+  "nombre": "Commander's Standard",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   24,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10684,
+  "unica": true
+ },
+ {
+  "id": 18050000,
+  "nombre": "Nightrider Glaive",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   26,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10685,
+  "unica": false
+ },
+ {
+  "id": 18060000,
+  "nombre": "Ripple Crescent Halberd",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   12,
+   12,
+   0,
+   0,
+   20
+  ],
+  "icono": 10686,
+  "unica": true
+ },
+ {
+  "id": 18070000,
+  "nombre": "Vulgar Militia Saw",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   15,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10687,
+  "unica": false
+ },
+ {
+  "id": 18080000,
+  "nombre": "Golden Halberd",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   30,
+   14,
+   0,
+   12,
+   0
+  ],
+  "icono": 10688,
+  "unica": true
+ },
+ {
+  "id": 18090000,
+  "nombre": "Glaive",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   18,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10689,
+  "unica": false
+ },
+ {
+  "id": 18100000,
+  "nombre": "Loretta's War Sickle",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   20,
+   15,
+   20,
+   0,
+   0
+  ],
+  "icono": 10690,
+  "unica": true
+ },
+ {
+  "id": 18110000,
+  "nombre": "Guardian's Swordspear",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   17,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10691,
+  "unica": false
+ },
+ {
+  "id": 18130000,
+  "nombre": "Vulgar Militia Shotel",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   14,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10693,
+  "unica": false
+ },
+ {
+  "id": 18140000,
+  "nombre": "Dragon Halberd",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Halberd",
+  "req": [
+   22,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10694,
+  "unica": true
+ },
+ {
+  "id": 18150000,
+  "nombre": "Gargoyle's Halberd",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   26,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10695,
+  "unica": false
+ },
+ {
+  "id": 18160000,
+  "nombre": "Gargoyle's Black Halberd",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Halberd",
+  "req": [
+   26,
+   10,
+   0,
+   22,
+   0
+  ],
+  "icono": 10696,
+  "unica": true
+ },
+ {
+  "id": 19000000,
+  "nombre": "Scythe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Reaper",
+  "req": [
+   14,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10720,
+  "unica": false
+ },
+ {
+  "id": 19010000,
+  "nombre": "Grave Scythe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Reaper",
+  "req": [
+   17,
+   13,
+   0,
+   0,
+   0
+  ],
+  "icono": 10721,
+  "unica": false
+ },
+ {
+  "id": 19020000,
+  "nombre": "Halo Scythe",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Reaper",
+  "req": [
+   13,
+   16,
+   0,
+   15,
+   0
+  ],
+  "icono": 10722,
+  "unica": true
+ },
+ {
+  "id": 19060000,
+  "nombre": "Winged Scythe",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Reaper",
+  "req": [
+   16,
+   16,
+   0,
+   24,
+   0
+  ],
+  "icono": 10726,
+  "unica": true
+ },
+ {
+  "id": 20000000,
+  "nombre": "Whip",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Whip",
+  "req": [
+   8,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10760,
+  "unica": false
+ },
+ {
+  "id": 20020000,
+  "nombre": "Thorned Whip",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Whip",
+  "req": [
+   8,
+   16,
+   0,
+   0,
+   0
+  ],
+  "icono": 10762,
+  "unica": false
+ },
+ {
+  "id": 20030000,
+  "nombre": "Magma Whip Candlestick",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Whip",
+  "req": [
+   8,
+   16,
+   0,
+   18,
+   0
+  ],
+  "icono": 10763,
+  "unica": true
+ },
+ {
+  "id": 20050000,
+  "nombre": "Hoslow's Petal Whip",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Whip",
+  "req": [
+   10,
+   20,
+   0,
+   0,
+   0
+  ],
+  "icono": 10765,
+  "unica": false
+ },
+ {
+  "id": 20060000,
+  "nombre": "Giant's Red Braid",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Whip",
+  "req": [
+   18,
+   12,
+   0,
+   21,
+   0
+  ],
+  "icono": 10766,
+  "unica": true
+ },
+ {
+  "id": 20070000,
+  "nombre": "Urumi",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Whip",
+  "req": [
+   10,
+   19,
+   0,
+   0,
+   0
+  ],
+  "icono": 10767,
+  "unica": false
+ },
+ {
+  "id": 21000000,
+  "nombre": "Caestus",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Fist",
+  "req": [
+   8,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10800,
+  "unica": false
+ },
+ {
+  "id": 21010000,
+  "nombre": "Spiked Caestus",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Fist",
+  "req": [
+   8,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10801,
+  "unica": false
+ },
+ {
+  "id": 21060000,
+  "nombre": "Grafted Dragon",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Fist",
+  "req": [
+   20,
+   14,
+   0,
+   16,
+   0
+  ],
+  "icono": 10806,
+  "unica": true
+ },
+ {
+  "id": 21070000,
+  "nombre": "Iron Ball",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Fist",
+  "req": [
+   11,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10807,
+  "unica": false
+ },
+ {
+  "id": 21080000,
+  "nombre": "Star Fist",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Fist",
+  "req": [
+   12,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10808,
+  "unica": false
+ },
+ {
+  "id": 21100000,
+  "nombre": "Katar",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Fist",
+  "req": [
+   8,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10809,
+  "unica": false
+ },
+ {
+  "id": 21110000,
+  "nombre": "Clinging Bone",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Fist",
+  "req": [
+   8,
+   22,
+   0,
+   0,
+   16
+  ],
+  "icono": 10810,
+  "unica": true
+ },
+ {
+  "id": 21120000,
+  "nombre": "Veteran's Prosthesis",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Fist",
+  "req": [
+   15,
+   12,
+   0,
+   0,
+   0
+  ],
+  "icono": 10811,
+  "unica": true
+ },
+ {
+  "id": 21130000,
+  "nombre": "Cipher Pata",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Fist",
+  "req": [
+   0,
+   0,
+   0,
+   30,
+   0
+  ],
+  "icono": 10812,
+  "unica": true
+ },
+ {
+  "id": 22000000,
+  "nombre": "Hookclaws",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Claw",
+  "req": [
+   8,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10840,
+  "unica": false
+ },
+ {
+  "id": 22010000,
+  "nombre": "Venomous Fang",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Claw",
+  "req": [
+   9,
+   9,
+   0,
+   0,
+   0
+  ],
+  "icono": 10841,
+  "unica": false
+ },
+ {
+  "id": 22020000,
+  "nombre": "Bloodhound Claws",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Claw",
+  "req": [
+   10,
+   15,
+   0,
+   0,
+   0
+  ],
+  "icono": 10842,
+  "unica": false
+ },
+ {
+  "id": 22030000,
+  "nombre": "Raptor Talons",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Claw",
+  "req": [
+   6,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10843,
+  "unica": false
+ },
+ {
+  "id": 23000000,
+  "nombre": "Prelate's Inferno Crozier",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   45,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10880,
+  "unica": false
+ },
+ {
+  "id": 23010000,
+  "nombre": "Watchdog's Staff",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   34,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10881,
+  "unica": true
+ },
+ {
+  "id": 23020000,
+  "nombre": "Great Club",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   35,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10882,
+  "unica": true
+ },
+ {
+  "id": 23030000,
+  "nombre": "Envoy's Greathorn",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   28,
+   12,
+   0,
+   24,
+   0
+  ],
+  "icono": 10883,
+  "unica": true
+ },
+ {
+  "id": 23040000,
+  "nombre": "Duelist Greataxe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   30,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10884,
+  "unica": false
+ },
+ {
+  "id": 23050000,
+  "nombre": "Axe of Godfrey",
+  "categoria": "Arma",
+  "rareza": "Rara",
+  "tipo": "Colossal Weapon",
+  "req": [
+   42,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10885,
+  "unica": true
+ },
+ {
+  "id": 23060000,
+  "nombre": "Dragon Greatclaw",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   30,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10886,
+  "unica": true
+ },
+ {
+  "id": 23070000,
+  "nombre": "Staff of the Avatar",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   34,
+   8,
+   0,
+   24,
+   0
+  ],
+  "icono": 10887,
+  "unica": true
+ },
+ {
+  "id": 23080000,
+  "nombre": "Fallingstar Beast Jaw",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   34,
+   12,
+   20,
+   0,
+   0
+  ],
+  "icono": 10888,
+  "unica": true
+ },
+ {
+  "id": 23100000,
+  "nombre": "Ghiza's Wheel",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   28,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 10890,
+  "unica": true
+ },
+ {
+  "id": 23110000,
+  "nombre": "Giant-Crusher",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   60,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 10891,
+  "unica": false
+ },
+ {
+  "id": 23120000,
+  "nombre": "Golem's Halberd",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   36,
+   14,
+   0,
+   0,
+   0
+  ],
+  "icono": 10892,
+  "unica": false
+ },
+ {
+  "id": 23130000,
+  "nombre": "Troll's Hammer",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   28,
+   8,
+   0,
+   10,
+   0
+  ],
+  "icono": 10893,
+  "unica": true
+ },
+ {
+  "id": 23140000,
+  "nombre": "Rotten Staff",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   34,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 10894,
+  "unica": true
+ },
+ {
+  "id": 23150000,
+  "nombre": "Rotten Greataxe",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Colossal Weapon",
+  "req": [
+   30,
+   10,
+   0,
+   0,
+   0
+  ],
+  "icono": 10895,
+  "unica": false
+ },
+ {
+  "id": 10000,
+  "nombre": "Lion's Claw",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8300,
+  "encaja": [
+   "Colossal Weapon",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Katana",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10100,
+  "nombre": "Impaling Thrust",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8301,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10200,
+  "nombre": "Piercing Fang",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8302,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10300,
+  "nombre": "Spinning Slash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8303,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Spear",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10500,
+  "nombre": "Charge Forth",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8304,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10600,
+  "nombre": "Stamp (Upward Cut)",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8305,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10700,
+  "nombre": "Stamp (Sweep)",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8306,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10800,
+  "nombre": "Blood Tax",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8307,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10900,
+  "nombre": "Repeating Thrust",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8308,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11000,
+  "nombre": "Wild Strikes",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8309,
+  "encaja": [
+   "Curved Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 11100,
+  "nombre": "Spinning Strikes",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8310,
+  "encaja": [
+   "Halberd",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11200,
+  "nombre": "Double Slash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8311,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Reaper",
+   "Katana"
+  ]
+ },
+ {
+  "id": 11300,
+  "nombre": "Prelate's Charge",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8312,
+  "encaja": [
+   "Colossal Weapon",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 11400,
+  "nombre": "Unsheathe",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8313,
+  "encaja": [
+   "Katana"
+  ]
+ },
+ {
+  "id": 11500,
+  "nombre": "Square Off",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8314,
+  "encaja": [
+   "Straight Sword"
+  ]
+ },
+ {
+  "id": 11600,
+  "nombre": "Giant Hunt",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8315,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Greatsword",
+   "Colossal Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11800,
+  "nombre": "Loretta's Slash",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8316,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11900,
+  "nombre": "Poison Moth Flight",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8317,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 12000,
+  "nombre": "Spinning Weapon",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8318,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 12200,
+  "nombre": "Storm Assault",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8319,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 12300,
+  "nombre": "Stormcaller",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8320,
+  "encaja": [
+   "Halberd",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 12400,
+  "nombre": "Sword Dance",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8321,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20000,
+  "nombre": "Glintblade Phalanx",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8330,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20100,
+  "nombre": "Sacred Blade",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8331,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 20200,
+  "nombre": "Ice Spear",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8332,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20300,
+  "nombre": "Glintstone Pebble",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8333,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20400,
+  "nombre": "Bloody Slash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8334,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 20500,
+  "nombre": "Lifesteal Fist",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8335,
+  "encaja": [
+   "Fist",
+   "Claw"
+  ]
+ },
+ {
+  "id": 20700,
+  "nombre": "Eruption",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8336,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 20800,
+  "nombre": "Prayerful Strike",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8337,
+  "encaja": [
+   "Colossal Weapon",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 20900,
+  "nombre": "Gravitas",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8338,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21000,
+  "nombre": "Storm Blade",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8339,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 21200,
+  "nombre": "Earthshaker",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8340,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 21300,
+  "nombre": "Golden Land",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8341,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 21400,
+  "nombre": "Flaming Strike",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8342,
+  "encaja": [
+   "Halberd",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21600,
+  "nombre": "Thunderbolt",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8343,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21700,
+  "nombre": "Lightning Slash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8344,
+  "encaja": [
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Katana",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21800,
+  "nombre": "Carian Grandeur",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8345,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 21900,
+  "nombre": "Carian Greatsword",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8346,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22000,
+  "nombre": "Vacuum Slice",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8347,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Axe",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22100,
+  "nombre": "Black Flame Tornado",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8348,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22200,
+  "nombre": "Sacred Ring of Light",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8349,
+  "encaja": [
+   "Halberd",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22400,
+  "nombre": "Blood Blade",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8350,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22500,
+  "nombre": "Phantom Slash",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8351,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22600,
+  "nombre": "Spectral Lance",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8352,
+  "encaja": [
+   "Halberd",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22700,
+  "nombre": "Chilling Mist",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8353,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 22800,
+  "nombre": "Poisonous Mist",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8354,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 30000,
+  "nombre": "Shield Bash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8360,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30100,
+  "nombre": "Barricade Shield",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8361,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30200,
+  "nombre": "Parry",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8362,
+  "encaja": [
+   "Fist",
+   "Dagger",
+   "Medium Shield",
+   "Small Shield",
+   "Curved Sword",
+   "Thrusting Sword",
+   "Claw"
+  ]
+ },
+ {
+  "id": 30500,
+  "nombre": "Carian Retaliation",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8363,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30600,
+  "nombre": "Storm Wall",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8364,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30700,
+  "nombre": "Golden Parry",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8365,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30800,
+  "nombre": "Shield Crash",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8366,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30900,
+  "nombre": "No Skill",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8367,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 31000,
+  "nombre": "Thops's Barrier",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8368,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 40000,
+  "nombre": "Through and Through",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8380,
+  "encaja": [
+   "Greatbow"
+  ]
+ },
+ {
+  "id": 40100,
+  "nombre": "Barrage",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8381,
+  "encaja": [
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40200,
+  "nombre": "Mighty Shot",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8382,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40400,
+  "nombre": "Enchanted Shot",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8383,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40500,
+  "nombre": "Sky Shot",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8384,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40600,
+  "nombre": "Rain of Arrows",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8385,
+  "encaja": [
+   "Bow",
+   "Light Bow",
+   "Greatbow"
+  ]
+ },
+ {
+  "id": 50100,
+  "nombre": "Hoarfrost Stomp",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8400,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50200,
+  "nombre": "Storm Stomp",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8401,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50300,
+  "nombre": "Kick",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8402,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50400,
+  "nombre": "Lightning Ram",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8403,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50500,
+  "nombre": "Flame of the Redmanes",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8404,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50600,
+  "nombre": "Ground Slam",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8405,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50700,
+  "nombre": "Golden Slam",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8406,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50800,
+  "nombre": "Waves of Darkness",
+  "categoria": "Ceniza",
+  "rareza": "Rara",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8407,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 50900,
+  "nombre": "Hoarah Loux's Earthshaker",
+  "categoria": "Ceniza",
+  "rareza": "Rara",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8408,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60000,
+  "nombre": "Determination",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8420,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60100,
+  "nombre": "Royal Knight's Resolve",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8421,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60200,
+  "nombre": "Assassin's Gambit",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8422,
+  "encaja": [
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 60300,
+  "nombre": "Golden Vow",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8423,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60400,
+  "nombre": "Sacred Order",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8424,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60500,
+  "nombre": "Shared Order",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8425,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60600,
+  "nombre": "Seppuku",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8426,
+  "encaja": [
+   "Halberd",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 60700,
+  "nombre": "Cragblade",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8427,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65000,
+  "nombre": "Barbaric Roar",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8440,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65100,
+  "nombre": "War Cry",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8441,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65200,
+  "nombre": "Beast's Roar",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8442,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65300,
+  "nombre": "Troll's Roar",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8443,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 65400,
+  "nombre": "Braggart's Roar",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8444,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 70000,
+  "nombre": "Endure",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8460,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 70100,
+  "nombre": "Vow of the Indomitable",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8461,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 70200,
+  "nombre": "Holy Ground",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8462,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 80000,
+  "nombre": "Quickstep",
+  "categoria": "Ceniza",
+  "rareza": "Comun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8480,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 80100,
+  "nombre": "Bloodhound's Step",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8481,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 80200,
+  "nombre": "Raptor of the Mists",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8482,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 85000,
+  "nombre": "White Shadow's Lure",
+  "categoria": "Ceniza",
+  "rareza": "PocoComun",
+  "tipo": "Ash of War",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 8490,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60500000,
+  "nombre": "Dryleaf Arts",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hand-to-Hand Art",
+  "req": [
+   8,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 12260,
+  "unica": false
+ },
+ {
+  "id": 60510000,
+  "nombre": "Dane's Footwork",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Hand-to-Hand Art",
+  "req": [
+   8,
+   8,
+   0,
+   0,
+   0
+  ],
+  "icono": 12261,
+  "unica": false
+ },
+ {
+  "id": 66500000,
+  "nombre": "Great Katana",
+  "categoria": "Arma",
+  "rareza": "Comun",
+  "tipo": "Great Katana",
+  "req": [
+   14,
+   18,
+   0,
+   0,
+   0
+  ],
+  "icono": 12274,
+  "unica": false
+ },
+ {
+  "id": 12510000,
+  "nombre": "Anvil Hammer",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   39,
+   10,
+   11,
+   20,
+   0
+  ],
+  "icono": 12228,
+  "unica": true
+ },
+ {
+  "id": 12530000,
+  "nombre": "Bloodfiend's Arm",
+  "categoria": "Arma",
+  "rareza": "PocoComun",
+  "tipo": "Great Hammer",
+  "req": [
+   28,
+   11,
+   0,
+   0,
+   16
+  ],
+  "icono": 12230,
+  "unica": false
+ },
+ {
+  "id": 232000,
+  "nombre": "Lone Wolf Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 104,
+  "unica": false,
+  "invocacion": {
+   "id": "232000",
+   "nombre": "Lone Wolf Ashes",
+   "chr": 4070,
+   "npc": 140700000,
+   "think": 140700000,
+   "posiciones": [
+    [
+     -1.1,
+     1.3
+    ],
+    [
+     1.4,
+     -1.3
+    ],
+    [
+     -1.5,
+     -1.3
+    ]
+   ]
+  }
+ },
+ {
+  "id": 236000,
+  "nombre": "Spirit Jellyfish Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 111,
+  "unica": false,
+  "invocacion": {
+   "id": "236000",
+   "nombre": "Spirit Jellyfish Ashes",
+   "chr": 4180,
+   "npc": 141800000,
+   "think": 141800000,
+   "posiciones": [
+    [
+     1.5,
+     1.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 212000,
+  "nombre": "Skeletal Militiaman Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 102,
+  "unica": false,
+  "invocacion": {
+   "id": "212000",
+   "nombre": "Skeletal Militiaman Ashes",
+   "chr": 3500,
+   "npc": 135000000,
+   "think": 135000000,
+   "posiciones": [
+    [
+     1.2,
+     0.0
+    ],
+    [
+     -1.2,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 231000,
+  "nombre": "Kaiden Sellsword Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 452,
+  "unica": false,
+  "invocacion": {
+   "id": "231000",
+   "nombre": "Kaiden Sellsword Ashes",
+   "chr": 4050,
+   "npc": 140500000,
+   "think": 140500000,
+   "posiciones": [
+    [
+     1.3,
+     1.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 246000,
+  "nombre": "Soldjars of Fortune Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 465,
+  "unica": false,
+  "invocacion": {
+   "id": "246000",
+   "nombre": "Soldjars of Fortune Ashes",
+   "chr": 4491,
+   "npc": 144910200,
+   "think": 144910000,
+   "posiciones": [
+    [
+     1.3,
+     1.3
+    ],
+    [
+     1.4,
+     -1.2
+    ],
+    [
+     -1.3,
+     -1.2
+    ]
+   ]
+  }
+ },
+ {
+  "id": 250000,
+  "nombre": "Godrick Soldier Ashes",
+  "categoria": "Invocacion",
+  "rareza": "Comun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 457,
+  "unica": false,
+  "invocacion": {
+   "id": "250000",
+   "nombre": "Godrick Soldier Ashes",
+   "chr": 4311,
+   "npc": 143111300,
+   "think": 143110000,
+   "posiciones": [
+    [
+     1.3,
+     0.0
+    ],
+    [
+     -1.3,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 201000,
+  "nombre": "Banished Knight Oleg",
+  "categoria": "Invocacion",
+  "rareza": "PocoComun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 471,
+  "unica": false,
+  "invocacion": {
+   "id": "201000",
+   "nombre": "Banished Knight Oleg",
+   "chr": 3010,
+   "npc": 130101000,
+   "think": 130101000,
+   "posiciones": [
+    [
+     1.3,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 202000,
+  "nombre": "Banished Knight Engvall",
+  "categoria": "Invocacion",
+  "rareza": "PocoComun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 472,
+  "unica": false,
+  "invocacion": {
+   "id": "202000",
+   "nombre": "Banished Knight Engvall",
+   "chr": 3010,
+   "npc": 130102000,
+   "think": 130102000,
+   "posiciones": [
+    [
+     1.3,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 223000,
+  "nombre": "Cleanrot Knight Finlay",
+  "categoria": "Invocacion",
+  "rareza": "PocoComun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 131,
+  "unica": false,
+  "invocacion": {
+   "id": "223000",
+   "nombre": "Cleanrot Knight Finlay",
+   "chr": 3800,
+   "npc": 138001000,
+   "think": 138001000,
+   "posiciones": [
+    [
+     1.4,
+     0.5
+    ]
+   ]
+  }
+ },
+ {
+  "id": 247000,
+  "nombre": "Omenkiller Rollo",
+  "categoria": "Invocacion",
+  "rareza": "PocoComun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 466,
+  "unica": false,
+  "invocacion": {
+   "id": "247000",
+   "nombre": "Omenkiller Rollo",
+   "chr": 4820,
+   "npc": 148200000,
+   "think": 148200000,
+   "posiciones": [
+    [
+     1.4,
+     1.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 239000,
+  "nombre": "Bloodhound Knight Floh",
+  "categoria": "Invocacion",
+  "rareza": "PocoComun",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 112,
+  "unica": false,
+  "invocacion": {
+   "id": "239000",
+   "nombre": "Bloodhound Knight Floh",
+   "chr": 4290,
+   "npc": 142900000,
+   "think": 142900000,
+   "posiciones": [
+    [
+     1.5,
+     1.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 200000,
+  "nombre": "Black Knife Tiche",
+  "categoria": "Invocacion",
+  "rareza": "Rara",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 113,
+  "unica": false,
+  "invocacion": {
+   "id": "200000",
+   "nombre": "Black Knife Tiche",
+   "chr": 2100,
+   "npc": 121000000,
+   "think": 121000000,
+   "posiciones": [
+    [
+     1.3,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 258000,
+  "nombre": "Lhutel the Headless",
+  "categoria": "Invocacion",
+  "rareza": "Rara",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 475,
+  "unica": false,
+  "invocacion": {
+   "id": "258000",
+   "nombre": "Lhutel the Headless",
+   "chr": 4355,
+   "npc": 143551000,
+   "think": 143551000,
+   "posiciones": [
+    [
+     1.5,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "id": 257000,
+  "nombre": "Redmane Knight Ogha",
+  "categoria": "Invocacion",
+  "rareza": "Rara",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 473,
+  "unica": false,
+  "invocacion": {
+   "id": "257000",
+   "nombre": "Redmane Knight Ogha",
+   "chr": 4354,
+   "npc": 143542000,
+   "think": 143542000,
+   "posiciones": [
+    [
+     1.5,
+     -1.3
+    ]
+   ]
+  }
+ },
+ {
+  "id": 256000,
+  "nombre": "Ancient Dragon Knight Kristoff",
+  "categoria": "Invocacion",
+  "rareza": "Rara",
+  "tipo": "Spirit Ash",
+  "req": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "icono": 474,
+  "unica": false,
+  "invocacion": {
+   "id": "256000",
+   "nombre": "Ancient Dragon Knight Kristoff",
+   "chr": 4353,
+   "npc": 143531000,
+   "think": 143531000,
+   "posiciones": [
+    [
+     1.4,
+     0.0
+    ]
+   ]
+  }
+ }
+]

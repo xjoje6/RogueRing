@@ -1,0 +1,1754 @@
+[
+ {
+  "id": 10000,
+  "nombre": "Lion's Claw",
+  "rareza": 1,
+  "icono": 8300,
+  "encaja": [
+   "Colossal Weapon",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Katana",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10100,
+  "nombre": "Impaling Thrust",
+  "rareza": 1,
+  "icono": 8301,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10200,
+  "nombre": "Piercing Fang",
+  "rareza": 2,
+  "icono": 8302,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10300,
+  "nombre": "Spinning Slash",
+  "rareza": 1,
+  "icono": 8303,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Spear",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10500,
+  "nombre": "Charge Forth",
+  "rareza": 1,
+  "icono": 8304,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10600,
+  "nombre": "Stamp (Upward Cut)",
+  "rareza": 1,
+  "icono": 8305,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10700,
+  "nombre": "Stamp (Sweep)",
+  "rareza": 1,
+  "icono": 8306,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 10800,
+  "nombre": "Blood Tax",
+  "rareza": 2,
+  "icono": 8307,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 10900,
+  "nombre": "Repeating Thrust",
+  "rareza": 1,
+  "icono": 8308,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11000,
+  "nombre": "Wild Strikes",
+  "rareza": 1,
+  "icono": 8309,
+  "encaja": [
+   "Curved Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 11100,
+  "nombre": "Spinning Strikes",
+  "rareza": 1,
+  "icono": 8310,
+  "encaja": [
+   "Halberd",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11200,
+  "nombre": "Double Slash",
+  "rareza": 1,
+  "icono": 8311,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Reaper",
+   "Katana"
+  ]
+ },
+ {
+  "id": 11300,
+  "nombre": "Prelate's Charge",
+  "rareza": 2,
+  "icono": 8312,
+  "encaja": [
+   "Colossal Weapon",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 11400,
+  "nombre": "Unsheathe",
+  "rareza": 1,
+  "icono": 8313,
+  "encaja": [
+   "Katana"
+  ]
+ },
+ {
+  "id": 11500,
+  "nombre": "Square Off",
+  "rareza": 1,
+  "icono": 8314,
+  "encaja": [
+   "Straight Sword"
+  ]
+ },
+ {
+  "id": 11600,
+  "nombre": "Giant Hunt",
+  "rareza": 2,
+  "icono": 8315,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Greatsword",
+   "Colossal Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11800,
+  "nombre": "Loretta's Slash",
+  "rareza": 2,
+  "icono": 8316,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 11900,
+  "nombre": "Poison Moth Flight",
+  "rareza": 2,
+  "icono": 8317,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 12000,
+  "nombre": "Spinning Weapon",
+  "rareza": 1,
+  "icono": 8318,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 12200,
+  "nombre": "Storm Assault",
+  "rareza": 1,
+  "icono": 8319,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 12300,
+  "nombre": "Stormcaller",
+  "rareza": 1,
+  "icono": 8320,
+  "encaja": [
+   "Halberd",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 12400,
+  "nombre": "Sword Dance",
+  "rareza": 1,
+  "icono": 8321,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Greataxe",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20000,
+  "nombre": "Glintblade Phalanx",
+  "rareza": 1,
+  "icono": 8330,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20100,
+  "nombre": "Sacred Blade",
+  "rareza": 1,
+  "icono": 8331,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 20200,
+  "nombre": "Ice Spear",
+  "rareza": 1,
+  "icono": 8332,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20300,
+  "nombre": "Glintstone Pebble",
+  "rareza": 1,
+  "icono": 8333,
+  "encaja": [
+   "Halberd",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 20400,
+  "nombre": "Bloody Slash",
+  "rareza": 1,
+  "icono": 8334,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 20500,
+  "nombre": "Lifesteal Fist",
+  "rareza": 2,
+  "icono": 8335,
+  "encaja": [
+   "Fist",
+   "Claw"
+  ]
+ },
+ {
+  "id": 20700,
+  "nombre": "Eruption",
+  "rareza": 1,
+  "icono": 8336,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 20800,
+  "nombre": "Prayerful Strike",
+  "rareza": 1,
+  "icono": 8337,
+  "encaja": [
+   "Colossal Weapon",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 20900,
+  "nombre": "Gravitas",
+  "rareza": 2,
+  "icono": 8338,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21000,
+  "nombre": "Storm Blade",
+  "rareza": 1,
+  "icono": 8339,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 21200,
+  "nombre": "Earthshaker",
+  "rareza": 1,
+  "icono": 8340,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 21300,
+  "nombre": "Golden Land",
+  "rareza": 2,
+  "icono": 8341,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 21400,
+  "nombre": "Flaming Strike",
+  "rareza": 1,
+  "icono": 8342,
+  "encaja": [
+   "Halberd",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21600,
+  "nombre": "Thunderbolt",
+  "rareza": 1,
+  "icono": 8343,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21700,
+  "nombre": "Lightning Slash",
+  "rareza": 1,
+  "icono": 8344,
+  "encaja": [
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer",
+   "Axe",
+   "Katana",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 21800,
+  "nombre": "Carian Grandeur",
+  "rareza": 2,
+  "icono": 8345,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 21900,
+  "nombre": "Carian Greatsword",
+  "rareza": 1,
+  "icono": 8346,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22000,
+  "nombre": "Vacuum Slice",
+  "rareza": 2,
+  "icono": 8347,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Axe",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22100,
+  "nombre": "Black Flame Tornado",
+  "rareza": 2,
+  "icono": 8348,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Great Spear",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22200,
+  "nombre": "Sacred Ring of Light",
+  "rareza": 1,
+  "icono": 8349,
+  "encaja": [
+   "Halberd",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22400,
+  "nombre": "Blood Blade",
+  "rareza": 1,
+  "icono": 8350,
+  "encaja": [
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 22500,
+  "nombre": "Phantom Slash",
+  "rareza": 2,
+  "icono": 8351,
+  "encaja": [
+   "Halberd",
+   "Twinblade",
+   "Reaper",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22600,
+  "nombre": "Spectral Lance",
+  "rareza": 1,
+  "icono": 8352,
+  "encaja": [
+   "Halberd",
+   "Great Spear",
+   "Spear"
+  ]
+ },
+ {
+  "id": 22700,
+  "nombre": "Chilling Mist",
+  "rareza": 1,
+  "icono": 8353,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 22800,
+  "nombre": "Poisonous Mist",
+  "rareza": 1,
+  "icono": 8354,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 30000,
+  "nombre": "Shield Bash",
+  "rareza": 1,
+  "icono": 8360,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30100,
+  "nombre": "Barricade Shield",
+  "rareza": 1,
+  "icono": 8361,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30200,
+  "nombre": "Parry",
+  "rareza": 1,
+  "icono": 8362,
+  "encaja": [
+   "Fist",
+   "Dagger",
+   "Medium Shield",
+   "Small Shield",
+   "Curved Sword",
+   "Thrusting Sword",
+   "Claw"
+  ]
+ },
+ {
+  "id": 30500,
+  "nombre": "Carian Retaliation",
+  "rareza": 1,
+  "icono": 8363,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30600,
+  "nombre": "Storm Wall",
+  "rareza": 1,
+  "icono": 8364,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30700,
+  "nombre": "Golden Parry",
+  "rareza": 2,
+  "icono": 8365,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 30800,
+  "nombre": "Shield Crash",
+  "rareza": 1,
+  "icono": 8366,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 30900,
+  "nombre": "No Skill",
+  "rareza": 1,
+  "icono": 8367,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 31000,
+  "nombre": "Thops's Barrier",
+  "rareza": 2,
+  "icono": 8368,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield"
+  ]
+ },
+ {
+  "id": 40000,
+  "nombre": "Through and Through",
+  "rareza": 1,
+  "icono": 8380,
+  "encaja": [
+   "Greatbow"
+  ]
+ },
+ {
+  "id": 40100,
+  "nombre": "Barrage",
+  "rareza": 1,
+  "icono": 8381,
+  "encaja": [
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40200,
+  "nombre": "Mighty Shot",
+  "rareza": 1,
+  "icono": 8382,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40400,
+  "nombre": "Enchanted Shot",
+  "rareza": 1,
+  "icono": 8383,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40500,
+  "nombre": "Sky Shot",
+  "rareza": 1,
+  "icono": 8384,
+  "encaja": [
+   "Bow",
+   "Light Bow"
+  ]
+ },
+ {
+  "id": 40600,
+  "nombre": "Rain of Arrows",
+  "rareza": 2,
+  "icono": 8385,
+  "encaja": [
+   "Bow",
+   "Light Bow",
+   "Greatbow"
+  ]
+ },
+ {
+  "id": 50100,
+  "nombre": "Hoarfrost Stomp",
+  "rareza": 1,
+  "icono": 8400,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50200,
+  "nombre": "Storm Stomp",
+  "rareza": 1,
+  "icono": 8401,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50300,
+  "nombre": "Kick",
+  "rareza": 1,
+  "icono": 8402,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50400,
+  "nombre": "Lightning Ram",
+  "rareza": 1,
+  "icono": 8403,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50500,
+  "nombre": "Flame of the Redmanes",
+  "rareza": 1,
+  "icono": 8404,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50600,
+  "nombre": "Ground Slam",
+  "rareza": 1,
+  "icono": 8405,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50700,
+  "nombre": "Golden Slam",
+  "rareza": 2,
+  "icono": 8406,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 50800,
+  "nombre": "Waves of Darkness",
+  "rareza": 3,
+  "icono": 8407,
+  "encaja": [
+   "Colossal Weapon",
+   "Colossal Sword",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 50900,
+  "nombre": "Hoarah Loux's Earthshaker",
+  "rareza": 3,
+  "icono": 8408,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60000,
+  "nombre": "Determination",
+  "rareza": 1,
+  "icono": 8420,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60100,
+  "nombre": "Royal Knight's Resolve",
+  "rareza": 2,
+  "icono": 8421,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60200,
+  "nombre": "Assassin's Gambit",
+  "rareza": 1,
+  "icono": 8422,
+  "encaja": [
+   "Dagger",
+   "Twinblade",
+   "Straight Sword",
+   "Thrusting Sword",
+   "Katana"
+  ]
+ },
+ {
+  "id": 60300,
+  "nombre": "Golden Vow",
+  "rareza": 2,
+  "icono": 8423,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60400,
+  "nombre": "Sacred Order",
+  "rareza": 1,
+  "icono": 8424,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60500,
+  "nombre": "Shared Order",
+  "rareza": 2,
+  "icono": 8425,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 60600,
+  "nombre": "Seppuku",
+  "rareza": 1,
+  "icono": 8426,
+  "encaja": [
+   "Halberd",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Great Spear",
+   "Katana",
+   "Spear"
+  ]
+ },
+ {
+  "id": 60700,
+  "nombre": "Cragblade",
+  "rareza": 2,
+  "icono": 8427,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65000,
+  "nombre": "Barbaric Roar",
+  "rareza": 1,
+  "icono": 8440,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65100,
+  "nombre": "War Cry",
+  "rareza": 1,
+  "icono": 8441,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65200,
+  "nombre": "Beast's Roar",
+  "rareza": 2,
+  "icono": 8442,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 65300,
+  "nombre": "Troll's Roar",
+  "rareza": 2,
+  "icono": 8443,
+  "encaja": [
+   "Colossal Weapon",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Heavy Thrusting Sword",
+   "Greataxe",
+   "Great Hammer"
+  ]
+ },
+ {
+  "id": 65400,
+  "nombre": "Braggart's Roar",
+  "rareza": 1,
+  "icono": 8444,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 70000,
+  "nombre": "Endure",
+  "rareza": 1,
+  "icono": 8460,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 70100,
+  "nombre": "Vow of the Indomitable",
+  "rareza": 1,
+  "icono": 8461,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 70200,
+  "nombre": "Holy Ground",
+  "rareza": 2,
+  "icono": 8462,
+  "encaja": [
+   "Medium Shield",
+   "Small Shield",
+   "Greatshield"
+  ]
+ },
+ {
+  "id": 80000,
+  "nombre": "Quickstep",
+  "rareza": 1,
+  "icono": 8480,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 80100,
+  "nombre": "Bloodhound's Step",
+  "rareza": 2,
+  "icono": 8481,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 80200,
+  "nombre": "Raptor of the Mists",
+  "rareza": 2,
+  "icono": 8482,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ },
+ {
+  "id": 85000,
+  "nombre": "White Shadow's Lure",
+  "rareza": 2,
+  "icono": 8490,
+  "encaja": [
+   "Halberd",
+   "Colossal Weapon",
+   "Fist",
+   "Dagger",
+   "Curved Sword",
+   "Twinblade",
+   "Straight Sword",
+   "Greatsword",
+   "Colossal Sword",
+   "Curved Greatsword",
+   "Thrusting Sword",
+   "Heavy Thrusting Sword",
+   "Claw",
+   "Greataxe",
+   "Great Spear",
+   "Great Hammer",
+   "Reaper",
+   "Axe",
+   "Katana",
+   "Spear",
+   "Whip",
+   "Flail",
+   "Hammer"
+  ]
+ }
+]

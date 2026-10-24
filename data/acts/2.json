@@ -1,0 +1,2235 @@
+{
+ "name": "The Highlands",
+ "shape": {
+  "columns": 7,
+  "rooms": 10,
+  "paths": 6,
+  "treasure_row": 5,
+  "min_row_elite_rest": 3,
+  "no_rest_last_rows": 2,
+  "elites": 2,
+  "shops": 2,
+  "rests": [
+   3.0,
+   1.0,
+   2,
+   4
+  ],
+  "unknowns": [
+   5.0,
+   1.0,
+   4,
+   7
+  ]
+ },
+ "weak_count": 0,
+ "encounters": [
+  {
+   "id": "32050800",
+   "name": "Crystalian (Ringblade)",
+   "kind": "Normal",
+   "warp_flag": 1049300288,
+   "defeat_flag": 32050800,
+   "llegada": [
+    58.38,
+    777.45,
+    -31.08
+   ],
+   "chr": 3350,
+   "npc": 33500930,
+   "think": 33500910,
+   "tags": [
+    "danzarín cristaliano"
+   ],
+   "vida": 2.31
+  },
+  {
+   "id": "30120800",
+   "name": "Misbegotten Warrior",
+   "kind": "Normal",
+   "warp_flag": 1049300254,
+   "defeat_flag": 30120800,
+   "llegada": [
+    -1.89,
+    618.51,
+    226.28
+   ],
+   "chr": 3460,
+   "npc": 34600930,
+   "think": 34600900,
+   "tags": [
+    "guerrero bastardo"
+   ],
+   "vida": 1.22
+  },
+  {
+   "id": "1047400800",
+   "name": "Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 1049300354,
+   "defeat_flag": 1047400800,
+   "llegada": [
+    -99.24,
+    126.08,
+    100.02
+   ],
+   "chr": 4811,
+   "npc": 48110040,
+   "think": 48110040,
+   "tags": [
+    "avatar putrefacto"
+   ],
+   "vida": 0.7
+  },
+  {
+   "id": "32040800",
+   "name": "Stonedigger Troll",
+   "kind": "Normal",
+   "warp_flag": 1049300287,
+   "defeat_flag": 32040800,
+   "llegada": [
+    -297.5,
+    676.82,
+    -135.44
+   ],
+   "chr": 4603,
+   "npc": 46030930,
+   "think": 46030200,
+   "tags": [
+    "trol excavapiedra"
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "1039510800",
+   "name": "Night's Cavalry",
+   "kind": "Normal",
+   "warp_flag": 1049300330,
+   "defeat_flag": 1043530800,
+   "llegada": [
+    -24.02,
+    755.1,
+    -121.11
+   ],
+   "chr": 3150,
+   "npc": 31501030,
+   "think": 31501000,
+   "tags": [
+    "caballería nocturna"
+   ]
+  },
+  {
+   "id": "31070800",
+   "name": "Kindred of Rot",
+   "kind": "Normal",
+   "warp_flag": 1049300271,
+   "defeat_flag": 31070800,
+   "llegada": [
+    -136.33,
+    719.88,
+    270.13
+   ],
+   "chr": 3810,
+   "npc": 38100932,
+   "think": 38100000,
+   "tags": [
+    "ancestro de la putrefacción"
+   ],
+   "vida": 2.6
+  },
+  {
+   "id": "1040520800",
+   "name": "Black Knife Assassin",
+   "kind": "Normal",
+   "warp_flag": 1049300332,
+   "defeat_flag": 1040520800,
+   "llegada": [
+    53.27,
+    884,
+    10.97
+   ],
+   "chr": 2100,
+   "npc": 21000830,
+   "think": 21000030,
+   "tags": [
+    "asesina de los cuchillos negros"
+   ],
+   "vida": 1.11
+  },
+  {
+   "id": "1041500800",
+   "name": "Fallingstar Beast",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 1041500800,
+   "llegada": null,
+   "chr": 4680,
+   "npc": 46801930,
+   "think": 46800930,
+   "tags": [
+    "bestia de la estrella fugaz"
+   ],
+   "vida": 0.64,
+   "arena": "grande"
+  },
+  {
+   "id": "31090800",
+   "name": "Demi-Human Queen Margot",
+   "kind": "Normal",
+   "warp_flag": 1049300272,
+   "defeat_flag": 31090800,
+   "llegada": [
+    -76.13,
+    1012.71,
+    -70.28
+   ],
+   "chr": 4130,
+   "npc": 41301932,
+   "think": 41301000,
+   "tags": [
+    "margot"
+   ]
+  },
+  {
+   "id": "1037530800",
+   "name": "Demi-Human Queen Maggie",
+   "kind": "Normal",
+   "warp_flag": 1049300322,
+   "defeat_flag": 1037530800,
+   "llegada": [
+    17.41,
+    903.58,
+    -80.52
+   ],
+   "chr": 4130,
+   "npc": 41300032,
+   "think": 41300000,
+   "tags": [
+    "maggie"
+   ]
+  },
+  {
+   "id": "12080800",
+   "name": "Ancestor Spirit",
+   "kind": "Normal",
+   "warp_flag": 1049300217,
+   "defeat_flag": 12080800,
+   "llegada": [
+    1542.1,
+    -1736.05,
+    1053.19
+   ],
+   "chr": 4670,
+   "npc": 46700964,
+   "think": 46700100,
+   "tags": [
+    "espíritu ancestral"
+   ],
+   "vida": 0.63,
+   "arena": "grande"
+  },
+  {
+   "id": "1042550800",
+   "name": "Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 1049300342,
+   "defeat_flag": 1042550800,
+   "llegada": null,
+   "chr": 3560,
+   "npc": 35600030,
+   "think": 35600900,
+   "tags": [
+    "apóstol sacrodermo"
+   ],
+   "vida": 0.6
+  },
+  {
+   "id": "1049370850",
+   "name": "Death Rite Bird",
+   "kind": "Normal",
+   "warp_flag": 1049300360,
+   "defeat_flag": 1049370850,
+   "llegada": [
+    108.52,
+    102.14,
+    17.05
+   ],
+   "chr": 4980,
+   "npc": 49801040,
+   "think": 49800100,
+   "tags": [
+    "ave del ritual fúnebre"
+   ],
+   "vida": 0.5,
+   "arena": "grande"
+  },
+  {
+   "id": "18000800",
+   "name": "Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 1049300229,
+   "defeat_flag": 18000800,
+   "llegada": [
+    34.8,
+    -111.23,
+    65.7
+   ],
+   "chr": 4640,
+   "npc": 46400007,
+   "think": 46400007,
+   "tags": [
+    "espíritu del árbol ulcerado"
+   ],
+   "vida": 0.45,
+   "arena": "grande"
+  },
+  {
+   "id": "30130800",
+   "name": "Grave Warden Duelist",
+   "kind": "Normal",
+   "warp_flag": 1049300256,
+   "defeat_flag": 30130800,
+   "llegada": [
+    14.24,
+    954.62,
+    64.46
+   ],
+   "chr": 3400,
+   "npc": 34001133,
+   "think": 34001010,
+   "tags": [
+    "duelista guardián de las tumbas"
+   ]
+  },
+  {
+   "id": "1051360800",
+   "name": "Crucible Knight",
+   "kind": "Normal",
+   "warp_flag": 1049300367,
+   "defeat_flag": 1051360800,
+   "llegada": [
+    94.79,
+    105.5,
+    33.22
+   ],
+   "chr": 2500,
+   "npc": 25000941,
+   "think": 25000040,
+   "tags": [
+    "caballero del crisol"
+   ]
+  },
+  {
+   "id": "12020830",
+   "name": "Dragonkin Soldier",
+   "kind": "Normal",
+   "warp_flag": 1049300210,
+   "defeat_flag": 12020830,
+   "llegada": [
+    1241.63,
+    -748.45,
+    1734.46
+   ],
+   "chr": 4650,
+   "npc": 46500265,
+   "think": 46500265,
+   "tags": [
+    "soldado draconiano"
+   ],
+   "vida": 0.87,
+   "arena": "grande"
+  },
+  {
+   "id": "34120800",
+   "name": "Onyx Lord",
+   "kind": "Normal",
+   "warp_flag": 1049300293,
+   "defeat_flag": 34120800,
+   "llegada": [
+    -57.48,
+    711.41,
+    -177.82
+   ],
+   "chr": 3600,
+   "npc": 36001933,
+   "think": 36001000,
+   "tags": [
+    "señor de ónice"
+   ],
+   "vida": 1.08
+  },
+  {
+   "id": "1037540810",
+   "name": "Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 1049300323,
+   "defeat_flag": 1037540810,
+   "llegada": [
+    -30.15,
+    856.73,
+    -70.78
+   ],
+   "chr": 4640,
+   "npc": 46400032,
+   "think": 46400032,
+   "tags": [
+    "espíritu del árbol ulcerado"
+   ],
+   "vida": 0.45,
+   "arena": "grande"
+  },
+  {
+   "id": "1035530800",
+   "name": "Magma Wyrm",
+   "kind": "Normal",
+   "warp_flag": 1049300314,
+   "defeat_flag": 1035530800,
+   "llegada": [
+    -9.77,
+    823.02,
+    -73.3
+   ],
+   "chr": 4910,
+   "npc": 49100032,
+   "think": 49100932,
+   "tags": [
+    "dragón de magma"
+   ],
+   "vida": 0.41,
+   "arena": "grande"
+  },
+  {
+   "id": "1041510800",
+   "name": "Tree Sentinel",
+   "kind": "Normal",
+   "warp_flag": 1049300334,
+   "defeat_flag": 1041510800,
+   "llegada": [
+    93.74,
+    851.38,
+    -52.39
+   ],
+   "chr": 3251,
+   "npc": 32511030,
+   "think": 32511000,
+   "tags": [
+    "centinela agreste"
+   ],
+   "vida": 0.84
+  },
+  {
+   "id": "1043530800",
+   "name": "Bell Bearing Hunter",
+   "kind": "Normal",
+   "warp_flag": 1049300347,
+   "defeat_flag": 1043530800,
+   "llegada": null,
+   "chr": 3100,
+   "npc": 31000033,
+   "think": 31001000,
+   "tags": [
+    "cazador de esferas"
+   ],
+   "vida": 0.81
+  },
+  {
+   "id": "30080800",
+   "name": "Ancient Hero of Zamor",
+   "kind": "Normal",
+   "warp_flag": 1049300249,
+   "defeat_flag": 30080800,
+   "llegada": [
+    312.32,
+    742.4,
+    24.11
+   ],
+   "chr": 7100,
+   "npc": 71000030,
+   "think": 71000000,
+   "tags": [
+    "viejo héroe de zamor"
+   ],
+   "vida": 0.86
+  },
+  {
+   "id": "1036540800",
+   "name": "Full-Grown Fallingstar Beast",
+   "kind": "Normal",
+   "warp_flag": 1049300318,
+   "defeat_flag": 1036540800,
+   "llegada": [
+    96.36,
+    1047.5,
+    -32.5
+   ],
+   "chr": 4680,
+   "npc": 46800032,
+   "think": 46800930,
+   "tags": [
+    "bestia adulta de la estrella fugaz"
+   ],
+   "vida": 0.39
+  },
+  {
+   "id": "30090800",
+   "name": "Red Wolf of the Champion",
+   "kind": "Normal",
+   "warp_flag": 1049300250,
+   "defeat_flag": 30090800,
+   "llegada": [
+    -156.06,
+    646.44,
+    61.7
+   ],
+   "chr": 3181,
+   "npc": 31811032,
+   "think": 31810932,
+   "tags": [
+    "lobo rojo del campeón"
+   ]
+  },
+  {
+   "id": "1039540800",
+   "name": "Elemer of the Briar",
+   "kind": "Normal",
+   "warp_flag": 1049300331,
+   "defeat_flag": 1039540800,
+   "llegada": null,
+   "chr": 3100,
+   "npc": 31000931,
+   "think": 31000931,
+   "tags": [
+    "elemer de la zarza"
+   ],
+   "vida": 0.81
+  },
+  {
+   "id": "39200800",
+   "name": "Magma Wyrm Makar",
+   "kind": "Normal",
+   "warp_flag": 1049300298,
+   "defeat_flag": 39200800,
+   "llegada": [
+    -90.65,
+    352.93,
+    -1309.41
+   ],
+   "chr": 4910,
+   "npc": 49100026,
+   "think": 49100926,
+   "tags": [
+    "dragón de magma makar"
+   ],
+   "vida": 0.41,
+   "arena": "grande"
+  },
+  {
+   "id": "12030390",
+   "name": "Crucible Knight Siluria",
+   "kind": "Normal",
+   "warp_flag": 1049300212,
+   "defeat_flag": 12020390,
+   "llegada": [
+    -871.9,
+    94.83,
+    -323.55
+   ],
+   "chr": 2500,
+   "npc": 25001066,
+   "think": 25001066,
+   "tags": [
+    "caballera del crisol siluria"
+   ]
+  },
+  {
+   "id": "1039500800",
+   "name": "Godefroy the Grafted",
+   "kind": "Normal",
+   "warp_flag": 1049300329,
+   "defeat_flag": 1039500800,
+   "llegada": [
+    -34.83,
+    711.77,
+    -86.55
+   ],
+   "chr": 4750,
+   "npc": 47500030,
+   "think": 47500000,
+   "tags": [
+    "godefroy"
+   ],
+   "vida": 0.36
+  },
+  {
+   "id": "n2_c4353",
+   "name": "Leyndell Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero de leyndell"
+   ],
+   "llegada": null,
+   "chr": 4353,
+   "npc": 43530000,
+   "think": 43530000,
+   "vida": 1.41
+  },
+  {
+   "id": "n2_c4354",
+   "name": "Redmane Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero melena roja"
+   ],
+   "llegada": null,
+   "chr": 4354,
+   "npc": 43540000,
+   "think": 43540000,
+   "vida": 1.41
+  },
+  {
+   "id": "n2_c4355",
+   "name": "Mausoleum Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero del mausoleo"
+   ],
+   "llegada": null,
+   "chr": 4355,
+   "npc": 43550000,
+   "think": 43550000,
+   "vida": 1.41
+  },
+  {
+   "id": "n2_c4356",
+   "name": "Haligtree Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero del árbol hierático"
+   ],
+   "llegada": null,
+   "chr": 4356,
+   "npc": 43560000,
+   "think": 43560000,
+   "vida": 1.41
+  },
+  {
+   "id": "n2_c3910",
+   "name": "Fire Prelate",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "prelado de fuego"
+   ],
+   "llegada": null,
+   "chr": 3910,
+   "npc": 39100000,
+   "think": 39100000
+  },
+  {
+   "id": "n2_c3901",
+   "name": "Blackflame Monk",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "monje de la llama negra"
+   ],
+   "llegada": null,
+   "chr": 3901,
+   "npc": 39010000,
+   "think": 39010000,
+   "vida": 1.37
+  },
+  {
+   "id": "n2_c4602",
+   "name": "Snowfield Troll",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "trol de las nieves"
+   ],
+   "llegada": null,
+   "chr": 4602,
+   "npc": 46020000,
+   "think": 46020000,
+   "vida": 0.64,
+   "arena": "grande"
+  },
+  {
+   "id": "n2_c3060",
+   "name": "Giant Skeleton",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "esqueleto gigante"
+   ],
+   "llegada": null,
+   "chr": 3060,
+   "npc": 30600000,
+   "think": 30600000,
+   "vida": 1.21
+  },
+  {
+   "id": "n2_c4270",
+   "name": "Elder Lion",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "león viejo"
+   ],
+   "llegada": null,
+   "chr": 4270,
+   "npc": 42700000,
+   "think": 42700000,
+   "vida": 0.95
+  },
+  {
+   "id": "n2_c4570",
+   "name": "Wormface",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caragusano"
+   ],
+   "llegada": null,
+   "chr": 4570,
+   "npc": 45700000,
+   "think": 45700000,
+   "vida": 1.31
+  },
+  {
+   "id": "n2_c3630",
+   "name": "Oracle Envoy (Giant)",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "heraldo oráculo gigante"
+   ],
+   "llegada": null,
+   "chr": 3630,
+   "npc": 36300000,
+   "think": 36300000,
+   "vida": 1.06
+  },
+  {
+   "id": "n2_c4560",
+   "name": "Giant Crow",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "cuervo gigante"
+   ],
+   "llegada": null,
+   "chr": 4560,
+   "npc": 45600000,
+   "think": 45600000
+  },
+  {
+   "id": "n2_c5250",
+   "name": "Horned Warrior",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "guerrero cornudo"
+   ],
+   "llegada": null,
+   "chr": 5250,
+   "npc": 52500000,
+   "think": 52500000,
+   "vida": 1.79
+  },
+  {
+   "id": "n2_c5260",
+   "name": "Golem Smith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "herrero gólem"
+   ],
+   "llegada": null,
+   "chr": 5260,
+   "npc": 52600000,
+   "think": 52600000,
+   "vida": 1.04
+  },
+  {
+   "id": "n2_c5320",
+   "name": "Fat Inquisitor",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "inquisidor gordo"
+   ],
+   "llegada": null,
+   "chr": 5320,
+   "npc": 53200000,
+   "think": 53200000,
+   "vida": 1.41
+  },
+  {
+   "id": "n2_c5421",
+   "name": "Red Bear",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "oso rojo"
+   ],
+   "llegada": null,
+   "chr": 5421,
+   "npc": 54210000,
+   "think": 54210000,
+   "vida": 1.19
+  },
+  {
+   "id": "n2_c5950",
+   "name": "Leonine Misbegotten",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "bastardo leonino"
+   ],
+   "llegada": null,
+   "chr": 5950,
+   "npc": 59500000,
+   "think": 59500000,
+   "vida": 1.44
+  },
+  {
+   "id": "n2_c5980",
+   "name": "Omenkiller",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "asesino de augurios"
+   ],
+   "llegada": null,
+   "chr": 5980,
+   "npc": 59800000,
+   "think": 59800000,
+   "vida": 1.89
+  },
+  {
+   "id": "n2_c5270",
+   "name": "Jar Innards",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "entrañas de tinaja"
+   ],
+   "llegada": null,
+   "chr": 5270,
+   "npc": 52700000,
+   "think": 52700000,
+   "vida": 2.05
+  },
+  {
+   "id": "m2_leyndell",
+   "name": "Leyndell Knights",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_leyndell"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 4353,
+     "npc": 43530000,
+     "think": 43530000
+    },
+    {
+     "chr": 4353,
+     "npc": 43530000,
+     "think": 43530000
+    },
+    {
+     "chr": 4313,
+     "npc": 43130000,
+     "think": 43130000
+    },
+    {
+     "chr": 4313,
+     "npc": 43130000,
+     "think": 43130000
+    }
+   ],
+   "vida": 0.79,
+   "arena": "grande"
+  },
+  {
+   "id": "m2_melenas",
+   "name": "Redmanes",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_melenas"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 4354,
+     "npc": 43540000,
+     "think": 43540000
+    },
+    {
+     "chr": 4314,
+     "npc": 43140000,
+     "think": 43140000
+    },
+    {
+     "chr": 4314,
+     "npc": 43140000,
+     "think": 43140000
+    },
+    {
+     "chr": 4374,
+     "npc": 43740000,
+     "think": 43740000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "m2_mausoleo",
+   "name": "Mausoleum Guard",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_mausoleo"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 4355,
+     "npc": 43550000,
+     "think": 43550000
+    },
+    {
+     "chr": 4315,
+     "npc": 43150000,
+     "think": 43150000
+    },
+    {
+     "chr": 4315,
+     "npc": 43150000,
+     "think": 43150000
+    }
+   ]
+  },
+  {
+   "id": "m2_haligtree",
+   "name": "Haligtree Guard",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_haligtree"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 4356,
+     "npc": 43560000,
+     "think": 43560000
+    },
+    {
+     "chr": 4316,
+     "npc": 43160000,
+     "think": 43160000
+    },
+    {
+     "chr": 4316,
+     "npc": 43160000,
+     "think": 43160000
+    }
+   ]
+  },
+  {
+   "id": "m2_monjes",
+   "name": "Fire Monks",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_monjes"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3900,
+     "npc": 39000000,
+     "think": 39000000
+    },
+    {
+     "chr": 3900,
+     "npc": 39000000,
+     "think": 39000000
+    },
+    {
+     "chr": 3901,
+     "npc": 39010000,
+     "think": 39010000
+    }
+   ],
+   "vida": 0.68
+  },
+  {
+   "id": "m2_guardianes",
+   "name": "Erdtree Guardians",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_guardianes"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3650,
+     "npc": 36500000,
+     "think": 36500000
+    },
+    {
+     "chr": 3650,
+     "npc": 36500000,
+     "think": 36500000
+    },
+    {
+     "chr": 3650,
+     "npc": 36500000,
+     "think": 36500000
+    },
+    {
+     "chr": 3650,
+     "npc": 36500000,
+     "think": 36500000
+    }
+   ],
+   "vida": 1.38,
+   "arena": "grande"
+  },
+  {
+   "id": "m2_podredumbre",
+   "name": "Kindred of Rot Brood",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_podredumbre"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3810,
+     "npc": 38100000,
+     "think": 38100000
+    },
+    {
+     "chr": 3810,
+     "npc": 38100000,
+     "think": 38100000
+    },
+    {
+     "chr": 3810,
+     "npc": 38100000,
+     "think": 38100000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "m2_marionetas",
+   "name": "Gelmir Marionettes",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_marionetas"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3850,
+     "npc": 38500000,
+     "think": 38500000
+    },
+    {
+     "chr": 3850,
+     "npc": 38500000,
+     "think": 38500000
+    },
+    {
+     "chr": 3860,
+     "npc": 38600000,
+     "think": 38600000
+    },
+    {
+     "chr": 3860,
+     "npc": 38600000,
+     "think": 38600000
+    }
+   ],
+   "vida": 1.15
+  },
+  {
+   "id": "m2_serpientes",
+   "name": "Man-Serpents",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_serpientes"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3950,
+     "npc": 39500000,
+     "think": 39500000
+    },
+    {
+     "chr": 3950,
+     "npc": 39500000,
+     "think": 39500000
+    },
+    {
+     "chr": 3950,
+     "npc": 39500000,
+     "think": 39500000
+    }
+   ],
+   "vida": 0.99
+  },
+  {
+   "id": "m2_bestias",
+   "name": "Farum Azula Beastmen",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_bestias"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3970,
+     "npc": 39700000,
+     "think": 39700000
+    },
+    {
+     "chr": 3970,
+     "npc": 39700000,
+     "think": 39700000
+    },
+    {
+     "chr": 3970,
+     "npc": 39700000,
+     "think": 39700000
+    }
+   ],
+   "vida": 1.08
+  },
+  {
+   "id": "m2_albinauricos",
+   "name": "Albinaurics",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_albinauricos"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 3470,
+     "npc": 34700000,
+     "think": 34700000
+    },
+    {
+     "chr": 3470,
+     "npc": 34700000,
+     "think": 34700000
+    },
+    {
+     "chr": 3470,
+     "npc": 34700000,
+     "think": 34700000
+    },
+    {
+     "chr": 3670,
+     "npc": 36700000,
+     "think": 36700000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "m2_cuernos",
+   "name": "Horned Warriors",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_cuernos"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5250,
+     "npc": 52500000,
+     "think": 52500000
+    },
+    {
+     "chr": 5250,
+     "npc": 52500000,
+     "think": 52500000
+    },
+    {
+     "chr": 5251,
+     "npc": 52510000,
+     "think": 52512000
+    }
+   ]
+  },
+  {
+   "id": "m2_messmer",
+   "name": "Messmer Soldiers",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_messmer"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5651,
+     "npc": 56510000,
+     "think": 56510000
+    },
+    {
+     "chr": 5651,
+     "npc": 56510000,
+     "think": 56510000
+    }
+   ],
+   "vida": 1.2,
+   "arena": "grande"
+  },
+  {
+   "id": "m2_sanguinarios",
+   "name": "Bloodfiends",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_sanguinarios"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5080,
+     "npc": 50800000,
+     "think": 50800000
+    },
+    {
+     "chr": 5080,
+     "npc": 50800000,
+     "think": 50800000
+    },
+    {
+     "chr": 5080,
+     "npc": 50800000,
+     "think": 50800000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "m2_herreros",
+   "name": "Golem Smiths",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_herreros"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5260,
+     "npc": 52600000,
+     "think": 52600000
+    },
+    {
+     "chr": 5260,
+     "npc": 52600000,
+     "think": 52600000
+    }
+   ],
+   "vida": 0.78,
+   "arena": "grande"
+  },
+  {
+   "id": "m2_inquisidores",
+   "name": "Inquisitors",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m2_inquisidores"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5311,
+     "npc": 53110000,
+     "think": 53110000
+    },
+    {
+     "chr": 5311,
+     "npc": 53110000,
+     "think": 53110000
+    },
+    {
+     "chr": 5311,
+     "npc": 53110000,
+     "think": 53110000
+    },
+    {
+     "chr": 5320,
+     "npc": 53200000,
+     "think": 53200000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "30100800",
+   "name": "Crucible Knight Ordovis",
+   "kind": "Elite",
+   "warp_flag": 1049300251,
+   "defeat_flag": 30100800,
+   "llegada": [
+    -111.44,
+    761.64,
+    330.43
+   ],
+   "chr": 2500,
+   "npc": 25000933,
+   "think": 25000030,
+   "tags": [
+    "caballero del crisol ordovis"
+   ],
+   "vida": 1.52
+  },
+  {
+   "id": "1044530800",
+   "name": "Deathbird",
+   "kind": "Elite",
+   "warp_flag": 1049300352,
+   "defeat_flag": 1043530800,
+   "llegada": [
+    -14.43,
+    1027.81,
+    78.43
+   ],
+   "chr": 4980,
+   "npc": 49800033,
+   "think": 49800100,
+   "tags": [
+    "ave de la muerte"
+   ],
+   "vida": 0.92,
+   "arena": "grande"
+  },
+  {
+   "id": "34140850",
+   "name": "Fell Twin",
+   "kind": "Elite",
+   "warp_flag": 1049300295,
+   "defeat_flag": 34140850,
+   "llegada": [
+    598.04,
+    -373.49,
+    -341.25
+   ],
+   "chr": 2140,
+   "npc": 21403050,
+   "think": 21400900,
+   "tags": [
+    "gemelo caído"
+   ]
+  },
+  {
+   "id": "12020800",
+   "name": "Valiant Gargoyle",
+   "kind": "Elite",
+   "warp_flag": 1049300209,
+   "defeat_flag": 12020800,
+   "llegada": [
+    1202.44,
+    -586.79,
+    1903.45
+   ],
+   "chr": 4770,
+   "npc": 47701165,
+   "think": 47701200,
+   "tags": [
+    "gárgola denodada"
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "35000850",
+   "name": "Esgar, Priest of Blood",
+   "kind": "Elite",
+   "warp_flag": 1049300297,
+   "defeat_flag": 35000850,
+   "llegada": [
+    -193.13,
+    -153.59,
+    -286.36
+   ],
+   "chr": 0,
+   "npc": 523860000,
+   "think": 523860000,
+   "tags": [
+    "esgar"
+   ]
+  },
+  {
+   "id": "1048510800",
+   "name": "Night's Cavalry",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 1048510800,
+   "llegada": null,
+   "chr": 3150,
+   "npc": 31500050,
+   "think": 31500000,
+   "tags": [
+    "caballería nocturna"
+   ],
+   "vida": 1.27
+  },
+  {
+   "id": "1048370800",
+   "name": "Decaying Ekzykes",
+   "kind": "Elite",
+   "warp_flag": 1049300355,
+   "defeat_flag": 1048370800,
+   "llegada": [
+    -53.91,
+    114.17,
+    -32.96
+   ],
+   "chr": 4501,
+   "npc": 45010040,
+   "think": 45010900,
+   "tags": [
+    "ekzykes"
+   ],
+   "vida": 0.33,
+   "arena": "grande"
+  },
+  {
+   "id": "1052410850",
+   "name": "Night's Cavalry",
+   "kind": "Elite",
+   "warp_flag": 1049300373,
+   "defeat_flag": 1052410850,
+   "llegada": [
+    8.81,
+    221.36,
+    111.75
+   ],
+   "chr": 3150,
+   "npc": 31500042,
+   "think": 31500000,
+   "tags": [
+    "caballería nocturna"
+   ],
+   "vida": 1.27
+  },
+  {
+   "id": "30180800",
+   "name": "Ulcerated Tree Spirit",
+   "kind": "Elite",
+   "warp_flag": 1049300261,
+   "defeat_flag": 30180800,
+   "llegada": [
+    -111.18,
+    1477.6,
+    149.35
+   ],
+   "chr": 4640,
+   "npc": 46400950,
+   "think": 46400800,
+   "tags": [
+    "espíritu del árbol ulcerado"
+   ],
+   "vida": 0.71,
+   "arena": "grande"
+  },
+  {
+   "id": "1048410800",
+   "name": "Bell Bearing Hunter",
+   "kind": "Elite",
+   "warp_flag": 1049300357,
+   "defeat_flag": 1048410800,
+   "llegada": [
+    -88.67,
+    226.16,
+    -78.51
+   ],
+   "chr": 3100,
+   "npc": 31000042,
+   "think": 31001000,
+   "tags": [
+    "cazador de esferas"
+   ]
+  },
+  {
+   "id": "16000850",
+   "name": "Godskin Noble",
+   "kind": "Elite",
+   "warp_flag": 1049300227,
+   "defeat_flag": 16000850,
+   "llegada": null,
+   "chr": 3570,
+   "npc": 35700038,
+   "think": 35700900,
+   "tags": [
+    "noble sacrodermo"
+   ],
+   "vida": 0.78
+  },
+  {
+   "id": "12010850",
+   "name": "Dragonkin Soldier",
+   "kind": "Elite",
+   "warp_flag": 1049300208,
+   "defeat_flag": 12010850,
+   "llegada": [
+    -227.65,
+    -317.06,
+    -309.44
+   ],
+   "chr": 4650,
+   "npc": 46500262,
+   "think": 46500200,
+   "tags": [
+    "soldado draconiano"
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "j2_hipopotamo",
+   "name": "Golden Hippopotamus",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "hipopótamo dorado"
+   ],
+   "llegada": null,
+   "chr": 5010,
+   "npc": 50100000,
+   "think": 50100000,
+   "vida": 0.65,
+   "arena": "grande"
+  },
+  {
+   "id": "2046410800",
+   "name": "Knight of the Solitary Gaol",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2046410800,
+   "tags": [
+    "caballero de la prisión solitaria"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524240080,
+   "think": 524240000
+  },
+  {
+   "id": "41000800",
+   "name": "Demi-Human Swordmaster Onze",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 41000800,
+   "tags": [
+    "onze"
+   ],
+   "llegada": null,
+   "chr": 5810,
+   "npc": 58100980,
+   "think": 58100900,
+   "vida": 1.21
+  },
+  {
+   "id": "43000800",
+   "name": "Chief Bloodfiend",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 43000800,
+   "tags": [
+    "sanguinemigo jefe"
+   ],
+   "llegada": null,
+   "chr": 5081,
+   "npc": 50810990,
+   "think": 50810010,
+   "vida": 1.17
+  },
+  {
+   "id": "2046380800",
+   "name": "Dancer of Ranah",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2046380800,
+   "tags": [
+    "bailarina de ranah"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524220083,
+   "think": 524220000
+  },
+  {
+   "id": "2046450800",
+   "name": "Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2046450800,
+   "tags": [
+    "oso rojo"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524210095,
+   "think": 524210000
+  },
+  {
+   "id": "2049430850",
+   "name": "Black Knight Edredd",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2049430850,
+   "tags": [
+    "caballero negro edredd"
+   ],
+   "llegada": null,
+   "chr": 5840,
+   "npc": 58400690,
+   "think": 58401090,
+   "vida": 1.49
+  },
+  {
+   "id": "2051440800",
+   "name": "Rakshasa",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2051440800,
+   "tags": [
+    "rakshasa"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524230091,
+   "think": 524230000
+  },
+  {
+   "id": "41010800",
+   "name": "Curseblade Labirith",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 41010800,
+   "tags": [
+    "hojamaldita labirith"
+   ],
+   "llegada": null,
+   "chr": 5040,
+   "npc": 50400190,
+   "think": 50400900,
+   "vida": 1.52
+  },
+  {
+   "id": "2046400800",
+   "name": "Demi-Human Queen Marigga",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2046400800,
+   "tags": [
+    "marigga"
+   ],
+   "llegada": null,
+   "chr": 5730,
+   "npc": 57300083,
+   "think": 57300000,
+   "vida": 1.4
+  },
+  {
+   "id": "40000800",
+   "name": "Death Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 40000800,
+   "tags": [
+    "caballero de la muerte"
+   ],
+   "llegada": null,
+   "chr": 5070,
+   "npc": 50700081,
+   "think": 50700010,
+   "vida": 1.14
+  },
+  {
+   "id": "40010800",
+   "name": "Death Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 40010800,
+   "tags": [
+    "caballero de la muerte"
+   ],
+   "llegada": null,
+   "chr": 5070,
+   "npc": 50701095,
+   "think": 50701010,
+   "vida": 1.14
+  },
+  {
+   "id": "2050470800",
+   "name": "Tree Sentinel",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2050470800,
+   "tags": [
+    "centinela agreste"
+   ],
+   "llegada": null,
+   "chr": 6251,
+   "npc": 62511093,
+   "think": 62511010
+  },
+  {
+   "id": "2050480860",
+   "name": "Tree Sentinel",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2050480860,
+   "tags": [
+    "centinela agreste"
+   ],
+   "llegada": null,
+   "chr": 6251,
+   "npc": 62510093,
+   "think": 62510900
+  },
+  {
+   "id": "43010800",
+   "name": "Ancient Dragon-Man",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 43010800,
+   "tags": [
+    "hombre dragón antiguo"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524070081,
+   "think": 524070000
+  },
+  {
+   "id": "41020800",
+   "name": "Lamenter",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 41020800,
+   "tags": [
+    "doliente"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524270084,
+   "think": 524270000
+  },
+  {
+   "id": "e2_jefe_sanguinario",
+   "name": "Chief Bloodfiend and Kin",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "e2_jefe_sanguinario"
+   ],
+   "llegada": null,
+   "formato": "escolta",
+   "enemigos": [
+    {
+     "chr": 5081,
+     "npc": 50810990,
+     "think": 50810010
+    },
+    {
+     "chr": 5080,
+     "npc": 50800000,
+     "think": 50800000
+    },
+    {
+     "chr": 5080,
+     "npc": 50800000,
+     "think": 50800000
+    }
+   ],
+   "lider": 0,
+   "vida": 1.17,
+   "arena": "grande"
+  },
+  {
+   "id": "h2_leyndell",
+   "name": "Siege of Leyndell",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "h2_leyndell"
+   ],
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 4313,
+     "npc": 43130000,
+     "think": 43130000
+    },
+    {
+     "chr": 4313,
+     "npc": 43130000,
+     "think": 43130000
+    },
+    {
+     "chr": 4373,
+     "npc": 43730000,
+     "think": 43730000
+    },
+    {
+     "chr": 4373,
+     "npc": 43730000,
+     "think": 43730000
+    },
+    {
+     "chr": 4353,
+     "npc": 43530000,
+     "think": 43530000
+    },
+    {
+     "chr": 4353,
+     "npc": 43530000,
+     "think": 43530000
+    },
+    {
+     "chr": 2500,
+     "npc": 25000941,
+     "think": 25000040
+    }
+   ],
+   "oleadas": [
+    [
+     0,
+     1,
+     2,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     6
+    ]
+   ],
+   "vida": 0.72,
+   "arena": "grande"
+  },
+  {
+   "id": "15000850",
+   "name": "Loretta, Knight of the Haligtree",
+   "kind": "Boss",
+   "warp_flag": 1049300225,
+   "defeat_flag": 15000850,
+   "llegada": [
+    176.11,
+    431.75,
+    295.88
+   ],
+   "chr": 3252,
+   "npc": 32520054,
+   "think": 32520054,
+   "tags": [
+    "loretta"
+   ],
+   "vida": 1.22
+  },
+  {
+   "id": "35000800",
+   "name": "Mohg, the Omen",
+   "kind": "Boss",
+   "warp_flag": 1049300296,
+   "defeat_flag": 35000800,
+   "llegada": null,
+   "chr": 4800,
+   "npc": 48001935,
+   "think": 48000000,
+   "tags": [
+    "mohg"
+   ]
+  },
+  {
+   "id": "11000850",
+   "name": "Godfrey, First Elden Lord",
+   "kind": "Boss",
+   "warp_flag": 1049300204,
+   "defeat_flag": 11000850,
+   "llegada": null,
+   "chr": 4720,
+   "npc": 47200134,
+   "think": 47200000,
+   "tags": [
+    "godfrey"
+   ],
+   "vida": 1.32
+  },
+  {
+   "id": "11000800",
+   "name": "Morgott, the Omen King",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 11000800,
+   "tags": [
+    "morgott"
+   ],
+   "llegada": null,
+   "chr": 2130,
+   "npc": 21300534,
+   "think": 21300500
+  },
+  {
+   "id": "20000800",
+   "name": "Divine Beast Dancing Lion",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 20000800,
+   "tags": [
+    "bestia divina león danzante"
+   ],
+   "llegada": null,
+   "chr": 5210,
+   "npc": 52100088,
+   "think": 52100000
+  },
+  {
+   "id": "j2_radahn",
+   "name": "Starscourge Radahn",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "radahn"
+   ],
+   "llegada": null,
+   "chr": 4730,
+   "npc": 47300000,
+   "think": 47300000
+  },
+  {
+   "id": "d2_pieldivinas",
+   "name": "Godskin Duo",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "d2_pieldivinas"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3560,
+     "npc": 35600030,
+     "think": 35600900
+    },
+    {
+     "chr": 3570,
+     "npc": 35700038,
+     "think": 35700900
+    }
+   ],
+   "vida": 0.76
+  },
+  {
+   "id": "nr_c7710",
+   "name": "Centipede Demon",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "chr": 7710,
+   "npc": 77100000,
+   "think": 77100000,
+   "tags": [
+    "demonio ciempiés"
+   ]
+  },
+  {
+   "id": "campeon2_leyndell",
+   "name": "Leyndell Champion",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "campeón de leyndell"
+   ],
+   "llegada": null,
+   "chr": 4353,
+   "npc": 43530000,
+   "think": 43530000,
+   "mutadores": [
+    "gigante",
+    "rapido"
+   ],
+   "vida": 2.22
+  },
+  {
+   "id": "racha2_duelistas",
+   "name": "Duelists' Streak",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "racha2_duelistas"
+   ],
+   "llegada": null,
+   "enemigos": [
+    {
+     "chr": 3400,
+     "npc": 34001110,
+     "think": 34001010
+    },
+    {
+     "chr": 2100,
+     "npc": 21000830,
+     "think": 21000030
+    },
+    {
+     "chr": 2500,
+     "npc": 25000941,
+     "think": 25000040
+    }
+   ],
+   "formato": "racha",
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ],
+    [
+     2
+    ]
+   ],
+   "vida": 0.76
+  },
+  {
+   "id": "reloj2_caballeria",
+   "name": "Night's Cavalry: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballería nocturna: contrarreloj"
+   ],
+   "llegada": null,
+   "chr": 3150,
+   "npc": 31500050,
+   "think": 31500000,
+   "segundos": 90,
+   "vida": 1.27
+  },
+  {
+   "id": "nr_c7800",
+   "name": "Duke's Dear Freja",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "tags": [
+    "freja"
+   ],
+   "formato": "escolta",
+   "enemigos": [
+    {
+     "chr": 7800,
+     "npc": 78000000,
+     "think": 78000000
+    },
+    {
+     "chr": 7810,
+     "npc": 78100000,
+     "think": 78100000
+    },
+    {
+     "chr": 7810,
+     "npc": 78100000,
+     "think": 78100000
+    },
+    {
+     "chr": 7810,
+     "npc": 78100000,
+     "think": 78100000
+    },
+    {
+     "chr": 7810,
+     "npc": 78100000,
+     "think": 78100000
+    }
+   ],
+   "lider": 0,
+   "vida": 0.8
+  },
+  {
+   "id": "aguante2_caballeria",
+   "name": "Outlast the Night's Cavalry",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "aguanta a la caballería nocturna"
+   ],
+   "llegada": null,
+   "chr": 3150,
+   "npc": 31501030,
+   "think": 31501000,
+   "formato": "aguante",
+   "segundos": 60
+  },
+  {
+   "id": "nr_c7700",
+   "name": "Gaping Dragon",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "chr": 7700,
+   "npc": 77000000,
+   "think": 77000000,
+   "tags": [
+    "dragón boquiabierto"
+   ]
+  },
+  {
+   "id": "coliseo_2010",
+   "name": "Blaidd",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "tags": [
+    "blaidd",
+    "nuevo_24_10"
+   ],
+   "chr": 2010,
+   "npc": 20100000,
+   "think": 20100000
+  },
+  {
+   "id": "coliseo_4240",
+   "name": "Fingercreeper",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "tags": [
+    "fingercreeper",
+    "nuevo_24_10"
+   ],
+   "chr": 4240,
+   "npc": 42400000,
+   "think": 42400000,
+   "vida": 1.09
+  },
+  {
+   "id": "coliseo_4241",
+   "name": "Fingercreeper (Large)",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "tags": [
+    "fingercreeper large",
+    "nuevo_24_10"
+   ],
+   "chr": 4241,
+   "npc": 42410000,
+   "think": 42410000,
+   "arena": "grande"
+  }
+ ]
+}

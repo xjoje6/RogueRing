@@ -1,0 +1,6 @@
+{
+ "_nota": "Parejas de mezcla que fallaron en el banco (tools/aplicar_validacion.py); tools/mezclas_coop.py no las vuelve a sacar.",
+ "fallidas": [
+  "mezcla3_52300396_20500000"
+ ]
+}

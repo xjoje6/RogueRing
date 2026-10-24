@@ -1,0 +1,249 @@
+{
+ "_nota": "Personajes. atributos = vig men agu fue des int fe arc (Vigor bajo a propósito: se empieza con poca vida y se gana con bendiciones). armas = las que se pueden elegir en Personajes: la primera de salida, la segunda tras 3 victorias con el personaje y la tercera tras 10 (rogue_core::characters::VICTORIAS_ARMA). Al empezar, los atributos suben lo justo para empuñar la elegida. ropa = cabeza, torso, brazos, piernas (EquipParamProtector). estilo = tipos de arma que se le ofrecen. pasiva = texto de la carta (el efecto vive en la DLL). danio y recibido = ajuste de balance del personaje (multiplican el daño que hace y el que recibe; docs/balance_acto1.csv).",
+ "personajes": [
+  {
+   "id": "monje",
+   "nombre": "Monk",
+   "lema": "Every blow mends him.",
+   "atributos": [
+    34,
+    15,
+    30,
+    30,
+    55,
+    9,
+    27,
+    8
+   ],
+   "armas": [
+    60500000,
+    60510000,
+    21070000
+   ],
+   "doble": false,
+   "ceniza": null,
+   "frascos": 2,
+   "danio": 1.35,
+   "estilo": [
+    "Hand-to-Hand Art",
+    "Fist",
+    "Claw"
+   ],
+   "pasiva": "Heals on hit and dodges with a quick step. Fewer flasks.",
+   "ropa": [
+    3000000,
+    3000100,
+    3000200,
+    3000300
+   ],
+   "apariencias": [
+    {
+     "id": "duquesa",
+     "nombre": "Duchess",
+     "ropa": [
+      -1,
+      5003100,
+      -1,
+      -1
+     ],
+     "victorias": 1
+    }
+   ]
+  },
+  {
+   "id": "samurai",
+   "sin_dobles": true,
+   "nombre": "Samurai",
+   "lema": "Wins by deflecting.",
+   "atributos": [
+    35,
+    15,
+    35,
+    40,
+    55,
+    8,
+    8,
+    8
+   ],
+   "armas": [
+    9010000,
+    66500000,
+    10050000
+   ],
+   "doble": false,
+   "ceniza": null,
+   "frascos": 4,
+   "estilo": [
+    "Katana",
+    "Great Katana",
+    "Curved Sword",
+    "Thrusting Sword"
+   ],
+   "pasiva": "Deflects any blow and wears down stance.",
+   "ropa": [
+    870000,
+    870100,
+    870200,
+    870300
+   ],
+   "apariencias": [
+    {
+     "id": "ejecutor",
+     "nombre": "Executor",
+     "ropa": [
+      -1,
+      5007100,
+      -1,
+      -1
+     ],
+     "victorias": 1
+    }
+   ]
+  },
+  {
+   "id": "tanque",
+   "nombre": "Bulwark",
+   "lema": "Takes the hit. Hits back.",
+   "atributos": [
+    35,
+    10,
+    42,
+    53,
+    25,
+    11,
+    20,
+    8
+   ],
+   "armas": [
+    12190000,
+    15010000,
+    12530000
+   ],
+   "doble": false,
+   "ceniza": null,
+   "frascos": 4,
+   "estilo": [
+    "Colossal Sword",
+    "Colossal Weapon",
+    "Great Hammer",
+    "Greatsword"
+   ],
+   "pasiva": "Nothing staggers him.",
+   "ropa": [
+    140000,
+    140100,
+    140200,
+    140300
+   ],
+   "recibido": 1.15,
+   "apariencias": [
+    {
+     "id": "asaltante",
+     "nombre": "Raider",
+     "ropa": [
+      -1,
+      5004100,
+      -1,
+      -1
+     ],
+     "victorias": 1
+    }
+   ]
+  },
+  {
+   "id": "invocador",
+   "nombre": "Summoner",
+   "lema": "Never fights alone.",
+   "atributos": [
+    30,
+    20,
+    28,
+    16,
+    45,
+    9,
+    30,
+    12
+   ],
+   "armas": [
+    22000000,
+    22020000,
+    22030000
+   ],
+   "doble": false,
+   "ceniza": null,
+   "frascos": 3,
+   "estilo": [
+    "Claw"
+   ],
+   "pasiva": "Starts every fight with a spirit summon.",
+   "ropa": [
+    180000,
+    180100,
+    180200,
+    180300
+   ],
+   "apariencias": [
+    {
+     "id": "revenant",
+     "nombre": "Revenant",
+     "ropa": [
+      -1,
+      5005100,
+      -1,
+      -1
+     ],
+     "victorias": 1
+    }
+   ],
+   "invocaciones": [
+    {
+     "id": "lobos",
+     "nombre": "Lone Wolf Ashes",
+     "chr": 4070,
+     "npc": 140700000,
+     "think": 140700000,
+     "posiciones": [
+      [
+       -1.1,
+       1.3
+      ],
+      [
+       1.4,
+       -1.3
+      ],
+      [
+       -1.5,
+       -1.3
+      ]
+     ]
+    },
+    {
+     "id": "oleg",
+     "nombre": "Banished Knight Oleg",
+     "chr": 3010,
+     "npc": 130101000,
+     "think": 130101000,
+     "posiciones": [
+      [
+       1.3,
+       0.0
+      ]
+     ]
+    },
+    {
+     "id": "tiche",
+     "nombre": "Black Knife Tiche",
+     "chr": 2100,
+     "npc": 121000000,
+     "think": 121000000,
+     "posiciones": [
+      [
+       1.3,
+       0.0
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

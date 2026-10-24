@@ -1,0 +1,1037 @@
+[
+ {
+  "id": 1000,
+  "nombre": "Crimson Amber Medallion",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310000,
+  "grupo": 1000,
+  "icono": 18000
+ },
+ {
+  "id": 1001,
+  "nombre": "Crimson Amber Medallion +1",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310010,
+  "grupo": 1000,
+  "icono": 18001
+ },
+ {
+  "id": 1002,
+  "nombre": "Crimson Amber Medallion +2",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310020,
+  "grupo": 1000,
+  "icono": 18002
+ },
+ {
+  "id": 1010,
+  "nombre": "Cerulean Amber Medallion",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310100,
+  "grupo": 1010,
+  "icono": 18010
+ },
+ {
+  "id": 1011,
+  "nombre": "Cerulean Amber Medallion +1",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310110,
+  "grupo": 1010,
+  "icono": 18011
+ },
+ {
+  "id": 1012,
+  "nombre": "Cerulean Amber Medallion +2",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310120,
+  "grupo": 1010,
+  "icono": 18012
+ },
+ {
+  "id": 1020,
+  "nombre": "Viridian Amber Medallion",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310200,
+  "grupo": 1020,
+  "icono": 18020
+ },
+ {
+  "id": 1021,
+  "nombre": "Viridian Amber Medallion +1",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310210,
+  "grupo": 1020,
+  "icono": 18021
+ },
+ {
+  "id": 1022,
+  "nombre": "Viridian Amber Medallion +2",
+  "peso": 0.3,
+  "rareza": 2,
+  "speffect": 310220,
+  "grupo": 1020,
+  "icono": 18022
+ },
+ {
+  "id": 1030,
+  "nombre": "Arsenal Charm",
+  "peso": 1.5,
+  "rareza": 2,
+  "speffect": 310300,
+  "grupo": 1030,
+  "icono": 18030
+ },
+ {
+  "id": 1031,
+  "nombre": "Arsenal Charm +1",
+  "peso": 1.5,
+  "rareza": 2,
+  "speffect": 310310,
+  "grupo": 1030,
+  "icono": 18031
+ },
+ {
+  "id": 1032,
+  "nombre": "Great-Jar's Arsenal",
+  "peso": 1.5,
+  "rareza": 2,
+  "speffect": 310320,
+  "grupo": 1030,
+  "icono": 18032
+ },
+ {
+  "id": 1040,
+  "nombre": "Erdtree's Favor",
+  "peso": 1.5,
+  "rareza": 2,
+  "speffect": 310400,
+  "grupo": 1040,
+  "icono": 18040
+ },
+ {
+  "id": 1041,
+  "nombre": "Erdtree's Favor +1",
+  "peso": 1.5,
+  "rareza": 2,
+  "speffect": 310410,
+  "grupo": 1040,
+  "icono": 18041
+ },
+ {
+  "id": 1042,
+  "nombre": "Erdtree's Favor +2",
+  "peso": 1.5,
+  "rareza": 3,
+  "speffect": 310420,
+  "grupo": 1040,
+  "icono": 18042
+ },
+ {
+  "id": 1050,
+  "nombre": "Radagon's Scarseal",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 310500,
+  "grupo": 1050,
+  "icono": 18050
+ },
+ {
+  "id": 1051,
+  "nombre": "Radagon's Soreseal",
+  "peso": 0.8,
+  "rareza": 3,
+  "speffect": 310510,
+  "grupo": 1050,
+  "icono": 18051
+ },
+ {
+  "id": 1060,
+  "nombre": "Starscourge Heirloom",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 310600,
+  "grupo": 1060,
+  "icono": 18070
+ },
+ {
+  "id": 1070,
+  "nombre": "Prosthesis-Wearer Heirloom",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 310700,
+  "grupo": 1070,
+  "icono": 18080
+ },
+ {
+  "id": 1080,
+  "nombre": "Stargazer Heirloom",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 310800,
+  "grupo": 1080,
+  "icono": 18090
+ },
+ {
+  "id": 1090,
+  "nombre": "Two Fingers Heirloom",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 310900,
+  "grupo": 1090,
+  "icono": 18100
+ },
+ {
+  "id": 1100,
+  "nombre": "Silver Scarab",
+  "peso": 1.2,
+  "rareza": 2,
+  "speffect": 311000,
+  "grupo": 1100,
+  "icono": 18110
+ },
+ {
+  "id": 1110,
+  "nombre": "Gold Scarab",
+  "peso": 1.2,
+  "rareza": 2,
+  "speffect": 311100,
+  "grupo": 1110,
+  "icono": 18120
+ },
+ {
+  "id": 1140,
+  "nombre": "Moon of Nokstella",
+  "peso": 0.8,
+  "rareza": 3,
+  "speffect": 311400,
+  "grupo": 1140,
+  "icono": 18150
+ },
+ {
+  "id": 1150,
+  "nombre": "Green Turtle Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 311500,
+  "grupo": 1150,
+  "icono": 18160
+ },
+ {
+  "id": 1160,
+  "nombre": "Stalwart Horn Charm",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311600,
+  "grupo": 1160,
+  "icono": 18170
+ },
+ {
+  "id": 1161,
+  "nombre": "Stalwart Horn Charm +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311610,
+  "grupo": 1160,
+  "icono": 18171
+ },
+ {
+  "id": 1170,
+  "nombre": "Immunizing Horn Charm",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311700,
+  "grupo": 1170,
+  "icono": 18180
+ },
+ {
+  "id": 1171,
+  "nombre": "Immunizing Horn Charm +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311710,
+  "grupo": 1170,
+  "icono": 18181
+ },
+ {
+  "id": 1180,
+  "nombre": "Clarifying Horn Charm",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311800,
+  "grupo": 1180,
+  "icono": 18190
+ },
+ {
+  "id": 1181,
+  "nombre": "Clarifying Horn Charm +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311810,
+  "grupo": 1180,
+  "icono": 18191
+ },
+ {
+  "id": 1190,
+  "nombre": "Prince of Death's Pustule",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311900,
+  "grupo": 1190,
+  "icono": 3220
+ },
+ {
+  "id": 1191,
+  "nombre": "Prince of Death's Cyst",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 311910,
+  "grupo": 1190,
+  "icono": 18201
+ },
+ {
+  "id": 1200,
+  "nombre": "Mottled Necklace",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 312000,
+  "grupo": 1200,
+  "icono": 18210
+ },
+ {
+  "id": 1201,
+  "nombre": "Mottled Necklace +1",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 312010,
+  "grupo": 1200,
+  "icono": 18211
+ },
+ {
+  "id": 1210,
+  "nombre": "Bull-Goat's Talisman",
+  "peso": 0.5,
+  "rareza": 2,
+  "speffect": 312100,
+  "grupo": 1210,
+  "icono": 18220
+ },
+ {
+  "id": 1220,
+  "nombre": "Marika's Scarseal",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 312200,
+  "grupo": 1220,
+  "icono": 18060
+ },
+ {
+  "id": 1221,
+  "nombre": "Marika's Soreseal",
+  "peso": 0.8,
+  "rareza": 3,
+  "speffect": 312210,
+  "grupo": 1220,
+  "icono": 18061
+ },
+ {
+  "id": 1230,
+  "nombre": "Warrior Jar Shard",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 312300,
+  "grupo": 1230,
+  "icono": 18870
+ },
+ {
+  "id": 1231,
+  "nombre": "Shard of Alexander",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 312310,
+  "grupo": 1230,
+  "icono": 18871
+ },
+ {
+  "id": 1250,
+  "nombre": "Millicent's Prosthesis",
+  "peso": 1.6,
+  "rareza": 2,
+  "speffect": 312500,
+  "grupo": 1250,
+  "icono": 18890
+ },
+ {
+  "id": 2000,
+  "nombre": "Magic Scorpion Charm",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 320000,
+  "grupo": 2000,
+  "icono": 18230
+ },
+ {
+  "id": 2010,
+  "nombre": "Lightning Scorpion Charm",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 320100,
+  "grupo": 2010,
+  "icono": 18240
+ },
+ {
+  "id": 2020,
+  "nombre": "Fire Scorpion Charm",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 320200,
+  "grupo": 2020,
+  "icono": 18250
+ },
+ {
+  "id": 2030,
+  "nombre": "Sacred Scorpion Charm",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 320300,
+  "grupo": 2030,
+  "icono": 18260
+ },
+ {
+  "id": 2040,
+  "nombre": "Red-Feathered Branchsword",
+  "peso": 1.4,
+  "rareza": 2,
+  "speffect": 320400,
+  "grupo": 2040,
+  "icono": 18270
+ },
+ {
+  "id": 2050,
+  "nombre": "Ritual Sword Talisman",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 320500,
+  "grupo": 2050,
+  "icono": 18280
+ },
+ {
+  "id": 2060,
+  "nombre": "Spear Talisman",
+  "peso": 0.5,
+  "rareza": 2,
+  "speffect": 320600,
+  "grupo": 2060,
+  "icono": 18290
+ },
+ {
+  "id": 2070,
+  "nombre": "Hammer Talisman",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 320700,
+  "grupo": 2070,
+  "icono": 18300
+ },
+ {
+  "id": 2080,
+  "nombre": "Winged Sword Insignia",
+  "peso": 1.4,
+  "rareza": 2,
+  "speffect": 320800,
+  "grupo": 2080,
+  "icono": 18310
+ },
+ {
+  "id": 2081,
+  "nombre": "Rotten Winged Sword Insignia",
+  "peso": 1.4,
+  "rareza": 2,
+  "speffect": 320810,
+  "grupo": 2080,
+  "icono": 18311
+ },
+ {
+  "id": 2090,
+  "nombre": "Dagger Talisman",
+  "peso": 1.1,
+  "rareza": 2,
+  "speffect": 320900,
+  "grupo": 2090,
+  "icono": 18320
+ },
+ {
+  "id": 2100,
+  "nombre": "Arrow's Reach Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321000,
+  "grupo": 2100,
+  "icono": 18330
+ },
+ {
+  "id": 2110,
+  "nombre": "Blue Dancer Charm",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 321100,
+  "grupo": 2110,
+  "icono": 18350
+ },
+ {
+  "id": 2120,
+  "nombre": "Twinblade Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321200,
+  "grupo": 2120,
+  "icono": 18360
+ },
+ {
+  "id": 2130,
+  "nombre": "Axe Talisman",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 321300,
+  "grupo": 2130,
+  "icono": 18370
+ },
+ {
+  "id": 2140,
+  "nombre": "Lance Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321400,
+  "grupo": 2140,
+  "icono": 18380
+ },
+ {
+  "id": 2150,
+  "nombre": "Arrow's Sting Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321500,
+  "grupo": 2150,
+  "icono": 18340
+ },
+ {
+  "id": 2160,
+  "nombre": "Lord of Blood's Exultation",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 321600,
+  "grupo": 2160,
+  "icono": 18390
+ },
+ {
+  "id": 2170,
+  "nombre": "Kindred of Rot's Exultation",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 321700,
+  "grupo": 2170,
+  "icono": 18400
+ },
+ {
+  "id": 2180,
+  "nombre": "Claw Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321800,
+  "grupo": 2180,
+  "icono": 18800
+ },
+ {
+  "id": 2190,
+  "nombre": "Roar Medallion",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 321900,
+  "grupo": 2190,
+  "icono": 18810
+ },
+ {
+  "id": 2200,
+  "nombre": "Curved Sword Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 322000,
+  "grupo": 2200,
+  "icono": 18820
+ },
+ {
+  "id": 2210,
+  "nombre": "Companion Jar",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 322100,
+  "grupo": 2210,
+  "icono": 18830
+ },
+ {
+  "id": 2220,
+  "nombre": "Perfumer's Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 322200,
+  "grupo": 2220,
+  "icono": 18840
+ },
+ {
+  "id": 3000,
+  "nombre": "Graven-School Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 330000,
+  "grupo": 3000,
+  "icono": 18410
+ },
+ {
+  "id": 3001,
+  "nombre": "Graven-Mass Talisman",
+  "peso": 1.0,
+  "rareza": 2,
+  "speffect": 330010,
+  "grupo": 3001,
+  "icono": 18411
+ },
+ {
+  "id": 3040,
+  "nombre": "Faithful's Canvas Talisman",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 330400,
+  "grupo": 3040,
+  "icono": 18440
+ },
+ {
+  "id": 3050,
+  "nombre": "Flock's Canvas Talisman",
+  "peso": 1.0,
+  "rareza": 2,
+  "speffect": 330500,
+  "grupo": 3050,
+  "icono": 18450
+ },
+ {
+  "id": 3060,
+  "nombre": "Old Lord's Talisman",
+  "peso": 0.5,
+  "rareza": 3,
+  "speffect": 330600,
+  "grupo": 3060,
+  "icono": 18460
+ },
+ {
+  "id": 3070,
+  "nombre": "Radagon Icon",
+  "peso": 0.7,
+  "rareza": 3,
+  "speffect": 330700,
+  "grupo": 3070,
+  "icono": 18470
+ },
+ {
+  "id": 3080,
+  "nombre": "Primal Glintstone Blade",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 330800,
+  "grupo": 3080,
+  "icono": 18480
+ },
+ {
+  "id": 3090,
+  "nombre": "Godfrey Icon",
+  "peso": 0.8,
+  "rareza": 3,
+  "speffect": 330900,
+  "grupo": 3090,
+  "icono": 18860
+ },
+ {
+  "id": 4000,
+  "nombre": "Dragoncrest Shield Talisman",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 340000,
+  "grupo": 4000,
+  "icono": 18490
+ },
+ {
+  "id": 4001,
+  "nombre": "Dragoncrest Shield Talisman +1",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 340010,
+  "grupo": 4000,
+  "icono": 18491
+ },
+ {
+  "id": 4002,
+  "nombre": "Dragoncrest Shield Talisman +2",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 340020,
+  "grupo": 4000,
+  "icono": 18492
+ },
+ {
+  "id": 4003,
+  "nombre": "Dragoncrest Greatshield Talisman",
+  "peso": 0.8,
+  "rareza": 3,
+  "speffect": 340030,
+  "grupo": 4000,
+  "icono": 18493
+ },
+ {
+  "id": 4010,
+  "nombre": "Spelldrake Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340100,
+  "grupo": 4010,
+  "icono": 18500
+ },
+ {
+  "id": 4011,
+  "nombre": "Spelldrake Talisman +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340110,
+  "grupo": 4010,
+  "icono": 18501
+ },
+ {
+  "id": 4012,
+  "nombre": "Spelldrake Talisman +2",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340120,
+  "grupo": 4010,
+  "icono": 18502
+ },
+ {
+  "id": 4020,
+  "nombre": "Flamedrake Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340200,
+  "grupo": 4020,
+  "icono": 18510
+ },
+ {
+  "id": 4021,
+  "nombre": "Flamedrake Talisman +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340210,
+  "grupo": 4020,
+  "icono": 18511
+ },
+ {
+  "id": 4022,
+  "nombre": "Flamedrake Talisman +2",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340220,
+  "grupo": 4020,
+  "icono": 18512
+ },
+ {
+  "id": 4030,
+  "nombre": "Boltdrake Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340300,
+  "grupo": 4030,
+  "icono": 18520
+ },
+ {
+  "id": 4031,
+  "nombre": "Boltdrake Talisman +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340310,
+  "grupo": 4030,
+  "icono": 18521
+ },
+ {
+  "id": 4032,
+  "nombre": "Boltdrake Talisman +2",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340320,
+  "grupo": 4030,
+  "icono": 18522
+ },
+ {
+  "id": 4040,
+  "nombre": "Haligdrake Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340400,
+  "grupo": 4040,
+  "icono": 18530
+ },
+ {
+  "id": 4041,
+  "nombre": "Haligdrake Talisman +1",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340410,
+  "grupo": 4040,
+  "icono": 18531
+ },
+ {
+  "id": 4042,
+  "nombre": "Haligdrake Talisman +2",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 340420,
+  "grupo": 4040,
+  "icono": 18532
+ },
+ {
+  "id": 4050,
+  "nombre": "Pearldrake Talisman",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 340500,
+  "grupo": 4050,
+  "icono": 18540
+ },
+ {
+  "id": 4051,
+  "nombre": "Pearldrake Talisman +1",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 340510,
+  "grupo": 4050,
+  "icono": 18541
+ },
+ {
+  "id": 4052,
+  "nombre": "Pearldrake Talisman +2",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 340520,
+  "grupo": 4050,
+  "icono": 18542
+ },
+ {
+  "id": 4060,
+  "nombre": "Crucible Scale Talisman",
+  "peso": 1.1,
+  "rareza": 2,
+  "speffect": 340600,
+  "grupo": 4060,
+  "icono": 18550
+ },
+ {
+  "id": 4070,
+  "nombre": "Crucible Feather Talisman",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 340700,
+  "grupo": 4070,
+  "icono": 18560
+ },
+ {
+  "id": 4080,
+  "nombre": "Blue-Feathered Branchsword",
+  "peso": 1.1,
+  "rareza": 2,
+  "speffect": 340800,
+  "grupo": 4080,
+  "icono": 18570
+ },
+ {
+  "id": 4090,
+  "nombre": "Ritual Shield Talisman",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 340900,
+  "grupo": 4090,
+  "icono": 18580
+ },
+ {
+  "id": 4100,
+  "nombre": "Greatshield Talisman",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 341000,
+  "grupo": 4100,
+  "icono": 18590
+ },
+ {
+  "id": 4110,
+  "nombre": "Crucible Knot Talisman",
+  "peso": 0.5,
+  "rareza": 2,
+  "speffect": 341100,
+  "grupo": 4110,
+  "icono": 18600
+ },
+ {
+  "id": 5000,
+  "nombre": "Crimson Seed Talisman",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 350000,
+  "grupo": 5000,
+  "icono": 18610
+ },
+ {
+  "id": 5010,
+  "nombre": "Cerulean Seed Talisman",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 350100,
+  "grupo": 5010,
+  "icono": 18620
+ },
+ {
+  "id": 5020,
+  "nombre": "Blessed Dew Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 350200,
+  "grupo": 5020,
+  "icono": 18630
+ },
+ {
+  "id": 5030,
+  "nombre": "Taker's Cameo",
+  "peso": 1.0,
+  "rareza": 2,
+  "speffect": 350300,
+  "grupo": 5030,
+  "icono": 18640
+ },
+ {
+  "id": 5040,
+  "nombre": "Godskin Swaddling Cloth",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 350400,
+  "grupo": 5040,
+  "icono": 18650
+ },
+ {
+  "id": 5050,
+  "nombre": "Assassin's Crimson Dagger",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 350500,
+  "grupo": 5050,
+  "icono": 18660
+ },
+ {
+  "id": 5060,
+  "nombre": "Assassin's Cerulean Dagger",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 350600,
+  "grupo": 5060,
+  "icono": 18670
+ },
+ {
+  "id": 6000,
+  "nombre": "Crepus's Vial",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 360000,
+  "grupo": 6000,
+  "icono": 18680
+ },
+ {
+  "id": 6010,
+  "nombre": "Concealing Veil",
+  "peso": 0.9,
+  "rareza": 2,
+  "speffect": 360100,
+  "grupo": 6010,
+  "icono": 18690
+ },
+ {
+  "id": 6020,
+  "nombre": "Carian Filigreed Crest",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 360200,
+  "grupo": 6020,
+  "icono": 18700
+ },
+ {
+  "id": 6040,
+  "nombre": "Longtail Cat Talisman",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 360400,
+  "grupo": 6040,
+  "icono": 18720
+ },
+ {
+  "id": 6050,
+  "nombre": "Shabriri's Woe",
+  "peso": 0.6,
+  "rareza": 2,
+  "speffect": 360500,
+  "grupo": 6050,
+  "icono": 18730
+ },
+ {
+  "id": 6060,
+  "nombre": "Daedicar's Woe",
+  "peso": 0.8,
+  "rareza": 2,
+  "speffect": 360600,
+  "grupo": 6060,
+  "icono": 18740
+ },
+ {
+  "id": 6070,
+  "nombre": "Sacrificial Twig",
+  "peso": 1.0,
+  "rareza": 1,
+  "speffect": 360700,
+  "grupo": 6070,
+  "icono": 18750
+ },
+ {
+  "id": 6080,
+  "nombre": "Furled Finger's Trick-Mirror",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 360800,
+  "grupo": 6080,
+  "icono": 18760
+ },
+ {
+  "id": 6090,
+  "nombre": "Host's Trick-Mirror",
+  "peso": 0.7,
+  "rareza": 2,
+  "speffect": 360900,
+  "grupo": 6080,
+  "icono": 18770
+ },
+ {
+  "id": 6110,
+  "nombre": "Ancestral Spirit's Horn",
+  "peso": 1.2,
+  "rareza": 3,
+  "speffect": 361100,
+  "grupo": 6110,
+  "icono": 18880
+ }
+]

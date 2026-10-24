@@ -1,0 +1,2238 @@
+[
+ {
+  "id": 4000,
+  "nombre": "Glintstone Pebble",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 7,
+  "req": {
+   "int": 10,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6000
+ },
+ {
+  "id": 4001,
+  "nombre": "Great Glintstone Shard",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6015
+ },
+ {
+  "id": 4010,
+  "nombre": "Swift Glintstone Shard",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 5,
+  "req": {
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6001
+ },
+ {
+  "id": 4020,
+  "nombre": "Glintstone Cometshard",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 17,
+  "req": {
+   "int": 36,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6002
+ },
+ {
+  "id": 4021,
+  "nombre": "Comet",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 52,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6003
+ },
+ {
+  "id": 4030,
+  "nombre": "Shard Spiral",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 14,
+  "req": {
+   "int": 27,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6004
+ },
+ {
+  "id": 4040,
+  "nombre": "Glintstone Stars",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6010
+ },
+ {
+  "id": 4050,
+  "nombre": "Star Shower",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 23,
+  "req": {
+   "int": 24,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6016
+ },
+ {
+  "id": 4060,
+  "nombre": "Crystal Barrage",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 14,
+  "req": {
+   "int": 23,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6009
+ },
+ {
+  "id": 4070,
+  "nombre": "Glintstone Arc",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 9,
+  "req": {
+   "int": 13,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6014
+ },
+ {
+  "id": 4080,
+  "nombre": "Cannon of Haima",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 38,
+  "req": {
+   "int": 25,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6017
+ },
+ {
+  "id": 4090,
+  "nombre": "Crystal Burst",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 14,
+  "req": {
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6006
+ },
+ {
+  "id": 4100,
+  "nombre": "Shatter Earth",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 10,
+  "req": {
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6018
+ },
+ {
+  "id": 4110,
+  "nombre": "Rock Blaster",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 21,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6019
+ },
+ {
+  "id": 4120,
+  "nombre": "Gavel of Haima",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 25,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6020
+ },
+ {
+  "id": 4130,
+  "nombre": "Terra Magica",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 20,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6103
+ },
+ {
+  "id": 4140,
+  "nombre": "Starlight",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 9,
+  "req": {
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6102
+ },
+ {
+  "id": 4200,
+  "nombre": "Comet Azur",
+  "escuela": "Sorcery",
+  "ranuras": 3,
+  "pc": 40,
+  "req": {
+   "int": 60,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6012
+ },
+ {
+  "id": 4210,
+  "nombre": "Founding Rain of Stars",
+  "escuela": "Sorcery",
+  "ranuras": 2,
+  "pc": 27,
+  "req": {
+   "int": 52,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6021
+ },
+ {
+  "id": 4220,
+  "nombre": "Stars of Ruin",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 32,
+  "req": {
+   "int": 43,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6022
+ },
+ {
+  "id": 4300,
+  "nombre": "Glintblade Phalanx",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 22,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6005
+ },
+ {
+  "id": 4301,
+  "nombre": "Carian Phalanx",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 34,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6023
+ },
+ {
+  "id": 4302,
+  "nombre": "Greatblade Phalanx",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 29,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6024
+ },
+ {
+  "id": 4360,
+  "nombre": "Rennala's Full Moon",
+  "escuela": "Sorcery",
+  "ranuras": 2,
+  "pc": 47,
+  "req": {
+   "int": 70,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6007
+ },
+ {
+  "id": 4361,
+  "nombre": "Ranni's Dark Moon",
+  "escuela": "Sorcery",
+  "ranuras": 2,
+  "pc": 57,
+  "req": {
+   "int": 68,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6025
+ },
+ {
+  "id": 4370,
+  "nombre": "Magic Downpour",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6011
+ },
+ {
+  "id": 4380,
+  "nombre": "Loretta's Greatbow",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 26,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6013
+ },
+ {
+  "id": 4381,
+  "nombre": "Loretta's Mastery",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 39,
+  "req": {
+   "int": 46,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6026
+ },
+ {
+  "id": 4390,
+  "nombre": "Magic Glintblade",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6027
+ },
+ {
+  "id": 4400,
+  "nombre": "Glintstone Icecrag",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6028
+ },
+ {
+  "id": 4410,
+  "nombre": "Zamor Ice Storm",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 17,
+  "req": {
+   "int": 36,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6029
+ },
+ {
+  "id": 4420,
+  "nombre": "Freezing Mist",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 21,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6030
+ },
+ {
+  "id": 4430,
+  "nombre": "Carian Greatsword",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 24,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6050
+ },
+ {
+  "id": 4431,
+  "nombre": "Adula's Moonblade",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 32,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6031
+ },
+ {
+  "id": 4440,
+  "nombre": "Carian Slicer",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 4,
+  "req": {
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6051
+ },
+ {
+  "id": 4450,
+  "nombre": "Carian Piercer",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 17,
+  "req": {
+   "int": 27,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6052
+ },
+ {
+  "id": 4460,
+  "nombre": "Scholar's Armament",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 25,
+  "req": {
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6100
+ },
+ {
+  "id": 4470,
+  "nombre": "Scholar's Shield",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6101
+ },
+ {
+  "id": 4480,
+  "nombre": "Lucidity",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 10,
+  "req": {
+   "int": 17,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6032
+ },
+ {
+  "id": 4490,
+  "nombre": "Frozen Armament",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6507
+ },
+ {
+  "id": 4500,
+  "nombre": "Shattering Crystal",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 38,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6033
+ },
+ {
+  "id": 4510,
+  "nombre": "Crystal Release",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 34,
+  "req": {
+   "int": 41,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6034
+ },
+ {
+  "id": 4520,
+  "nombre": "Crystal Torrent",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 47,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6035
+ },
+ {
+  "id": 4600,
+  "nombre": "Ambush Shard",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 13,
+  "req": {
+   "int": 23,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6036
+ },
+ {
+  "id": 4610,
+  "nombre": "Night Shard",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 7,
+  "req": {
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6037
+ },
+ {
+  "id": 4620,
+  "nombre": "Night Comet",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 38,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6038
+ },
+ {
+  "id": 4630,
+  "nombre": "Thops's Barrier",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 7,
+  "req": {
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6039
+ },
+ {
+  "id": 4640,
+  "nombre": "Carian Retaliation",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 8,
+  "req": {
+   "int": 17,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6040
+ },
+ {
+  "id": 4650,
+  "nombre": "Eternal Darkness",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 25,
+  "req": {
+   "int": 35,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6041
+ },
+ {
+  "id": 4660,
+  "nombre": "Unseen Blade",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 13,
+  "req": {
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6702
+ },
+ {
+  "id": 4670,
+  "nombre": "Unseen Form",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6704
+ },
+ {
+  "id": 4700,
+  "nombre": "Meteorite",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 30,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6070
+ },
+ {
+  "id": 4701,
+  "nombre": "Meteorite of Astel",
+  "escuela": "Sorcery",
+  "ranuras": 2,
+  "pc": 60,
+  "req": {
+   "int": 55,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6042
+ },
+ {
+  "id": 4710,
+  "nombre": "Rock Sling",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6071
+ },
+ {
+  "id": 4720,
+  "nombre": "Gravity Well",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 17,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6043
+ },
+ {
+  "id": 4721,
+  "nombre": "Collapsing Stars",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 36,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6044
+ },
+ {
+  "id": 4800,
+  "nombre": "Magma Shot",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 19,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6205
+ },
+ {
+  "id": 4810,
+  "nombre": "Gelmir's Fury",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 28,
+   "fe": 15,
+   "arc": 0
+  },
+  "icono": 6212
+ },
+ {
+  "id": 4820,
+  "nombre": "Roiling Magma",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 28,
+  "req": {
+   "int": 21,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6213
+ },
+ {
+  "id": 4830,
+  "nombre": "Rykard's Rancor",
+  "escuela": "Sorcery",
+  "ranuras": 2,
+  "pc": 23,
+  "req": {
+   "int": 40,
+   "fe": 18,
+   "arc": 0
+  },
+  "icono": 6045
+ },
+ {
+  "id": 4900,
+  "nombre": "Briars of Sin",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 6,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6046
+ },
+ {
+  "id": 4910,
+  "nombre": "Briars of Punishment",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 9,
+  "req": {
+   "int": 0,
+   "fe": 21,
+   "arc": 0
+  },
+  "icono": 6047
+ },
+ {
+  "id": 5000,
+  "nombre": "Rancorcall",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 16,
+   "fe": 14,
+   "arc": 0
+  },
+  "icono": 6048
+ },
+ {
+  "id": 5001,
+  "nombre": "Ancient Death Rancor",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 34,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6049
+ },
+ {
+  "id": 5010,
+  "nombre": "Explosive Ghostflame",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 29,
+  "req": {
+   "int": 42,
+   "fe": 30,
+   "arc": 0
+  },
+  "icono": 6053
+ },
+ {
+  "id": 5020,
+  "nombre": "Fia's Mist",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 25,
+  "req": {
+   "int": 23,
+   "fe": 18,
+   "arc": 0
+  },
+  "icono": 6054
+ },
+ {
+  "id": 5030,
+  "nombre": "Tibia's Summons",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 17,
+  "req": {
+   "int": 28,
+   "fe": 20,
+   "arc": 0
+  },
+  "icono": 6099
+ },
+ {
+  "id": 5040,
+  "nombre": "Death Lightning",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 28,
+  "req": {
+   "int": 0,
+   "fe": 47,
+   "arc": 0
+  },
+  "icono": 6104
+ },
+ {
+  "id": 5100,
+  "nombre": "Oracle Bubbles",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 19,
+   "fe": 0,
+   "arc": 15
+  },
+  "icono": 6607
+ },
+ {
+  "id": 5110,
+  "nombre": "Great Oracular Bubble",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 25,
+   "fe": 0,
+   "arc": 18
+  },
+  "icono": 6608
+ },
+ {
+  "id": 6000,
+  "nombre": "Catch Flame",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 10,
+  "req": {
+   "int": 0,
+   "fe": 8,
+   "arc": 0
+  },
+  "icono": 6200
+ },
+ {
+  "id": 6001,
+  "nombre": "O, Flame!",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "icono": 6201
+ },
+ {
+  "id": 6010,
+  "nombre": "Flame Sling",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 11,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6202
+ },
+ {
+  "id": 6020,
+  "nombre": "Flame, Fall Upon Them",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 0,
+   "fe": 28,
+   "arc": 0
+  },
+  "icono": 6206
+ },
+ {
+  "id": 6030,
+  "nombre": "Whirl, O Flame!",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 19,
+  "req": {
+   "int": 0,
+   "fe": 13,
+   "arc": 0
+  },
+  "icono": 6209
+ },
+ {
+  "id": 6040,
+  "nombre": "Flame, Cleanse Me",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 14,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6303
+ },
+ {
+  "id": 6050,
+  "nombre": "Flame, Grant Me Strength",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 28,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "icono": 6308
+ },
+ {
+  "id": 6060,
+  "nombre": "Flame, Protect Me",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6309
+ },
+ {
+  "id": 6100,
+  "nombre": "Giantsflame Take Thee",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 30,
+   "arc": 0
+  },
+  "icono": 6204
+ },
+ {
+  "id": 6110,
+  "nombre": "Flame of the Fell God",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 34,
+  "req": {
+   "int": 0,
+   "fe": 41,
+   "arc": 0
+  },
+  "icono": 6207
+ },
+ {
+  "id": 6120,
+  "nombre": "Burn, O Flame!",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 26,
+  "req": {
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "icono": 6211
+ },
+ {
+  "id": 6210,
+  "nombre": "Black Flame",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "icono": 6203
+ },
+ {
+  "id": 6220,
+  "nombre": "Surge, O Flame!",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 1,
+  "req": {
+   "int": 0,
+   "fe": 9,
+   "arc": 0
+  },
+  "icono": 6208
+ },
+ {
+  "id": 6230,
+  "nombre": "Scouring Black Flame",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 0,
+   "fe": 28,
+   "arc": 0
+  },
+  "icono": 6210
+ },
+ {
+  "id": 6240,
+  "nombre": "Black Flame Ritual",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 42,
+   "arc": 0
+  },
+  "icono": 6214
+ },
+ {
+  "id": 6250,
+  "nombre": "Black Flame Blade",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 0,
+   "fe": 17,
+   "arc": 0
+  },
+  "icono": 6306
+ },
+ {
+  "id": 6260,
+  "nombre": "Black Flame's Protection",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 30,
+   "arc": 0
+  },
+  "icono": 6310
+ },
+ {
+  "id": 6270,
+  "nombre": "Noble Presence",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 26,
+   "arc": 0
+  },
+  "icono": 6055
+ },
+ {
+  "id": 6300,
+  "nombre": "Bloodflame Talons",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 0,
+   "fe": 13,
+   "arc": 15
+  },
+  "icono": 6056
+ },
+ {
+  "id": 6310,
+  "nombre": "Bloodboon",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 13,
+  "req": {
+   "int": 0,
+   "fe": 14,
+   "arc": 17
+  },
+  "icono": 6254
+ },
+ {
+  "id": 6320,
+  "nombre": "Bloodflame Blade",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 10
+  },
+  "icono": 6307
+ },
+ {
+  "id": 6330,
+  "nombre": "Barrier of Gold",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6311
+ },
+ {
+  "id": 6340,
+  "nombre": "Protection of the Erdtree",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 35,
+   "arc": 0
+  },
+  "icono": 6255
+ },
+ {
+  "id": 6400,
+  "nombre": "Rejection",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 9,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6250
+ },
+ {
+  "id": 6410,
+  "nombre": "Wrath of Gold",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 40,
+  "req": {
+   "int": 0,
+   "fe": 32,
+   "arc": 0
+  },
+  "icono": 6251
+ },
+ {
+  "id": 6420,
+  "nombre": "Urgent Heal",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 0,
+   "fe": 8,
+   "arc": 0
+  },
+  "icono": 6300
+ },
+ {
+  "id": 6421,
+  "nombre": "Heal",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 32,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6301
+ },
+ {
+  "id": 6422,
+  "nombre": "Great Heal",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 45,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "icono": 6505
+ },
+ {
+  "id": 6423,
+  "nombre": "Lord's Heal",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 55,
+  "req": {
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "icono": 6506
+ },
+ {
+  "id": 6424,
+  "nombre": "Erdtree Heal",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 65,
+  "req": {
+   "int": 0,
+   "fe": 42,
+   "arc": 0
+  },
+  "icono": 6302
+ },
+ {
+  "id": 6430,
+  "nombre": "Blessing's Boon",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6304
+ },
+ {
+  "id": 6431,
+  "nombre": "Blessing of the Erdtree",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 60,
+  "req": {
+   "int": 0,
+   "fe": 38,
+   "arc": 0
+  },
+  "icono": 6305
+ },
+ {
+  "id": 6440,
+  "nombre": "Cure Poison",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 7,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6057
+ },
+ {
+  "id": 6441,
+  "nombre": "Lord's Aid",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6058
+ },
+ {
+  "id": 6450,
+  "nombre": "Flame Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6707
+ },
+ {
+  "id": 6460,
+  "nombre": "Magic Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6708
+ },
+ {
+  "id": 6470,
+  "nombre": "Lightning Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6709
+ },
+ {
+  "id": 6480,
+  "nombre": "Divine Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6710
+ },
+ {
+  "id": 6490,
+  "nombre": "Lord's Divine Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "icono": 6711
+ },
+ {
+  "id": 6500,
+  "nombre": "Night Maiden's Mist",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6253
+ },
+ {
+  "id": 6510,
+  "nombre": "Assassin's Approach",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6312
+ },
+ {
+  "id": 6520,
+  "nombre": "Shadow Bait",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 0,
+   "fe": 13,
+   "arc": 0
+  },
+  "icono": 6313
+ },
+ {
+  "id": 6530,
+  "nombre": "Darkness",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "icono": 6059
+ },
+ {
+  "id": 6600,
+  "nombre": "Golden Vow",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 47,
+  "req": {
+   "int": 0,
+   "fe": 25,
+   "arc": 0
+  },
+  "icono": 6504
+ },
+ {
+  "id": 6700,
+  "nombre": "Discus of Light",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 3,
+  "req": {
+   "int": 13,
+   "fe": 13,
+   "arc": 0
+  },
+  "icono": 6252
+ },
+ {
+  "id": 6701,
+  "nombre": "Triple Rings of Light",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 23,
+  "req": {
+   "int": 23,
+   "fe": 23,
+   "arc": 0
+  },
+  "icono": 6061
+ },
+ {
+  "id": 6710,
+  "nombre": "Radagon's Rings of Light",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 31,
+   "fe": 31,
+   "arc": 0
+  },
+  "icono": 6062
+ },
+ {
+  "id": 6720,
+  "nombre": "Elden Stars",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 41,
+  "req": {
+   "int": 0,
+   "fe": 50,
+   "arc": 0
+  },
+  "icono": 6063
+ },
+ {
+  "id": 6730,
+  "nombre": "Law of Regression",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 55,
+  "req": {
+   "int": 37,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6064
+ },
+ {
+  "id": 6740,
+  "nombre": "Immutable Shield",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 19,
+   "fe": 19,
+   "arc": 0
+  },
+  "icono": 6065
+ },
+ {
+  "id": 6750,
+  "nombre": "Litany of Proper Death",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 17,
+  "req": {
+   "int": 17,
+   "fe": 17,
+   "arc": 0
+  },
+  "icono": 6256
+ },
+ {
+  "id": 6760,
+  "nombre": "Law of Causality",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 29,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 6066
+ },
+ {
+  "id": 6770,
+  "nombre": "Order's Blade",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 13,
+   "fe": 13,
+   "arc": 0
+  },
+  "icono": 6067
+ },
+ {
+  "id": 6780,
+  "nombre": "Order Healing",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 11,
+   "fe": 11,
+   "arc": 0
+  },
+  "icono": 6068
+ },
+ {
+  "id": 6800,
+  "nombre": "Bestial Sling",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 7,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6400
+ },
+ {
+  "id": 6810,
+  "nombre": "Stone of Gurranq",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 0,
+   "fe": 13,
+   "arc": 0
+  },
+  "icono": 6401
+ },
+ {
+  "id": 6820,
+  "nombre": "Beast Claw",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 10,
+  "req": {
+   "int": 0,
+   "fe": 8,
+   "arc": 0
+  },
+  "icono": 6402
+ },
+ {
+  "id": 6830,
+  "nombre": "Gurranq's Beast Claw",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "icono": 6403
+ },
+ {
+  "id": 6840,
+  "nombre": "Bestial Vitality",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6500
+ },
+ {
+  "id": 6850,
+  "nombre": "Bestial Constitution",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 10,
+  "req": {
+   "int": 0,
+   "fe": 9,
+   "arc": 0
+  },
+  "icono": 6503
+ },
+ {
+  "id": 6900,
+  "nombre": "Lightning Spear",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 0,
+   "fe": 17,
+   "arc": 0
+  },
+  "icono": 6406
+ },
+ {
+  "id": 6910,
+  "nombre": "Ancient Dragons' Lightning Strike",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 36,
+  "req": {
+   "int": 0,
+   "fe": 26,
+   "arc": 0
+  },
+  "icono": 6069
+ },
+ {
+  "id": 6920,
+  "nombre": "Lightning Strike",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 19,
+  "req": {
+   "int": 0,
+   "fe": 28,
+   "arc": 0
+  },
+  "icono": 6408
+ },
+ {
+  "id": 6921,
+  "nombre": "Frozen Lightning Spear",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 29,
+  "req": {
+   "int": 0,
+   "fe": 34,
+   "arc": 0
+  },
+  "icono": 6072
+ },
+ {
+  "id": 6930,
+  "nombre": "Honed Bolt",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 12,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6073
+ },
+ {
+  "id": 6940,
+  "nombre": "Ancient Dragons' Lightning Spear",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 25,
+  "req": {
+   "int": 0,
+   "fe": 32,
+   "arc": 0
+  },
+  "icono": 6074
+ },
+ {
+  "id": 6941,
+  "nombre": "Fortissax's Lightning Spear",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 35,
+  "req": {
+   "int": 0,
+   "fe": 46,
+   "arc": 0
+  },
+  "icono": 6075
+ },
+ {
+  "id": 6950,
+  "nombre": "Lansseax's Glaive",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 0,
+   "fe": 40,
+   "arc": 0
+  },
+  "icono": 6076
+ },
+ {
+  "id": 6960,
+  "nombre": "Electrify Armament",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 27,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "icono": 6077
+ },
+ {
+  "id": 6970,
+  "nombre": "Vyke's Dragonbolt",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 35,
+  "req": {
+   "int": 0,
+   "fe": 23,
+   "arc": 0
+  },
+  "icono": 6078
+ },
+ {
+  "id": 6971,
+  "nombre": "Dragonbolt Blessing",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 21,
+   "arc": 0
+  },
+  "icono": 6079
+ },
+ {
+  "id": 7000,
+  "nombre": "Dragonfire",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 28,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 12
+  },
+  "icono": 6080
+ },
+ {
+  "id": 7001,
+  "nombre": "Agheel's Flame",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 36,
+  "req": {
+   "int": 0,
+   "fe": 23,
+   "arc": 15
+  },
+  "icono": 6081
+ },
+ {
+  "id": 7010,
+  "nombre": "Magma Breath",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 14,
+   "arc": 10
+  },
+  "icono": 6082
+ },
+ {
+  "id": 7011,
+  "nombre": "Theodorix's Magma",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 45,
+  "req": {
+   "int": 0,
+   "fe": 21,
+   "arc": 14
+  },
+  "icono": 6105
+ },
+ {
+  "id": 7020,
+  "nombre": "Dragonice",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 36,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 12
+  },
+  "icono": 6083
+ },
+ {
+  "id": 7021,
+  "nombre": "Borealis's Mist",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 48,
+  "req": {
+   "int": 0,
+   "fe": 23,
+   "arc": 15
+  },
+  "icono": 6084
+ },
+ {
+  "id": 7030,
+  "nombre": "Rotten Breath",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 36,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 12
+  },
+  "icono": 6085
+ },
+ {
+  "id": 7031,
+  "nombre": "Ekzykes's Decay",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 48,
+  "req": {
+   "int": 0,
+   "fe": 23,
+   "arc": 15
+  },
+  "icono": 6086
+ },
+ {
+  "id": 7040,
+  "nombre": "Glintstone Breath",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 28,
+  "req": {
+   "int": 0,
+   "fe": 15,
+   "arc": 12
+  },
+  "icono": 6087
+ },
+ {
+  "id": 7041,
+  "nombre": "Smarag's Glintstone Breath",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 36,
+  "req": {
+   "int": 0,
+   "fe": 23,
+   "arc": 15
+  },
+  "icono": 6088
+ },
+ {
+  "id": 7050,
+  "nombre": "Placidusax's Ruin",
+  "escuela": "Incantation",
+  "ranuras": 3,
+  "pc": 62,
+  "req": {
+   "int": 0,
+   "fe": 36,
+   "arc": 0
+  },
+  "icono": 6089
+ },
+ {
+  "id": 7060,
+  "nombre": "Dragonclaw",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 0,
+   "fe": 17,
+   "arc": 13
+  },
+  "icono": 6090
+ },
+ {
+  "id": 7080,
+  "nombre": "Dragonmaw",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 34,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 16
+  },
+  "icono": 6091
+ },
+ {
+  "id": 7090,
+  "nombre": "Greyoll's Roar",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 50,
+  "req": {
+   "int": 0,
+   "fe": 28,
+   "arc": 17
+  },
+  "icono": 6092
+ },
+ {
+  "id": 7200,
+  "nombre": "Pest Threads",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 19,
+  "req": {
+   "int": 0,
+   "fe": 11,
+   "arc": 0
+  },
+  "icono": 6609
+ },
+ {
+  "id": 7210,
+  "nombre": "Swarm of Flies",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 14,
+  "req": {
+   "int": 0,
+   "fe": 11,
+   "arc": 16
+  },
+  "icono": 6611
+ },
+ {
+  "id": 7220,
+  "nombre": "Poison Mist",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "icono": 6610
+ },
+ {
+  "id": 7230,
+  "nombre": "Poison Armament",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 15,
+  "req": {
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "icono": 6612
+ },
+ {
+  "id": 7240,
+  "nombre": "Scarlet Aeonia",
+  "escuela": "Incantation",
+  "ranuras": 3,
+  "pc": 48,
+  "req": {
+   "int": 0,
+   "fe": 35,
+   "arc": 0
+  },
+  "icono": 6713
+ },
+ {
+  "id": 7300,
+  "nombre": "Inescapable Frenzy",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 0,
+   "fe": 21,
+   "arc": 0
+  },
+  "icono": 6094
+ },
+ {
+  "id": 7310,
+  "nombre": "The Flame of Frenzy",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 16,
+  "req": {
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "icono": 6095
+ },
+ {
+  "id": 7311,
+  "nombre": "Unendurable Frenzy",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 22,
+  "req": {
+   "int": 0,
+   "fe": 31,
+   "arc": 0
+  },
+  "icono": 6096
+ },
+ {
+  "id": 7320,
+  "nombre": "Frenzied Burst",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 24,
+  "req": {
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "icono": 6097
+ },
+ {
+  "id": 7330,
+  "nombre": "Howl of Shabriri",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 21,
+  "req": {
+   "int": 0,
+   "fe": 33,
+   "arc": 0
+  },
+  "icono": 6098
+ },
+ {
+  "id": 7500,
+  "nombre": "Aspects of the Crucible: Tail",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 20,
+  "req": {
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "icono": 6613
+ },
+ {
+  "id": 7510,
+  "nombre": "Aspects of the Crucible: Horns",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 18,
+  "req": {
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "icono": 6614
+ },
+ {
+  "id": 7520,
+  "nombre": "Aspects of the Crucible: Breath",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 28,
+  "req": {
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "icono": 6615
+ },
+ {
+  "id": 7530,
+  "nombre": "Black Blade",
+  "escuela": "Incantation",
+  "ranuras": 2,
+  "pc": 26,
+  "req": {
+   "int": 0,
+   "fe": 46,
+   "arc": 0
+  },
+  "icono": 6712
+ },
+ {
+  "id": 7900,
+  "nombre": "Fire's Deadly Sin",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 26,
+  "req": {
+   "int": 0,
+   "fe": 19,
+   "arc": 0
+  },
+  "icono": 6060
+ },
+ {
+  "id": 7903,
+  "nombre": "Golden Lightning Fortification",
+  "escuela": "Incantation",
+  "ranuras": 1,
+  "pc": 30,
+  "req": {
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "icono": 6706
+ },
+ {
+  "id": 8000,
+  "nombre": "Stonesword Key",
+  "escuela": "Sorcery",
+  "ranuras": 1,
+  "pc": 9,
+  "req": {
+   "int": 24,
+   "fe": 0,
+   "arc": 0
+  },
+  "icono": 228
+ }
+]

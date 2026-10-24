@@ -1,0 +1,1268 @@
+{
+ "name": "The Land of Shadow",
+ "shape": {
+  "columns": 7,
+  "rooms": 10,
+  "paths": 6,
+  "treasure_row": 5,
+  "min_row_elite_rest": 3,
+  "no_rest_last_rows": 2,
+  "elites": 2,
+  "shops": 2,
+  "rests": [
+   3.0,
+   1.0,
+   2,
+   4
+  ],
+  "unknowns": [
+   5.0,
+   1.0,
+   4,
+   7
+  ]
+ },
+ "weak_count": 0,
+ "encounters": [
+  {
+   "id": "1049520800",
+   "name": "Black Blade Kindred",
+   "kind": "Normal",
+   "warp_flag": 1049300364,
+   "defeat_flag": 1049520800,
+   "llegada": [
+    -20.56,
+    1048.49,
+    54.44
+   ],
+   "chr": 4770,
+   "npc": 47700250,
+   "think": 47705950,
+   "tags": [
+    "fiel de la hoja negra"
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "30160800",
+   "name": "Putrid Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 1049300259,
+   "defeat_flag": 30160800,
+   "llegada": [
+    -106.95,
+    -25.06,
+    -101.77
+   ],
+   "chr": 4640,
+   "npc": 46400942,
+   "think": 46400842,
+   "tags": [
+    "espíritu del árbol putrefacto"
+   ],
+   "vida": 0.78,
+   "arena": "grande"
+  },
+  {
+   "id": "31100800",
+   "name": "Beastman of Farum Azula (Cleaver)",
+   "kind": "Normal",
+   "warp_flag": 1049300273,
+   "defeat_flag": 31100800,
+   "llegada": [
+    37.8,
+    103.77,
+    30.81
+   ],
+   "chr": 3970,
+   "npc": 39701942,
+   "think": 39701200,
+   "tags": [
+    "hombre bestia de farum azula con machete"
+   ],
+   "vida": 2.26
+  },
+  {
+   "id": "1052560800",
+   "name": "Erdtree Avatar",
+   "kind": "Normal",
+   "warp_flag": 1049300375,
+   "defeat_flag": 1052560800,
+   "llegada": [
+    -42.35,
+    1674.29,
+    66.1
+   ],
+   "chr": 4810,
+   "npc": 48100150,
+   "think": 48100000,
+   "tags": [
+    "avatar del árbol áureo"
+   ]
+  },
+  {
+   "id": "1053560800",
+   "name": "Roundtable Knight Vyke",
+   "kind": "Normal",
+   "warp_flag": 1049300376,
+   "defeat_flag": 1053560800,
+   "llegada": [
+    -68.27,
+    1669.31,
+    -112.88
+   ],
+   "chr": 0,
+   "npc": 523040050,
+   "think": 523040000,
+   "tags": [
+    "caballero vyke de la mesa redonda"
+   ]
+  },
+  {
+   "id": "1050570800",
+   "name": "Death Rite Bird",
+   "kind": "Normal",
+   "warp_flag": 1049300365,
+   "defeat_flag": 1050570800,
+   "llegada": [
+    54.23,
+    1630.37,
+    -89.51
+   ],
+   "chr": 4980,
+   "npc": 49801050,
+   "think": 49800950,
+   "tags": [
+    "ave del ritual fúnebre"
+   ],
+   "vida": 0.86,
+   "arena": "grande"
+  },
+  {
+   "id": "30190800",
+   "name": "Putrid Grave Warden Duelist",
+   "kind": "Normal",
+   "warp_flag": 1049300262,
+   "defeat_flag": 30190800,
+   "llegada": [
+    56.34,
+    1374.9,
+    -145.63
+   ],
+   "chr": 3400,
+   "npc": 34000952,
+   "think": 34000010,
+   "tags": [
+    "duelista guardián de las tumbas putrefacto"
+   ],
+   "vida": 1.1
+  },
+  {
+   "id": "1033420800",
+   "name": "Alecto, Black Knife Ringleader",
+   "kind": "Normal",
+   "warp_flag": 1049300306,
+   "defeat_flag": 1033420800,
+   "llegada": [
+    -32.95,
+    346.62,
+    80.37
+   ],
+   "chr": 2100,
+   "npc": 21002922,
+   "think": 21000000,
+   "tags": [
+    "alecto"
+   ],
+   "vida": 1.07
+  },
+  {
+   "id": "30170800",
+   "name": "Ancient Hero of Zamor",
+   "kind": "Normal",
+   "warp_flag": 1049300260,
+   "defeat_flag": 30170800,
+   "llegada": [
+    -26.93,
+    1451.86,
+    -27.51
+   ],
+   "chr": 7100,
+   "npc": 71000950,
+   "think": 71000950,
+   "tags": [
+    "viejo héroe de zamor"
+   ]
+  },
+  {
+   "id": "1051430800",
+   "name": "Black Blade Kindred",
+   "kind": "Normal",
+   "warp_flag": 1049300369,
+   "defeat_flag": 1051430800,
+   "llegada": [
+    -11.08,
+    336.51,
+    -32.6
+   ],
+   "chr": 4770,
+   "npc": 47701242,
+   "think": 47706900,
+   "tags": [
+    "fiel de la hoja negra"
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "1051570800",
+   "name": "Commander Niall",
+   "kind": "Normal",
+   "warp_flag": 1049300370,
+   "defeat_flag": 1051570800,
+   "llegada": [
+    89.22,
+    1632,
+    214.71
+   ],
+   "chr": 3050,
+   "npc": 30500051,
+   "think": 30500000,
+   "tags": [
+    "comandante niall"
+   ],
+   "vida": 0.74
+  },
+  {
+   "id": "1051400800",
+   "name": "Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 1049300368,
+   "defeat_flag": 1051400800,
+   "llegada": [
+    40.5,
+    209.37,
+    72.77
+   ],
+   "chr": 4811,
+   "npc": 48110042,
+   "think": 48110000,
+   "tags": [
+    "avatar putrefacto"
+   ]
+  },
+  {
+   "id": "31120800",
+   "name": "Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 1049300275,
+   "defeat_flag": 31120800,
+   "llegada": [
+    -16.94,
+    1194.18,
+    104.54
+   ],
+   "chr": 3460,
+   "npc": 34601952,
+   "think": 34600000,
+   "tags": [
+    "paladín bastardo"
+   ],
+   "vida": 2.11
+  },
+  {
+   "id": "34130800",
+   "name": "Godskin Apostle",
+   "kind": "Normal",
+   "warp_flag": 1049300294,
+   "defeat_flag": 34130800,
+   "llegada": [
+    77.66,
+    36.31,
+    -91.69
+   ],
+   "chr": 3560,
+   "npc": 35600042,
+   "think": 35600942,
+   "tags": [
+    "apóstol sacrodermo"
+   ]
+  },
+  {
+   "id": "32110800",
+   "name": "Astel, Stars of Darkness",
+   "kind": "Normal",
+   "arena": "grande",
+   "warp_flag": 1049300292,
+   "defeat_flag": 32110800,
+   "llegada": [
+    49.25,
+    1208.02,
+    135.81
+   ],
+   "chr": 4620,
+   "npc": 46200952,
+   "think": 46200200,
+   "tags": [
+    "astel"
+   ],
+   "vida": 0.78
+  },
+  {
+   "id": "1050570850",
+   "name": "Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 1049300366,
+   "defeat_flag": 1050570850,
+   "llegada": [
+    -81.4,
+    1390.11,
+    -56.07
+   ],
+   "chr": 4811,
+   "npc": 48110052,
+   "think": 48110952,
+   "tags": [
+    "avatar putrefacto"
+   ]
+  },
+  {
+   "id": "1050560800",
+   "name": "Great Wyrm Theodorix",
+   "kind": "Normal",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 1050560800,
+   "llegada": null,
+   "chr": 4911,
+   "npc": 49110052,
+   "think": 49100952,
+   "tags": [
+    "gran dragón de magma theodorix"
+   ],
+   "vida": 0.59
+  },
+  {
+   "id": "1048570800",
+   "name": "Death Rite Bird",
+   "kind": "Normal",
+   "warp_flag": 1049300358,
+   "defeat_flag": 1048570800,
+   "llegada": [
+    -105.14,
+    1255.08,
+    101.2
+   ],
+   "chr": 4980,
+   "npc": 49801052,
+   "think": 49800100,
+   "tags": [
+    "ave del ritual fúnebre"
+   ],
+   "vida": 0.86,
+   "arena": "grande"
+  },
+  {
+   "id": "n3_c5160",
+   "name": "Fire Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero de fuego"
+   ],
+   "llegada": null,
+   "chr": 5160,
+   "npc": 51600000,
+   "think": 51600000,
+   "vida": 2.44
+  },
+  {
+   "id": "n3_c5840",
+   "name": "Black Knight",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero negro"
+   ],
+   "llegada": null,
+   "chr": 5840,
+   "npc": 58400000,
+   "think": 58400000,
+   "vida": 2.74
+  },
+  {
+   "id": "n3_c5040",
+   "name": "Curseblade Labirith",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "hojamaldita"
+   ],
+   "llegada": null,
+   "chr": 5040,
+   "npc": 50400000,
+   "think": 50400000,
+   "vida": 1.67
+  },
+  {
+   "id": "n3_c5790",
+   "name": "Guardian Golem",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "gólem guardián"
+   ],
+   "llegada": null,
+   "chr": 5790,
+   "npc": 57900000,
+   "think": 57900000,
+   "vida": 0.4,
+   "arena": "grande"
+  },
+  {
+   "id": "n3_c5960",
+   "name": "Ulcerated Tree Spirit",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "espíritu del árbol ulcerado"
+   ],
+   "llegada": null,
+   "chr": 5960,
+   "npc": 59600000,
+   "think": 59600000,
+   "vida": 0.78,
+   "arena": "grande"
+  },
+  {
+   "id": "n3_c5780",
+   "name": "Runebear",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "oso rúnico"
+   ],
+   "llegada": null,
+   "chr": 5780,
+   "npc": 57800000,
+   "think": 57800000,
+   "vida": 0.81
+  },
+  {
+   "id": "m3_fuego",
+   "name": "Fire Knights",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m3_fuego"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "m3_negros",
+   "name": "Black Knights",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m3_negros"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    },
+    {
+     "chr": 5840,
+     "npc": 58400000,
+     "think": 58400000
+    }
+   ],
+   "vida": 1.37
+  },
+  {
+   "id": "m3_malditas",
+   "name": "Curseblades",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m3_malditas"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    },
+    {
+     "chr": 5040,
+     "npc": 50400000,
+     "think": 50400000
+    }
+   ]
+  },
+  {
+   "id": "m3_escuadra_messmer",
+   "name": "Messmer Squad",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "m3_escuadra_messmer"
+   ],
+   "llegada": null,
+   "formato": "manada",
+   "enemigos": [
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    }
+   ],
+   "vida": 1.22,
+   "arena": "grande"
+  },
+  {
+   "id": "2052480800",
+   "name": "Fallingstar Beast",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2052480800,
+   "tags": [
+    "bestia de la estrella fugaz"
+   ],
+   "llegada": null,
+   "chr": 6310,
+   "npc": 63101093,
+   "think": 63100930,
+   "vida": 1.1,
+   "arena": "grande"
+  },
+  {
+   "id": "2049450800",
+   "name": "Ralva the Great Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2049450800,
+   "tags": [
+    "ralva"
+   ],
+   "llegada": null,
+   "chr": 5820,
+   "npc": 58200990,
+   "think": 58200000
+  },
+  {
+   "id": "2044470800",
+   "name": "Rugalea the Great Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2044470800,
+   "tags": [
+    "rugalea"
+   ],
+   "llegada": null,
+   "chr": 5820,
+   "npc": 58200095,
+   "think": 58200000
+  },
+  {
+   "id": "2051450720",
+   "name": "Count Ymir, Mother of Fingers",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2051450800,
+   "tags": [
+    "conde ymir"
+   ],
+   "llegada": null,
+   "chr": 0,
+   "npc": 524200190,
+   "think": 524200100,
+   "vida": 1.34
+  },
+  {
+   "id": "22000800",
+   "name": "Putrescent Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 22000800,
+   "tags": [
+    "caballero putrefacto"
+   ],
+   "llegada": null,
+   "chr": 5020,
+   "npc": 50200087,
+   "think": 50200000,
+   "vida": 1.19
+  },
+  {
+   "id": "2047390800",
+   "name": "Death Rite Bird",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2047390800,
+   "tags": [
+    "ave del ritual fúnebre"
+   ],
+   "llegada": null,
+   "chr": 6260,
+   "npc": 62601084,
+   "think": 62600900,
+   "arena": "grande"
+  },
+  {
+   "id": "2050480800",
+   "name": "Scadutree Avatar",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2050480800,
+   "tags": [
+    "avatar del árbol umbrío"
+   ],
+   "llegada": null,
+   "chr": 5230,
+   "npc": 52300396,
+   "think": 52300000,
+   "vida": 1.98,
+   "arena": "grande"
+  },
+  {
+   "id": "2046460800",
+   "name": "Divine Beast Dancing Lion",
+   "kind": "Elite",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 2046460800,
+   "tags": [
+    "bestia divina león danzante"
+   ],
+   "llegada": null,
+   "chr": 5210,
+   "npc": 52100094,
+   "think": 52100010
+  },
+  {
+   "id": "2048440800",
+   "name": "Rellana, Twin Moon Knight",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2048440800,
+   "tags": [
+    "rellana"
+   ],
+   "llegada": null,
+   "chr": 5300,
+   "npc": 53000082,
+   "think": 53000000
+  },
+  {
+   "id": "2044450800",
+   "name": "Romina, Saint of the Bud",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 2044450800,
+   "tags": [
+    "romina"
+   ],
+   "llegada": null,
+   "chr": 5030,
+   "npc": 50300094,
+   "think": 50300000
+  },
+  {
+   "id": "h3_sombra",
+   "name": "Shadow Land Horde",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "h3_sombra"
+   ],
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5830,
+     "npc": 58300000,
+     "think": 58300000
+    },
+    {
+     "chr": 5651,
+     "npc": 56510000,
+     "think": 56510000
+    },
+    {
+     "chr": 5651,
+     "npc": 56510000,
+     "think": 56510000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5160,
+     "npc": 51600000,
+     "think": 51600000
+    },
+    {
+     "chr": 5840,
+     "npc": 58400690,
+     "think": 58401090
+    }
+   ],
+   "oleadas": [
+    [
+     0,
+     1,
+     2,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     6
+    ]
+   ],
+   "arena": "grande"
+  },
+  {
+   "id": "15000800",
+   "name": "Malenia, Blade of Miquella",
+   "kind": "Boss",
+   "warp_flag": 1049300224,
+   "defeat_flag": 15000800,
+   "llegada": null,
+   "chr": 2120,
+   "npc": 21200056,
+   "think": 21200000,
+   "tags": [
+    "malenia"
+   ],
+   "renacer": {
+    "vida": 0.04,
+    "efectos": [
+     18000,
+     18001,
+     18002,
+     18016,
+     18400
+    ],
+    "quitar": [
+     18015
+    ],
+    "anim": 20002,
+    "segundos": 8
+   },
+   "vida": 1.95
+  },
+  {
+   "id": "20010800",
+   "name": "Radahn, Consort of Miquella",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 20010800,
+   "tags": [
+    "radahn"
+   ],
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 5220,
+     "npc": 52200089,
+     "think": 52200000
+    },
+    {
+     "chr": 5220,
+     "npc": 52201089,
+     "think": 52200000,
+     "anim": 20011
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "fase_en": 0.65
+  },
+  {
+   "id": "2049480800",
+   "name": "Commander Gaius",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 2049480800,
+   "tags": [
+    "comandante gaius"
+   ],
+   "llegada": null,
+   "chr": 5000,
+   "npc": 50000092,
+   "think": 50000010,
+   "vida": 1.75
+  },
+  {
+   "id": "28000800",
+   "name": "Midra, Lord of Frenzied Flame",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 28000800,
+   "tags": [
+    "midra"
+   ],
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 5050,
+     "npc": 50500086,
+     "think": 50500000
+    },
+    {
+     "chr": 5051,
+     "npc": 50510086,
+     "think": 50510000,
+     "anim": 20000
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "fase_en": 0.02,
+   "vida": 1.29
+  },
+  {
+   "id": "25000800",
+   "name": "Metyr, Mother of Fingers",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 25000800,
+   "tags": [
+    "metyr"
+   ],
+   "llegada": null,
+   "chr": 5200,
+   "npc": 52000097,
+   "think": 52000000,
+   "vida": 1.58,
+   "arena": "grande"
+  },
+  {
+   "id": "2054390800",
+   "name": "Bayle the Dread",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 2054390800,
+   "tags": [
+    "bayle el temible"
+   ],
+   "llegada": null,
+   "chr": 5120,
+   "npc": 51200085,
+   "think": 51200000,
+   "vida": 1.79
+  },
+  {
+   "id": "13000800",
+   "name": "Maliketh, the Black Blade",
+   "kind": "Boss",
+   "warp_flag": 1049300219,
+   "defeat_flag": 13000800,
+   "llegada": [
+    201.79,
+    -62.54,
+    373.03
+   ],
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 2110,
+     "npc": 21100072,
+     "think": 21100000
+    },
+    {
+     "chr": 2110,
+     "npc": 21101072,
+     "think": 21101000,
+     "anim": 20015
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "fase_en": 0.55,
+   "tags": [
+    "maliketh"
+   ],
+   "vida": 1.53
+  },
+  {
+   "id": "11050800",
+   "name": "Godfrey, First Elden Lord",
+   "kind": "Boss",
+   "warp_flag": 1049300205,
+   "defeat_flag": 11050800,
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 4720,
+     "npc": 47200070,
+     "think": 47200900
+    },
+    {
+     "chr": 4721,
+     "npc": 47210070,
+     "think": 47210900,
+     "anim": 20020
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "fase_en": 0.02,
+   "tags": [
+    "hoarah loux"
+   ]
+  },
+  {
+   "id": "12050800",
+   "name": "Mohg, Lord of Blood",
+   "kind": "Boss",
+   "warp_flag": 1049300216,
+   "defeat_flag": 12050800,
+   "llegada": [
+    1534.03,
+    -501.01,
+    1242.98
+   ],
+   "chr": 4800,
+   "npc": 48000068,
+   "think": 48000000,
+   "tags": [
+    "mohg"
+   ],
+   "vida": 1.9
+  },
+  {
+   "id": "19000800",
+   "name": "Elden Beast",
+   "kind": "Boss",
+   "warp_flag": 1049300231,
+   "defeat_flag": 19000800,
+   "llegada": [
+    206.35,
+    -719.98,
+    -671.46
+   ],
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 2190,
+     "npc": 21900078,
+     "think": 21900000
+    },
+    {
+     "chr": 2200,
+     "npc": 22000078,
+     "think": 22000000,
+     "anim": 20000
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "tags": [
+    "bestia del círculo"
+   ]
+  },
+  {
+   "id": "13000830",
+   "name": "Dragonlord Placidusax",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 13000830,
+   "tags": [
+    "señor dragón placidusax"
+   ],
+   "llegada": null,
+   "chr": 4520,
+   "npc": 45200072,
+   "think": 45200000,
+   "vida": 1.28
+  },
+  {
+   "id": "j3_messmer",
+   "name": "Messmer the Impaler",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "messmer el empalador"
+   ],
+   "llegada": null,
+   "formato": "oleadas",
+   "enemigos": [
+    {
+     "chr": 5130,
+     "npc": 51300099,
+     "think": 51300000
+    },
+    {
+     "chr": 5130,
+     "npc": 51301099,
+     "think": 51300000,
+     "anim": 20003,
+     "efecto": 20010612
+    }
+   ],
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "fase_en": 0.5
+  },
+  {
+   "id": "nr_c7920",
+   "name": "Dancer of the Boreal Valley",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "chr": 7920,
+   "npc": 79200000,
+   "think": 79200000,
+   "tags": [
+    "bailarina"
+   ],
+   "vida": 1.67
+  },
+  {
+   "id": "nr_c7720",
+   "name": "Knight Artorias",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "chr": 7720,
+   "npc": 77200000,
+   "think": 77200000,
+   "anim_inicio": 20026,
+   "tags": [
+    "artorias"
+   ],
+   "vida": 1.62
+  },
+  {
+   "id": "nr_c7900",
+   "name": "Nameless King",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "chr": 7900,
+   "npc": 79000000,
+   "think": 79000000,
+   "tags": [
+    "rey sin nombre"
+   ],
+   "vida": 1.62
+  },
+  {
+   "id": "campeon3_negro",
+   "name": "Black Champion",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "campeón negro"
+   ],
+   "llegada": null,
+   "chr": 5840,
+   "npc": 58400000,
+   "think": 58400000,
+   "mutadores": [
+    "coloso",
+    "furia"
+   ],
+   "vida": 4.06
+  },
+  {
+   "id": "racha3_hojas",
+   "name": "Black Blade Streak",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "racha3_hojas"
+   ],
+   "llegada": null,
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47700250,
+     "think": 47705950
+    },
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 4770,
+     "npc": 47701242,
+     "think": 47706900
+    }
+   ],
+   "formato": "racha",
+   "oleadas": [
+    [
+     0
+    ],
+    [
+     1
+    ],
+    [
+     2
+    ]
+   ],
+   "vida": 0.65,
+   "arena": "grande"
+  },
+  {
+   "id": "reloj3_putrefacto",
+   "name": "Putrescent Knight: against the clock",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "caballero putrefacto: contrarreloj"
+   ],
+   "llegada": null,
+   "chr": 5020,
+   "npc": 50200087,
+   "think": 50200000,
+   "segundos": 150,
+   "vida": 1.19
+  },
+  {
+   "id": "aguante3_avatar",
+   "name": "Outlast the Scadutree Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "aguanta al avatar del árbol umbrío"
+   ],
+   "llegada": null,
+   "chr": 5230,
+   "npc": 52300396,
+   "think": 52300000,
+   "formato": "aguante",
+   "segundos": 75,
+   "arena": "grande"
+  },
+  {
+   "id": "coliseo_3250",
+   "name": "Draconic Tree Sentinel",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "llegada": null,
+   "tags": [
+    "draconic tree sentinel",
+    "nuevo_24_10"
+   ],
+   "chr": 3250,
+   "npc": 32500000,
+   "think": 32500000,
+   "vida": 1.02
+  }
+ ]
+}

@@ -1,0 +1,1166 @@
+{
+ "_nota": "Eventos del '?' (dll/core/src/events.rs). Imagen = extract/ui/carga/<imagen>.png (pantallas de carga del juego). Textos cortos estilo carta, sin guion largo. Efectos: runas, bendición, maldicion, objeto, templar, combate.",
+ "eventos": [
+  {
+   "id": "hoguera",
+   "titulo": "A Campfire",
+   "imagen": "MENU_Load_00006_PS5",
+   "texto": "Someone left the fire burning. Beside it, a tied bundle and a bowl of runes.",
+   "opciones": [
+    {
+     "texto": "Warm your hands",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "The warmth stays inside you."
+    },
+    {
+     "texto": "Take the bowl",
+     "detalle": "Gain 250 runes.",
+     "efectos": [
+      {
+       "runas": 250
+      }
+     ],
+     "resultado": "Nobody comes back for it."
+    },
+    {
+     "texto": "Open the bundle",
+     "detalle": "70%: an item. 30%: its owner returns.",
+     "azar": [
+      {
+       "peso": 70,
+       "efectos": [
+        {
+         "objeto": "PocoComun"
+        }
+       ],
+       "resultado": "There is something useful inside."
+      },
+      {
+       "peso": 30,
+       "efectos": [
+        {
+         "combate": "Normal"
+        }
+       ],
+       "resultado": "A shadow rises on the other side of the fire."
+      }
+     ]
+    },
+    {
+     "texto": "Keep walking",
+     "detalle": "Nothing.",
+     "resultado": "The fire is still burning when you look back."
+    }
+   ]
+  },
+  {
+   "id": "mesa_redonda",
+   "titulo": "An Empty Chair",
+   "imagen": "MENU_Load_00009_PS5",
+   "texto": "The table is set. There is a free chair and a tired-eyed man watching you.",
+   "actos": [
+    1,
+    2
+   ],
+   "opciones": [
+    {
+     "texto": "Sit and listen",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "He talks of enemies you have yet to meet. You keep what is useful."
+    },
+    {
+     "texto": "Sell him what you know",
+     "detalle": "Gain 200 runes.",
+     "efectos": [
+      {
+       "runas": 200
+      }
+     ],
+     "resultado": "He pays without haggling. That worries you."
+    },
+    {
+     "texto": "Don't sit",
+     "detalle": "Nothing.",
+     "resultado": "The chair will still be there."
+    }
+   ]
+  },
+  {
+   "id": "vasija",
+   "titulo": "A Stuck Pot",
+   "imagen": "MENU_Load_00018_PS5",
+   "texto": "A huge pot, half buried, asks for help in a warrior's voice.",
+   "opciones": [
+    {
+     "texto": "Pull it out",
+     "detalle": "Gain 150 runes. Gain an uncommon blessing.",
+     "efectos": [
+      {
+       "runas": 150
+      },
+      {
+       "reliquia": "PocoComun"
+      }
+     ],
+     "resultado": "It pops free with a crash and gives you something from inside. It says you will meet again."
+    },
+    {
+     "texto": "Break it",
+     "detalle": "Gain 400 runes. Curse: Guilty Conscience.",
+     "efectos": [
+      {
+       "runas": 400
+      },
+      {
+       "maldicion": "conciencia"
+      }
+     ],
+     "resultado": "There were more runes inside than you expected. And something else."
+    },
+    {
+     "texto": "Keep walking",
+     "detalle": "Nothing.",
+     "resultado": "Its shouts follow you for a good while."
+    }
+   ]
+  },
+  {
+   "id": "caballeria",
+   "titulo": "Hooves in the Mist",
+   "imagen": "MENU_Load_00016_PS5",
+   "texto": "A black rider patrols the road. He hasn't seen you yet.",
+   "opciones": [
+    {
+     "texto": "Block his path",
+     "detalle": "Elite fight. Gain 300 runes.",
+     "efectos": [
+      {
+       "runas": 300
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "He reins in the horse and lowers his flail."
+    },
+    {
+     "texto": "Wait among the trees",
+     "detalle": "50%: he rides past. 50%: he finds you.",
+     "azar": [
+      {
+       "peso": 50,
+       "resultado": "The hooves fade away.",
+       "efectos": []
+      },
+      {
+       "peso": 50,
+       "efectos": [
+        {
+         "combate": "Elite"
+        }
+       ],
+       "resultado": "The horse stops right in front of you."
+      }
+     ]
+    },
+    {
+     "texto": "Drop your runes and run",
+     "detalle": "Lose 150 runes.",
+     "efectos": [
+      {
+       "runas": -150
+      }
+     ],
+     "resultado": "He stops to pick them up. You don't."
+    }
+   ]
+  },
+  {
+   "id": "reina",
+   "titulo": "The Moon Queen",
+   "imagen": "MENU_Load_00013_PS5",
+   "texto": "A queen cradles an amber egg. She offers rebirth to whoever pays.",
+   "actos": [
+    1,
+    2
+   ],
+   "opciones": [
+    {
+     "texto": "Pay for rebirth",
+     "detalle": "Lose 300 runes. Gain a rare blessing.",
+     "efectos": [
+      {
+       "runas": -300
+      },
+      {
+       "reliquia": "Rara"
+      }
+     ],
+     "resultado": "Something in you changes shape. For the better."
+    },
+    {
+     "texto": "Ask a favor",
+     "detalle": "Gain a rare item. Curse: Under the Moon.",
+     "efectos": [
+      {
+       "objeto": "Rara"
+      },
+      {
+       "maldicion": "luna"
+      }
+     ],
+     "resultado": "She gives it to you. The moon does not forget."
+    },
+    {
+     "texto": "Leave",
+     "detalle": "Nothing.",
+     "resultado": "She doesn't look up from the egg."
+    }
+   ]
+  },
+  {
+   "id": "mausoleo",
+   "titulo": "A Walking Mausoleum",
+   "imagen": "MENU_Load_00014_PS5",
+   "texto": "A stone tower strides on legs. A bell hangs at the top.",
+   "opciones": [
+    {
+     "texto": "Ring the bell",
+     "detalle": "50%: uncommon blessing. 50%: curse.",
+     "azar": [
+      {
+       "peso": 50,
+       "efectos": [
+        {
+         "reliquia": "PocoComun"
+        }
+       ],
+       "resultado": "The sound fills your chest."
+      },
+      {
+       "peso": 50,
+       "efectos": [
+        {
+         "maldicion": "fragil"
+        }
+       ],
+       "resultado": "The echo won't go away."
+      }
+     ]
+    },
+    {
+     "texto": "Climb for the offering",
+     "detalle": "Gain an uncommon item.",
+     "efectos": [
+      {
+       "objeto": "PocoComun"
+      }
+     ],
+     "resultado": "You come down with full hands and shaking arms."
+    },
+    {
+     "texto": "Step aside",
+     "detalle": "Nothing.",
+     "resultado": "It goes its way. You go yours."
+    }
+   ]
+  },
+  {
+   "id": "altar",
+   "titulo": "Candles on the Road",
+   "imagen": "MENU_Load_00021_PS5",
+   "texto": "An altar with candles and offerings. Some pilgrims pray on their knees.",
+   "opciones": [
+    {
+     "texto": "Pray with them",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "Nobody asks who you pray to."
+    },
+    {
+     "texto": "Steal the offerings",
+     "detalle": "Gain 350 runes. Curse: Guilty Conscience.",
+     "efectos": [
+      {
+       "runas": 350
+      },
+      {
+       "maldicion": "conciencia"
+      }
+     ],
+     "resultado": "Nobody opens their eyes. That is worse."
+    },
+    {
+     "texto": "Leave an offering",
+     "detalle": "Lose 100 runes. Gain a common blessing.",
+     "efectos": [
+      {
+       "runas": -100
+      },
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "One of the candles lights itself."
+    },
+    {
+     "texto": "Walk past",
+     "detalle": "Nothing.",
+     "resultado": "They don't look up."
+    }
+   ]
+  },
+  {
+   "id": "guerrero",
+   "titulo": "A Warrior in the Rain",
+   "imagen": "MENU_Load_00011_PS5",
+   "texto": "His sword is taller than you. He points it at you and waits.",
+   "opciones": [
+    {
+     "texto": "Accept the duel",
+     "detalle": "Elite fight. A rare item if you win.",
+     "efectos": [
+      {
+       "objeto": "Rara"
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "He nods. The rain gets heavier."
+    },
+    {
+     "texto": "Offer him a drink",
+     "detalle": "Lose 150 runes. Gain an uncommon item.",
+     "efectos": [
+      {
+       "runas": -150
+      },
+      {
+       "objeto": "PocoComun"
+      }
+     ],
+     "resultado": "He drinks in silence. As he leaves, he leaves you something."
+    },
+    {
+     "texto": "Bow your head",
+     "detalle": "Nothing.",
+     "resultado": "He looks at you for a long while and walks away."
+    }
+   ]
+  },
+  {
+   "id": "anfitrion",
+   "titulo": "A Man by the Fire",
+   "imagen": "MENU_Load_00015_PS5",
+   "texto": "He smiles too much. He says he has a gift for you, no strings attached.",
+   "opciones": [
+    {
+     "texto": "Accept the gift",
+     "detalle": "60%: a rare item. 40%: he robs you.",
+     "azar": [
+      {
+       "peso": 60,
+       "efectos": [
+        {
+         "objeto": "Rara"
+        }
+       ],
+       "resultado": "It's real. You still don't trust him."
+      },
+      {
+       "peso": 40,
+       "efectos": [
+        {
+         "runas": -250
+        }
+       ],
+       "resultado": "By the time you notice, your pouch is lighter. He is gone."
+      }
+     ]
+    },
+    {
+     "texto": "Threaten him",
+     "detalle": "Normal fight. Gain 200 runes.",
+     "efectos": [
+      {
+       "runas": 200
+      },
+      {
+       "combate": "Normal"
+      }
+     ],
+     "resultado": "He stops smiling."
+    },
+    {
+     "texto": "Don't trust him",
+     "detalle": "Nothing.",
+     "resultado": "He shrugs. He seems genuinely disappointed."
+    }
+   ]
+  },
+  {
+   "id": "invitacion",
+   "titulo": "An Invitation",
+   "imagen": "MENU_Load_00020_PS5",
+   "texto": "A lady receives you in a red hall. She has a job, and she pays well.",
+   "actos": [
+    2,
+    3
+   ],
+   "opciones": [
+    {
+     "texto": "Take the job",
+     "detalle": "Elite fight. Gain 500 runes.",
+     "efectos": [
+      {
+       "runas": 500
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "She gives you a name and a place. Better not to ask more."
+    },
+    {
+     "texto": "Toast with her",
+     "detalle": "Gain a rare blessing. Curse: Foreign Blood.",
+     "efectos": [
+      {
+       "reliquia": "Rara"
+      },
+      {
+       "maldicion": "sangre"
+      }
+     ],
+     "resultado": "The wine tastes of iron."
+    },
+    {
+     "texto": "Turn her down",
+     "detalle": "Nothing.",
+     "resultado": "She says the door will stay open."
+    }
+   ]
+  },
+  {
+   "id": "flor",
+   "titulo": "Scarlet Flower",
+   "imagen": "MENU_Load_00032",
+   "texto": "A tree covered in red flowers. The air smells of rot and honey.",
+   "actos": [
+    2,
+    3
+   ],
+   "opciones": [
+    {
+     "texto": "Pick a flower",
+     "detalle": "Gain a rare blessing. Curse: Rot.",
+     "efectos": [
+      {
+       "reliquia": "Rara"
+      },
+      {
+       "maldicion": "podredumbre"
+      }
+     ],
+     "resultado": "It's beautiful. Your skin itches."
+    },
+    {
+     "texto": "Burn the tree",
+     "detalle": "Gain 300 runes.",
+     "efectos": [
+      {
+       "runas": 300
+      }
+     ],
+     "resultado": "It burns slowly. Runes remain among the ashes."
+    },
+    {
+     "texto": "Walk past",
+     "detalle": "Nothing.",
+     "resultado": "You don't look back."
+    }
+   ]
+  },
+  {
+   "id": "luz",
+   "titulo": "The Light of the Tree",
+   "imagen": "MENU_Load_00002_PS5",
+   "texto": "From here you can see the whole Erdtree. Its light weighs on your shoulders.",
+   "opciones": [
+    {
+     "texto": "Gaze at the light",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "Your eyes burn. It's worth it."
+    },
+    {
+     "texto": "Ask it for a sign",
+     "detalle": "50%: rare blessing. 50%: nothing.",
+     "azar": [
+      {
+       "peso": 50,
+       "efectos": [
+        {
+         "reliquia": "Rara"
+        }
+       ],
+       "resultado": "Something falls at your feet."
+      },
+      {
+       "peso": 50,
+       "resultado": "The Tree does not answer.",
+       "efectos": []
+      }
+     ]
+    },
+    {
+     "texto": "Move on",
+     "detalle": "Nothing.",
+     "resultado": "You'll see it up close soon enough."
+    }
+   ]
+  },
+  {
+   "id": "academia",
+   "titulo": "The Academy Library",
+   "imagen": "MENU_Load_00007_PS5",
+   "texto": "Shelves up to the ceiling. On the lectern, an open tome nobody should read.",
+   "opciones": [
+    {
+     "texto": "Read the tome",
+     "detalle": "Gain an uncommon blessing. Enemies get a silver mutator.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      },
+      {
+       "mutador": "plata"
+      }
+     ],
+     "resultado": "The letters stay inside your eyes."
+    },
+    {
+     "texto": "Steal any book",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "It weighs more than it looks."
+    },
+    {
+     "texto": "Close the tome",
+     "detalle": "Nothing.",
+     "resultado": "Some things are better left unknown."
+    }
+   ]
+  },
+  {
+   "id": "gigante",
+   "titulo": "The Sleeping Giant",
+   "imagen": "MENU_Load_00008_PS5",
+   "texto": "A giant sleeps on the snow. A huge pouch hangs from his belt.",
+   "opciones": [
+    {
+     "texto": "Cut the pouch",
+     "detalle": "60%: 500 runes. 40%: he wakes up.",
+     "azar": [
+      {
+       "peso": 60,
+       "resultado": "He doesn't stir. The pouch is full.",
+       "efectos": [
+        {
+         "runas": 500
+        }
+       ]
+      },
+      {
+       "peso": 40,
+       "resultado": "He opens an eye the size of a shield.",
+       "efectos": [
+        {
+         "combate": "Elite"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Wake him yourself",
+     "detalle": "Elite fight. A rare blessing if you win.",
+     "efectos": [
+      {
+       "reliquia": "Rara"
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "He rises slowly. Snow falls from his shoulders."
+    },
+    {
+     "texto": "Go on your way",
+     "detalle": "Nothing.",
+     "resultado": "His snoring follows you for a good while."
+    }
+   ]
+  },
+  {
+   "id": "barca",
+   "titulo": "The Boat",
+   "imagen": "MENU_Load_00029",
+   "texto": "A boat with a lit torch waits by the shore. There is no boatman.",
+   "opciones": [
+    {
+     "texto": "Get in",
+     "detalle": "Lose 200 runes. Gain a rare item.",
+     "efectos": [
+      {
+       "runas": -200
+      },
+      {
+       "objeto": "Rara"
+      }
+     ],
+     "resultado": "The boat moves on its own. Something waits on the other side."
+    },
+    {
+     "texto": "Take the torch",
+     "detalle": "Gain an uncommon blessing.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      }
+     ],
+     "resultado": "The fire doesn't burn the hand that holds it."
+    },
+    {
+     "texto": "Wait for the boatman",
+     "detalle": "50%: 300 runes. 50%: nothing.",
+     "azar": [
+      {
+       "peso": 50,
+       "resultado": "He arrives, takes his fee and leaves without you. He leaves you something.",
+       "efectos": [
+        {
+         "runas": 300
+        }
+       ]
+      },
+      {
+       "peso": 50,
+       "resultado": "He never comes.",
+       "efectos": []
+      }
+     ]
+    },
+    {
+     "texto": "Stay ashore",
+     "detalle": "Nothing.",
+     "resultado": "The boat drifts off without you."
+    }
+   ]
+  },
+  {
+   "id": "espiritu_azul",
+   "titulo": "A Blue Light",
+   "imagen": "MENU_Load_00033",
+   "texto": "A figure of light floats among the trees. It points at you with a finger that isn't there.",
+   "opciones": [
+    {
+     "texto": "Follow it",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "It leads you to a clearing and vanishes."
+    },
+    {
+     "texto": "Touch it",
+     "detalle": "Gain a mythic blessing. Curse: Under the Moon.",
+     "efectos": [
+      {
+       "reliquia": "Mitica"
+      },
+      {
+       "maldicion": "luna"
+      }
+     ],
+     "resultado": "The cold goes straight to the bone."
+    },
+    {
+     "texto": "Ignore it",
+     "detalle": "Nothing.",
+     "resultado": "The light fades behind you."
+    }
+   ]
+  },
+  {
+   "id": "general",
+   "titulo": "The Shadow of a General",
+   "imagen": "MENU_Load_00022_PS5",
+   "texto": "On the hilltop, a huge warrior rests his axe on the ground. He is watching you.",
+   "opciones": [
+    {
+     "texto": "Climb the hill",
+     "detalle": "Elite fight. An uncommon blessing if you win.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "He raises the axe. The sky darkens."
+    },
+    {
+     "texto": "Offer him your runes",
+     "detalle": "Lose 250 runes. An uncommon blessing.",
+     "efectos": [
+      {
+       "runas": -250
+      },
+      {
+       "reliquia": "PocoComun"
+      }
+     ],
+     "resultado": "He takes them without a word."
+    },
+    {
+     "texto": "Lower your eyes",
+     "detalle": "Nothing.",
+     "resultado": "When you look again, he is gone."
+    }
+   ]
+  },
+  {
+   "id": "castillo",
+   "titulo": "The Castle Gates",
+   "imagen": "MENU_Load_00017_PS5",
+   "texto": "The main gate is shut. A guard leans over the wall and asks for a toll.",
+   "opciones": [
+    {
+     "texto": "Pay the toll",
+     "detalle": "Lose 150 runes. Gain an uncommon item.",
+     "efectos": [
+      {
+       "runas": -150
+      },
+      {
+       "objeto": "PocoComun"
+      }
+     ],
+     "resultado": "The gate opens just enough to let you through."
+    },
+    {
+     "texto": "Look for another way in",
+     "detalle": "70%: a common blessing. 30%: you are spotted.",
+     "azar": [
+      {
+       "peso": 70,
+       "resultado": "A broken grate by the moat.",
+       "efectos": [
+        {
+         "reliquia": "Comun"
+        }
+       ]
+      },
+      {
+       "peso": 30,
+       "resultado": "Someone shouts from the wall.",
+       "efectos": [
+        {
+         "combate": "Normal"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Turn back",
+     "detalle": "Nothing.",
+     "resultado": "The castle will still be there."
+    }
+   ]
+  },
+  {
+   "id": "raices",
+   "titulo": "Roots of the Tree",
+   "imagen": "MENU_Load_00023_PS5",
+   "texto": "Golden roots break through the ground. They throb as if they had a pulse.",
+   "opciones": [
+    {
+     "texto": "Drink the sap",
+     "detalle": "A rare blessing. Curse: Foreign Blood.",
+     "efectos": [
+      {
+       "reliquia": "Rara"
+      },
+      {
+       "maldicion": "sangre"
+      }
+     ],
+     "resultado": "It tastes of gold and earth."
+    },
+    {
+     "texto": "Pull out a root",
+     "detalle": "Gain 350 runes.",
+     "efectos": [
+      {
+       "runas": 350
+      }
+     ],
+     "resultado": "It writhes in your hand for a moment."
+    },
+    {
+     "texto": "Sleep beside them",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "You dream of a tree that never ends."
+    },
+    {
+     "texto": "Leave them be",
+     "detalle": "Nothing.",
+     "resultado": "The roots keep growing."
+    }
+   ]
+  },
+  {
+   "id": "carro",
+   "titulo": "The Skeleton Cart",
+   "imagen": "MENU_Load_00012_PS5",
+   "texto": "Two skeletons haul a cart with a golden statue. They cross your path.",
+   "opciones": [
+    {
+     "texto": "Attack the cart",
+     "detalle": "Normal fight. Gain 400 runes.",
+     "efectos": [
+      {
+       "runas": 400
+      },
+      {
+       "combate": "Normal"
+      }
+     ],
+     "resultado": "The skeletons drop the ropes and turn around."
+    },
+    {
+     "texto": "Climb onto the cart",
+     "detalle": "A random item. Enemies get a silver mutator.",
+     "efectos": [
+      {
+       "objeto": "PocoComun"
+      },
+      {
+       "mutador": "plata"
+      }
+     ],
+     "resultado": "Nobody stops you. That's the scary part."
+    },
+    {
+     "texto": "Let them pass",
+     "detalle": "Nothing.",
+     "resultado": "The wheels creak until they fade away."
+    }
+   ]
+  },
+  {
+   "id": "trono",
+   "titulo": "The Sunken Throne",
+   "imagen": "MENU_Load_00019_PS5",
+   "texto": "A statue sits on a throne, waist-deep in water. It holds a chalice.",
+   "opciones": [
+    {
+     "texto": "Drink from the chalice",
+     "detalle": "Gain an uncommon blessing. Enemies get a gold mutator.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      },
+      {
+       "mutador": "oro"
+      }
+     ],
+     "resultado": "The water in the chalice isn't wet."
+    },
+    {
+     "texto": "Dive in",
+     "detalle": "50%: a rare item. 50%: nothing.",
+     "azar": [
+      {
+       "peso": 50,
+       "resultado": "Something shines at the bottom.",
+       "efectos": [
+        {
+         "objeto": "Rara"
+        }
+       ]
+      },
+      {
+       "peso": 50,
+       "resultado": "Only stones and cold.",
+       "efectos": []
+      }
+     ]
+    },
+    {
+     "texto": "Sit on its knees",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "For a moment, you feel like a king."
+    },
+    {
+     "texto": "Turn back",
+     "detalle": "Nothing.",
+     "resultado": "The throne stays empty."
+    }
+   ]
+  },
+  {
+   "id": "dragon",
+   "titulo": "The Swamp Dragon",
+   "imagen": "MENU_Load_00028",
+   "texto": "An old dragon sleeps in the water. One of its scales is loose, as big as a door.",
+   "opciones": [
+    {
+     "texto": "Rip off the scale",
+     "detalle": "A rare blessing. Elite fight.",
+     "efectos": [
+      {
+       "reliquia": "Rara"
+      },
+      {
+       "combate": "Elite"
+      }
+     ],
+     "resultado": "The whole swamp rises."
+    },
+    {
+     "texto": "Search among its bones",
+     "detalle": "Gain 300 runes.",
+     "efectos": [
+      {
+       "runas": 300
+      }
+     ],
+     "resultado": "Others weren't so lucky."
+    },
+    {
+     "texto": "Sneak around it",
+     "detalle": "Nothing.",
+     "resultado": "It doesn't notice a thing."
+    }
+   ]
+  },
+  {
+   "id": "retrato",
+   "titulo": "The Portrait",
+   "imagen": "MENU_Load_00031",
+   "texto": "A portrait covered in candles. The woman in it has the eyes of someone you know.",
+   "opciones": [
+    {
+     "texto": "Pray to her",
+     "detalle": "Gain an uncommon blessing.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      }
+     ],
+     "resultado": "A candle goes out on its own."
+    },
+    {
+     "texto": "Take it down",
+     "detalle": "Gain 250 runes. Curse: Guilty Conscience.",
+     "efectos": [
+      {
+       "runas": 250
+      },
+      {
+       "maldicion": "conciencia"
+      }
+     ],
+     "resultado": "Behind it, a hollow with coins. And a name written down."
+    },
+    {
+     "texto": "Leave it be",
+     "detalle": "Nothing.",
+     "resultado": "The eyes follow you to the door."
+    }
+   ]
+  },
+  {
+   "id": "marca",
+   "titulo": "The Golden Sign",
+   "imagen": "MENU_Load_00034",
+   "texto": "A golden sign floats above the grass. Someone left it for you. Or against you.",
+   "opciones": [
+    {
+     "texto": "Touch the sign",
+     "detalle": "50%: a mythic blessing. 50%: elite fight.",
+     "azar": [
+      {
+       "peso": 50,
+       "resultado": "The light wraps around you and stays.",
+       "efectos": [
+        {
+         "reliquia": "Mitica"
+        }
+       ]
+      },
+      {
+       "peso": 50,
+       "resultado": "An invader steps out of the light.",
+       "efectos": [
+        {
+         "combate": "Elite"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Summon help",
+     "detalle": "Lose 100 runes. A common blessing.",
+     "efectos": [
+      {
+       "runas": -100
+      },
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "A spirit greets you and leaves."
+    },
+    {
+     "texto": "Step on it",
+     "detalle": "Nothing.",
+     "resultado": "It goes out like an ember."
+    }
+   ]
+  },
+  {
+   "id": "gigantes_mesa",
+   "titulo": "A Table Set",
+   "imagen": "MENU_Load_00020",
+   "texto": "Two figures dine in silence. There is a third plate. They are waiting for you.",
+   "opciones": [
+    {
+     "texto": "Sit down",
+     "detalle": "Gain an uncommon blessing. Enemies get a silver mutator.",
+     "efectos": [
+      {
+       "reliquia": "PocoComun"
+      },
+      {
+       "mutador": "plata"
+      }
+     ],
+     "resultado": "The food tastes of nothing. But you feel different."
+    },
+    {
+     "texto": "Take the cutlery",
+     "detalle": "Gain 200 runes.",
+     "efectos": [
+      {
+       "runas": 200
+      }
+     ],
+     "resultado": "Real silver."
+    },
+    {
+     "texto": "Apologize and leave",
+     "detalle": "Nothing.",
+     "resultado": "Nobody stops you. Nobody says goodbye."
+    }
+   ]
+  },
+  {
+   "id": "acueducto",
+   "titulo": "The Aqueduct",
+   "imagen": "MENU_Load_00005_PS5",
+   "texto": "A huge aqueduct crosses the valley. Up top, something shines at the edge of the drop.",
+   "opciones": [
+    {
+     "texto": "Climb",
+     "detalle": "60%: a rare item. 40%: you fall and lose 150 runes.",
+     "azar": [
+      {
+       "peso": 60,
+       "resultado": "You make it. It was worth it.",
+       "efectos": [
+        {
+         "objeto": "Rara"
+        }
+       ]
+      },
+      {
+       "peso": 40,
+       "resultado": "You slip. The runes fall with you.",
+       "efectos": [
+        {
+         "runas": -150
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Wait for it to fall",
+     "detalle": "Gain a common blessing.",
+     "efectos": [
+      {
+       "reliquia": "Comun"
+      }
+     ],
+     "resultado": "It takes a while. But it falls."
+    },
+    {
+     "texto": "Follow the water",
+     "detalle": "Gain 150 runes.",
+     "efectos": [
+      {
+       "runas": 150
+      }
+     ],
+     "resultado": "It carries coins others lost."
+    },
+    {
+     "texto": "Go around",
+     "detalle": "Nothing.",
+     "resultado": "You lose an hour. Nothing else."
+    }
+   ]
+  }
+ ]
+}

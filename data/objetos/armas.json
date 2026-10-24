@@ -1,0 +1,6050 @@
+[
+ {
+  "id": 1000000,
+  "nombre": "Dagger",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 5,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10000
+ },
+ {
+  "id": 1010000,
+  "nombre": "Black Knife",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 3,
+  "req": {
+   "fue": 8,
+   "des": 12,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10001
+ },
+ {
+  "id": 1020000,
+  "nombre": "Parrying Dagger",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 5,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10002
+ },
+ {
+  "id": 1030000,
+  "nombre": "Miséricorde",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10003
+ },
+ {
+  "id": 1040000,
+  "nombre": "Reduvia",
+  "tipo": "Dagger",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 5,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 13
+  },
+  "unica": true,
+  "icono": 10004
+ },
+ {
+  "id": 1050000,
+  "nombre": "Crystal Knife",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 12,
+   "int": 9,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10005
+ },
+ {
+  "id": 1060000,
+  "nombre": "Celebrant's Sickle",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10006
+ },
+ {
+  "id": 1070000,
+  "nombre": "Glintstone Kris",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 5,
+   "des": 12,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10007
+ },
+ {
+  "id": 1080000,
+  "nombre": "Scorpion's Stinger",
+  "tipo": "Dagger",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 6,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10008
+ },
+ {
+  "id": 1090000,
+  "nombre": "Great Knife",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10009
+ },
+ {
+  "id": 1100000,
+  "nombre": "Wakizashi",
+  "tipo": "Dagger",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10010
+ },
+ {
+  "id": 1110000,
+  "nombre": "Cinquedea",
+  "tipo": "Dagger",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10011
+ },
+ {
+  "id": 1130000,
+  "nombre": "Ivory Sickle",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 11,
+   "int": 13,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10013
+ },
+ {
+  "id": 1140000,
+  "nombre": "Bloodstained Dagger",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10014
+ },
+ {
+  "id": 1150000,
+  "nombre": "Erdsteel Dagger",
+  "tipo": "Dagger",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 12,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10015
+ },
+ {
+  "id": 1160000,
+  "nombre": "Blade of Calling",
+  "tipo": "Dagger",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 6,
+   "des": 13,
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10016
+ },
+ {
+  "id": 2000000,
+  "nombre": "Longsword",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10040
+ },
+ {
+  "id": 2010000,
+  "nombre": "Short Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10041
+ },
+ {
+  "id": 2020000,
+  "nombre": "Broadsword",
+  "tipo": "Straight Sword",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10042
+ },
+ {
+  "id": 2040000,
+  "nombre": "Lordsworn's Straight Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10044
+ },
+ {
+  "id": 2050000,
+  "nombre": "Weathered Straight Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10045
+ },
+ {
+  "id": 2060000,
+  "nombre": "Ornamental Straight Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10046
+ },
+ {
+  "id": 2070000,
+  "nombre": "Golden Epitaph",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 10,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10047
+ },
+ {
+  "id": 2080000,
+  "nombre": "Nox Flowing Sword",
+  "tipo": "Curved Sword",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10048
+ },
+ {
+  "id": 2090000,
+  "nombre": "Inseparable Sword",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 18,
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10049
+ },
+ {
+  "id": 2110000,
+  "nombre": "Coded Sword",
+  "tipo": "Straight Sword",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10051
+ },
+ {
+  "id": 2140000,
+  "nombre": "Sword of Night and Flame",
+  "tipo": "Straight Sword",
+  "peso": 4.0,
+  "rareza": 3,
+  "req": {
+   "fue": 12,
+   "des": 12,
+   "int": 24,
+   "fe": 24,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10053
+ },
+ {
+  "id": 2150000,
+  "nombre": "Crystal Sword",
+  "tipo": "Straight Sword",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 10,
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10054
+ },
+ {
+  "id": 2180000,
+  "nombre": "Carian Knight's Sword",
+  "tipo": "Straight Sword",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10057
+ },
+ {
+  "id": 2190000,
+  "nombre": "Sword of St. Trina",
+  "tipo": "Straight Sword",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 12,
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10058
+ },
+ {
+  "id": 2200000,
+  "nombre": "Miquellan Knight's Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 11,
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10059
+ },
+ {
+  "id": 2210000,
+  "nombre": "Cane Sword",
+  "tipo": "Straight Sword",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10060
+ },
+ {
+  "id": 2220000,
+  "nombre": "Regalia of Eochaid",
+  "tipo": "Straight Sword",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 15
+  },
+  "unica": true,
+  "icono": 10061
+ },
+ {
+  "id": 2230000,
+  "nombre": "Noble's Slender Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10062
+ },
+ {
+  "id": 2240000,
+  "nombre": "Warhawk's Talon",
+  "tipo": "Straight Sword",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10063
+ },
+ {
+  "id": 2250000,
+  "nombre": "Lazuli Glintstone Sword",
+  "tipo": "Straight Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 9,
+   "int": 13,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10064
+ },
+ {
+  "id": 2260000,
+  "nombre": "Rotten Crystal Sword",
+  "tipo": "Straight Sword",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 10,
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10065
+ },
+ {
+  "id": 3000000,
+  "nombre": "Bastard Sword",
+  "tipo": "Greatsword",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10080
+ },
+ {
+  "id": 3010000,
+  "nombre": "Forked Greatsword",
+  "tipo": "Greatsword",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10081
+ },
+ {
+  "id": 3020000,
+  "nombre": "Iron Greatsword",
+  "tipo": "Greatsword",
+  "peso": 12.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10082
+ },
+ {
+  "id": 3030000,
+  "nombre": "Lordsworn's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10083
+ },
+ {
+  "id": 3040000,
+  "nombre": "Knight's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10084
+ },
+ {
+  "id": 3050000,
+  "nombre": "Flamberge",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10085
+ },
+ {
+  "id": 3060000,
+  "nombre": "Ordovis's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 12.0,
+  "rareza": 2,
+  "req": {
+   "fue": 25,
+   "des": 13,
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10086
+ },
+ {
+  "id": 3070000,
+  "nombre": "Alabaster Lord's Sword",
+  "tipo": "Greatsword",
+  "peso": 8.0,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 12,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10087
+ },
+ {
+  "id": 3080000,
+  "nombre": "Banished Knight's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 17,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10088
+ },
+ {
+  "id": 3090000,
+  "nombre": "Dark Moon Greatsword",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 3,
+  "req": {
+   "fue": 16,
+   "des": 11,
+   "int": 38,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10089
+ },
+ {
+  "id": 3100000,
+  "nombre": "Sacred Relic Sword",
+  "tipo": "Greatsword",
+  "peso": 11.0,
+  "rareza": 3,
+  "req": {
+   "fue": 14,
+   "des": 24,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10090
+ },
+ {
+  "id": 3130000,
+  "nombre": "Helphen's Steeple",
+  "tipo": "Greatsword",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 19,
+   "des": 10,
+   "int": 22,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10093
+ },
+ {
+  "id": 3140000,
+  "nombre": "Blasphemous Blade",
+  "tipo": "Greatsword",
+  "peso": 13.5,
+  "rareza": 3,
+  "req": {
+   "fue": 22,
+   "des": 15,
+   "int": 0,
+   "fe": 21,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10094
+ },
+ {
+  "id": 3150000,
+  "nombre": "Marais Executioner's Sword",
+  "tipo": "Greatsword",
+  "peso": 11.5,
+  "rareza": 3,
+  "req": {
+   "fue": 24,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 23
+  },
+  "unica": true,
+  "icono": 10095
+ },
+ {
+  "id": 3160000,
+  "nombre": "Sword of Milos",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 19,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10096
+ },
+ {
+  "id": 3170000,
+  "nombre": "Golden Order Greatsword",
+  "tipo": "Greatsword",
+  "peso": 10.0,
+  "rareza": 3,
+  "req": {
+   "fue": 16,
+   "des": 21,
+   "int": 0,
+   "fe": 28,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10097
+ },
+ {
+  "id": 3180000,
+  "nombre": "Claymore",
+  "tipo": "Greatsword",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10098
+ },
+ {
+  "id": 3190000,
+  "nombre": "Gargoyle's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 11.5,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10099
+ },
+ {
+  "id": 3200000,
+  "nombre": "Death's Poker",
+  "tipo": "Greatsword",
+  "peso": 8.5,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 17,
+   "int": 11,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10100
+ },
+ {
+  "id": 3210000,
+  "nombre": "Gargoyle's Blackblade",
+  "tipo": "Greatsword",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 10,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10101
+ },
+ {
+  "id": 3560000,
+  "nombre": "Leontiel's Greatsword",
+  "tipo": "Greatsword",
+  "peso": 9.5,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 26,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12401
+ },
+ {
+  "id": 4000000,
+  "nombre": "Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 23.0,
+  "rareza": 1,
+  "req": {
+   "fue": 31,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10120
+ },
+ {
+  "id": 4010000,
+  "nombre": "Watchdog's Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 22.0,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10121
+ },
+ {
+  "id": 4020000,
+  "nombre": "Maliketh's Black Blade",
+  "tipo": "Colossal Sword",
+  "peso": 22.0,
+  "rareza": 3,
+  "req": {
+   "fue": 34,
+   "des": 12,
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10122
+ },
+ {
+  "id": 4030000,
+  "nombre": "Troll's Golden Sword",
+  "tipo": "Colossal Sword",
+  "peso": 19.0,
+  "rareza": 1,
+  "req": {
+   "fue": 29,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10123
+ },
+ {
+  "id": 4040000,
+  "nombre": "Zweihander",
+  "tipo": "Colossal Sword",
+  "peso": 15.5,
+  "rareza": 1,
+  "req": {
+   "fue": 19,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10124
+ },
+ {
+  "id": 4050000,
+  "nombre": "Starscourge Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 20.0,
+  "rareza": 3,
+  "req": {
+   "fue": 38,
+   "des": 12,
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10125
+ },
+ {
+  "id": 4060000,
+  "nombre": "Royal Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 20.0,
+  "rareza": 2,
+  "req": {
+   "fue": 26,
+   "des": 18,
+   "int": 22,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10126
+ },
+ {
+  "id": 4070000,
+  "nombre": "Godslayer's Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 17.5,
+  "rareza": 3,
+  "req": {
+   "fue": 20,
+   "des": 22,
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10127
+ },
+ {
+  "id": 4080000,
+  "nombre": "Ruins Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 23.0,
+  "rareza": 3,
+  "req": {
+   "fue": 50,
+   "des": 0,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10128
+ },
+ {
+  "id": 4100000,
+  "nombre": "Grafted Blade Greatsword",
+  "tipo": "Colossal Sword",
+  "peso": 21.0,
+  "rareza": 3,
+  "req": {
+   "fue": 40,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10130
+ },
+ {
+  "id": 4110000,
+  "nombre": "Troll Knight's Sword",
+  "tipo": "Colossal Sword",
+  "peso": 18.0,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10132
+ },
+ {
+  "id": 5000000,
+  "nombre": "Estoc",
+  "tipo": "Thrusting Sword",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10160
+ },
+ {
+  "id": 5010000,
+  "nombre": "Cleanrot Knight's Sword",
+  "tipo": "Thrusting Sword",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10161
+ },
+ {
+  "id": 5020000,
+  "nombre": "Rapier",
+  "tipo": "Thrusting Sword",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10162
+ },
+ {
+  "id": 5030000,
+  "nombre": "Rogier's Rapier",
+  "tipo": "Thrusting Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 17,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10163
+ },
+ {
+  "id": 5040000,
+  "nombre": "Antspur Rapier",
+  "tipo": "Thrusting Sword",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10164
+ },
+ {
+  "id": 5050000,
+  "nombre": "Frozen Needle",
+  "tipo": "Thrusting Sword",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10165
+ },
+ {
+  "id": 5060000,
+  "nombre": "Noble's Estoc",
+  "tipo": "Thrusting Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10166
+ },
+ {
+  "id": 6000000,
+  "nombre": "Bloody Helice",
+  "tipo": "Heavy Thrusting Sword",
+  "peso": 8.0,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 19,
+   "int": 0,
+   "fe": 0,
+   "arc": 17
+  },
+  "unica": true,
+  "icono": 10200
+ },
+ {
+  "id": 6010000,
+  "nombre": "Godskin Stitcher",
+  "tipo": "Heavy Thrusting Sword",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 17,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10201
+ },
+ {
+  "id": 6020000,
+  "nombre": "Great Épée",
+  "tipo": "Heavy Thrusting Sword",
+  "peso": 6.5,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10202
+ },
+ {
+  "id": 6040000,
+  "nombre": "Dragon King's Cragblade",
+  "tipo": "Heavy Thrusting Sword",
+  "peso": 8.0,
+  "rareza": 3,
+  "req": {
+   "fue": 18,
+   "des": 37,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10204
+ },
+ {
+  "id": 7000000,
+  "nombre": "Falchion",
+  "tipo": "Curved Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10240
+ },
+ {
+  "id": 7010000,
+  "nombre": "Beastman's Curved Sword",
+  "tipo": "Curved Sword",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 13,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10241
+ },
+ {
+  "id": 7020000,
+  "nombre": "Shotel",
+  "tipo": "Curved Sword",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 19,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10242
+ },
+ {
+  "id": 7030000,
+  "nombre": "Shamshir",
+  "tipo": "Curved Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10243
+ },
+ {
+  "id": 7040000,
+  "nombre": "Bandit's Curved Sword",
+  "tipo": "Curved Sword",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10244
+ },
+ {
+  "id": 7050000,
+  "nombre": "Magma Blade",
+  "tipo": "Curved Sword",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 9,
+   "des": 15,
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10245
+ },
+ {
+  "id": 7060000,
+  "nombre": "Flowing Curved Sword",
+  "tipo": "Curved Sword",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 9,
+   "des": 17,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10246
+ },
+ {
+  "id": 7070000,
+  "nombre": "Wing of Astel",
+  "tipo": "Curved Sword",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 7,
+   "des": 17,
+   "int": 20,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10247
+ },
+ {
+  "id": 7080000,
+  "nombre": "Scavenger's Curved Sword",
+  "tipo": "Curved Sword",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10248
+ },
+ {
+  "id": 7100000,
+  "nombre": "Eclipse Shotel",
+  "tipo": "Curved Sword",
+  "peso": 3.0,
+  "rareza": 3,
+  "req": {
+   "fue": 10,
+   "des": 25,
+   "int": 0,
+   "fe": 30,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10250
+ },
+ {
+  "id": 7110000,
+  "nombre": "Serpent-God's Curved Sword",
+  "tipo": "Curved Sword",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10251
+ },
+ {
+  "id": 7120000,
+  "nombre": "Mantis Blade",
+  "tipo": "Curved Sword",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10252
+ },
+ {
+  "id": 7140000,
+  "nombre": "Scimitar",
+  "tipo": "Curved Sword",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10254
+ },
+ {
+  "id": 7150000,
+  "nombre": "Grossmesser",
+  "tipo": "Curved Sword",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10255
+ },
+ {
+  "id": 8010000,
+  "nombre": "Onyx Lord's Greatsword",
+  "tipo": "Curved Greatsword",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 16,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10280
+ },
+ {
+  "id": 8020000,
+  "nombre": "Dismounter",
+  "tipo": "Curved Greatsword",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 19,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10281
+ },
+ {
+  "id": 8030000,
+  "nombre": "Bloodhound's Fang",
+  "tipo": "Curved Greatsword",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 17,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10282
+ },
+ {
+  "id": 8040000,
+  "nombre": "Magma Wyrm's Scalesword",
+  "tipo": "Curved Greatsword",
+  "peso": 15.0,
+  "rareza": 2,
+  "req": {
+   "fue": 24,
+   "des": 15,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10283
+ },
+ {
+  "id": 8050000,
+  "nombre": "Zamor Curved Sword",
+  "tipo": "Curved Greatsword",
+  "peso": 9.0,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10289
+ },
+ {
+  "id": 8060000,
+  "nombre": "Omen Cleaver",
+  "tipo": "Curved Greatsword",
+  "peso": 11.5,
+  "rareza": 1,
+  "req": {
+   "fue": 19,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10284
+ },
+ {
+  "id": 8070000,
+  "nombre": "Monk's Flameblade",
+  "tipo": "Curved Greatsword",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10285
+ },
+ {
+  "id": 8080000,
+  "nombre": "Beastman's Cleaver",
+  "tipo": "Curved Greatsword",
+  "peso": 16.5,
+  "rareza": 1,
+  "req": {
+   "fue": 25,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10286
+ },
+ {
+  "id": 8100000,
+  "nombre": "Morgott's Cursed Sword",
+  "tipo": "Curved Greatsword",
+  "peso": 7.5,
+  "rareza": 3,
+  "req": {
+   "fue": 14,
+   "des": 35,
+   "int": 0,
+   "fe": 0,
+   "arc": 17
+  },
+  "unica": true,
+  "icono": 10288
+ },
+ {
+  "id": 8530000,
+  "nombre": "Hefty Scimitar",
+  "tipo": "Curved Greatsword",
+  "peso": 9.5,
+  "rareza": 1,
+  "req": {
+   "fue": 13,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12400
+ },
+ {
+  "id": 9000000,
+  "nombre": "Uchigatana",
+  "tipo": "Katana",
+  "peso": 5.5,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10320
+ },
+ {
+  "id": 9010000,
+  "nombre": "Nagakiba",
+  "tipo": "Katana",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 22,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10321
+ },
+ {
+  "id": 9020000,
+  "nombre": "Hand of Malenia",
+  "tipo": "Katana",
+  "peso": 7.0,
+  "rareza": 3,
+  "req": {
+   "fue": 16,
+   "des": 48,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10322
+ },
+ {
+  "id": 9030000,
+  "nombre": "Meteoric Ore Blade",
+  "tipo": "Katana",
+  "peso": 7.5,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 14,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10323
+ },
+ {
+  "id": 9040000,
+  "nombre": "Rivers of Blood",
+  "tipo": "Katana",
+  "peso": 6.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 20
+  },
+  "unica": true,
+  "icono": 10324
+ },
+ {
+  "id": 9060000,
+  "nombre": "Moonveil",
+  "tipo": "Katana",
+  "peso": 6.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 18,
+   "int": 23,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10326
+ },
+ {
+  "id": 9070000,
+  "nombre": "Dragonscale Blade",
+  "tipo": "Katana",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10327
+ },
+ {
+  "id": 9080000,
+  "nombre": "Serpentbone Blade",
+  "tipo": "Katana",
+  "peso": 6.0,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 22,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10328
+ },
+ {
+  "id": 10000000,
+  "nombre": "Twinblade",
+  "tipo": "Twinblade",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10360
+ },
+ {
+  "id": 10010000,
+  "nombre": "Godskin Peeler",
+  "tipo": "Twinblade",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 17,
+   "des": 22,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10361
+ },
+ {
+  "id": 10030000,
+  "nombre": "Twinned Knight Swords",
+  "tipo": "Twinblade",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10362
+ },
+ {
+  "id": 10050000,
+  "nombre": "Eleonora's Poleblade",
+  "tipo": "Twinblade",
+  "peso": 6.0,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 21,
+   "int": 0,
+   "fe": 0,
+   "arc": 19
+  },
+  "unica": true,
+  "icono": 10364
+ },
+ {
+  "id": 10080000,
+  "nombre": "Gargoyle's Twinblade",
+  "tipo": "Twinblade",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10367
+ },
+ {
+  "id": 10090000,
+  "nombre": "Gargoyle's Black Blades",
+  "tipo": "Twinblade",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 15,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10368
+ },
+ {
+  "id": 11000000,
+  "nombre": "Mace",
+  "tipo": "Hammer",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10400
+ },
+ {
+  "id": 11010000,
+  "nombre": "Club",
+  "tipo": "Hammer",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10401
+ },
+ {
+  "id": 11030000,
+  "nombre": "Curved Club",
+  "tipo": "Hammer",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10402
+ },
+ {
+  "id": 11040000,
+  "nombre": "Warpick",
+  "tipo": "Hammer",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10403
+ },
+ {
+  "id": 11050000,
+  "nombre": "Morning Star",
+  "tipo": "Hammer",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10404
+ },
+ {
+  "id": 11060000,
+  "nombre": "Varré's Bouquet",
+  "tipo": "Hammer",
+  "peso": 2.0,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 24
+  },
+  "unica": true,
+  "icono": 10405
+ },
+ {
+  "id": 11070000,
+  "nombre": "Spiked Club",
+  "tipo": "Hammer",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10406
+ },
+ {
+  "id": 11080000,
+  "nombre": "Hammer",
+  "tipo": "Hammer",
+  "peso": 6.5,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10407
+ },
+ {
+  "id": 11090000,
+  "nombre": "Monk's Flamemace",
+  "tipo": "Hammer",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 13,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10408
+ },
+ {
+  "id": 11100000,
+  "nombre": "Envoy's Horn",
+  "tipo": "Hammer",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 12,
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10409
+ },
+ {
+  "id": 11110000,
+  "nombre": "Scepter of the All-Knowing",
+  "tipo": "Hammer",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 18,
+   "int": 21,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10410
+ },
+ {
+  "id": 11120000,
+  "nombre": "Nox Flowing Hammer",
+  "tipo": "Hammer",
+  "peso": 6.5,
+  "rareza": 2,
+  "req": {
+   "fue": 17,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10411
+ },
+ {
+  "id": 11130000,
+  "nombre": "Ringed Finger",
+  "tipo": "Hammer",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10412
+ },
+ {
+  "id": 11140000,
+  "nombre": "Stone Club",
+  "tipo": "Hammer",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10413
+ },
+ {
+  "id": 11150000,
+  "nombre": "Marika's Hammer",
+  "tipo": "Hammer",
+  "peso": 6.0,
+  "rareza": 3,
+  "req": {
+   "fue": 20,
+   "des": 12,
+   "int": 0,
+   "fe": 19,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10414
+ },
+ {
+  "id": 12000000,
+  "nombre": "Large Club",
+  "tipo": "Great Hammer",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 22,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10440
+ },
+ {
+  "id": 12010000,
+  "nombre": "Greathorn Hammer",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 22,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10441
+ },
+ {
+  "id": 12020000,
+  "nombre": "Battle Hammer",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10442
+ },
+ {
+  "id": 12060000,
+  "nombre": "Great Mace",
+  "tipo": "Great Hammer",
+  "peso": 11.5,
+  "rareza": 1,
+  "req": {
+   "fue": 28,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10443
+ },
+ {
+  "id": 12080000,
+  "nombre": "Curved Great Club",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10444
+ },
+ {
+  "id": 12130000,
+  "nombre": "Celebrant's Skull",
+  "tipo": "Great Hammer",
+  "peso": 8.5,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10445
+ },
+ {
+  "id": 12140000,
+  "nombre": "Pickaxe",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 22,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10446
+ },
+ {
+  "id": 12150000,
+  "nombre": "Beastclaw Greathammer",
+  "tipo": "Great Hammer",
+  "peso": 9.0,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 10,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10447
+ },
+ {
+  "id": 12160000,
+  "nombre": "Envoy's Long Horn",
+  "tipo": "Great Hammer",
+  "peso": 9.5,
+  "rareza": 2,
+  "req": {
+   "fue": 23,
+   "des": 11,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10448
+ },
+ {
+  "id": 12170000,
+  "nombre": "Cranial Vessel Candlestand",
+  "tipo": "Great Hammer",
+  "peso": 12.5,
+  "rareza": 2,
+  "req": {
+   "fue": 26,
+   "des": 8,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10449
+ },
+ {
+  "id": 12180000,
+  "nombre": "Great Stars",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 22,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10450
+ },
+ {
+  "id": 12190000,
+  "nombre": "Brick Hammer",
+  "tipo": "Great Hammer",
+  "peso": 12.5,
+  "rareza": 1,
+  "req": {
+   "fue": 31,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10451
+ },
+ {
+  "id": 12200000,
+  "nombre": "Devourer's Scepter",
+  "tipo": "Great Hammer",
+  "peso": 11.5,
+  "rareza": 3,
+  "req": {
+   "fue": 24,
+   "des": 20,
+   "int": 0,
+   "fe": 25,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10452
+ },
+ {
+  "id": 12210000,
+  "nombre": "Rotten Battle Hammer",
+  "tipo": "Great Hammer",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10453
+ },
+ {
+  "id": 13000000,
+  "nombre": "Nightrider Flail",
+  "tipo": "Flail",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 24,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10480
+ },
+ {
+  "id": 13010000,
+  "nombre": "Flail",
+  "tipo": "Flail",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10481
+ },
+ {
+  "id": 13020000,
+  "nombre": "Family Heads",
+  "tipo": "Flail",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 18,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10482
+ },
+ {
+  "id": 13030000,
+  "nombre": "Bastard's Stars",
+  "tipo": "Flail",
+  "peso": 5.5,
+  "rareza": 3,
+  "req": {
+   "fue": 8,
+   "des": 22,
+   "int": 22,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10483
+ },
+ {
+  "id": 13040000,
+  "nombre": "Chainlink Flail",
+  "tipo": "Flail",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10484
+ },
+ {
+  "id": 13510000,
+  "nombre": "Golden Order Flail",
+  "tipo": "Flail",
+  "peso": 5.0,
+  "rareza": 2,
+  "req": {
+   "fue": 9,
+   "des": 16,
+   "int": 0,
+   "fe": 26,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12402
+ },
+ {
+  "id": 14000000,
+  "nombre": "Battle Axe",
+  "tipo": "Axe",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10520
+ },
+ {
+  "id": 14010000,
+  "nombre": "Forked Hatchet",
+  "tipo": "Axe",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10521
+ },
+ {
+  "id": 14020000,
+  "nombre": "Hand Axe",
+  "tipo": "Axe",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10522
+ },
+ {
+  "id": 14030000,
+  "nombre": "Jawbone Axe",
+  "tipo": "Axe",
+  "peso": 5.5,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10523
+ },
+ {
+  "id": 14040000,
+  "nombre": "Iron Cleaver",
+  "tipo": "Axe",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 7,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10524
+ },
+ {
+  "id": 14050000,
+  "nombre": "Ripple Blade",
+  "tipo": "Axe",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 20
+  },
+  "unica": true,
+  "icono": 10525
+ },
+ {
+  "id": 14060000,
+  "nombre": "Celebrant's Cleaver",
+  "tipo": "Axe",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10526
+ },
+ {
+  "id": 14080000,
+  "nombre": "Icerind Hatchet",
+  "tipo": "Axe",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10527
+ },
+ {
+  "id": 14100000,
+  "nombre": "Highland Axe",
+  "tipo": "Axe",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10529
+ },
+ {
+  "id": 14110000,
+  "nombre": "Sacrificial Axe",
+  "tipo": "Axe",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10530
+ },
+ {
+  "id": 14120000,
+  "nombre": "Rosus' Axe",
+  "tipo": "Axe",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 10,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10531
+ },
+ {
+  "id": 14140000,
+  "nombre": "Stormhawk Axe",
+  "tipo": "Axe",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 19,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10533
+ },
+ {
+  "id": 15000000,
+  "nombre": "Greataxe",
+  "tipo": "Greataxe",
+  "peso": 13.0,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10560
+ },
+ {
+  "id": 15010000,
+  "nombre": "Warped Axe",
+  "tipo": "Axe",
+  "peso": 7.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10561
+ },
+ {
+  "id": 15020000,
+  "nombre": "Great Omenkiller Cleaver",
+  "tipo": "Greataxe",
+  "peso": 11.0,
+  "rareza": 1,
+  "req": {
+   "fue": 23,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10562
+ },
+ {
+  "id": 15030000,
+  "nombre": "Crescent Moon Axe",
+  "tipo": "Greataxe",
+  "peso": 12.5,
+  "rareza": 1,
+  "req": {
+   "fue": 25,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10563
+ },
+ {
+  "id": 15040000,
+  "nombre": "Axe of Godrick",
+  "tipo": "Greataxe",
+  "peso": 11.0,
+  "rareza": 3,
+  "req": {
+   "fue": 34,
+   "des": 22,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10564
+ },
+ {
+  "id": 15050000,
+  "nombre": "Longhaft Axe",
+  "tipo": "Greataxe",
+  "peso": 12.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10565
+ },
+ {
+  "id": 15060000,
+  "nombre": "Rusted Anchor",
+  "tipo": "Greataxe",
+  "peso": 12.5,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10566
+ },
+ {
+  "id": 15080000,
+  "nombre": "Executioner's Greataxe",
+  "tipo": "Greataxe",
+  "peso": 15.0,
+  "rareza": 1,
+  "req": {
+   "fue": 34,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10568
+ },
+ {
+  "id": 15110000,
+  "nombre": "Winged Greathorn",
+  "tipo": "Greataxe",
+  "peso": 11.0,
+  "rareza": 3,
+  "req": {
+   "fue": 30,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10571
+ },
+ {
+  "id": 15120000,
+  "nombre": "Butchering Knife",
+  "tipo": "Greataxe",
+  "peso": 8.5,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10572
+ },
+ {
+  "id": 15130000,
+  "nombre": "Gargoyle's Great Axe",
+  "tipo": "Greataxe",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10573
+ },
+ {
+  "id": 15140000,
+  "nombre": "Gargoyle's Black Axe",
+  "tipo": "Greataxe",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 8,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10574
+ },
+ {
+  "id": 16000000,
+  "nombre": "Short Spear",
+  "tipo": "Spear",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10600
+ },
+ {
+  "id": 16010000,
+  "nombre": "Spear",
+  "tipo": "Spear",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10601
+ },
+ {
+  "id": 16020000,
+  "nombre": "Crystal Spear",
+  "tipo": "Spear",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 16,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10602
+ },
+ {
+  "id": 16030000,
+  "nombre": "Clayman's Harpoon",
+  "tipo": "Spear",
+  "peso": 5.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 10,
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10603
+ },
+ {
+  "id": 16040000,
+  "nombre": "Cleanrot Spear",
+  "tipo": "Spear",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 16,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10604
+ },
+ {
+  "id": 16050000,
+  "nombre": "Partisan",
+  "tipo": "Spear",
+  "peso": 6.5,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10605
+ },
+ {
+  "id": 16060000,
+  "nombre": "Celebrant's Rib-Rake",
+  "tipo": "Spear",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10606
+ },
+ {
+  "id": 16070000,
+  "nombre": "Pike",
+  "tipo": "Spear",
+  "peso": 7.5,
+  "rareza": 1,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10607
+ },
+ {
+  "id": 16080000,
+  "nombre": "Torchpole",
+  "tipo": "Spear",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10608
+ },
+ {
+  "id": 16090000,
+  "nombre": "Bolt of Gransax",
+  "tipo": "Spear",
+  "peso": 8.5,
+  "rareza": 3,
+  "req": {
+   "fue": 20,
+   "des": 40,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10609
+ },
+ {
+  "id": 16110000,
+  "nombre": "Cross-Naginata",
+  "tipo": "Spear",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10611
+ },
+ {
+  "id": 16120000,
+  "nombre": "Death Ritual Spear",
+  "tipo": "Spear",
+  "peso": 6.5,
+  "rareza": 2,
+  "req": {
+   "fue": 14,
+   "des": 20,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10612
+ },
+ {
+  "id": 16130000,
+  "nombre": "Inquisitor's Girandole",
+  "tipo": "Spear",
+  "peso": 7.5,
+  "rareza": 2,
+  "req": {
+   "fue": 18,
+   "des": 15,
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10613
+ },
+ {
+  "id": 16140000,
+  "nombre": "Spiked Spear",
+  "tipo": "Spear",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10614
+ },
+ {
+  "id": 16150000,
+  "nombre": "Iron Spear",
+  "tipo": "Spear",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 13,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10615
+ },
+ {
+  "id": 16160000,
+  "nombre": "Rotten Crystal Spear",
+  "tipo": "Spear",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 16,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10616
+ },
+ {
+  "id": 17010000,
+  "nombre": "Mohgwyn's Sacred Spear",
+  "tipo": "Great Spear",
+  "peso": 10.0,
+  "rareza": 3,
+  "req": {
+   "fue": 24,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 27
+  },
+  "unica": true,
+  "icono": 10641
+ },
+ {
+  "id": 17020000,
+  "nombre": "Siluria's Tree",
+  "tipo": "Great Spear",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 27,
+   "des": 13,
+   "int": 0,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10642
+ },
+ {
+  "id": 17030000,
+  "nombre": "Serpent-Hunter",
+  "tipo": "Great Spear",
+  "peso": 12.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10643
+ },
+ {
+  "id": 17050000,
+  "nombre": "Vyke's War Spear",
+  "tipo": "Great Spear",
+  "peso": 8.0,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 20,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10645
+ },
+ {
+  "id": 17060000,
+  "nombre": "Lance",
+  "tipo": "Great Spear",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10646
+ },
+ {
+  "id": 17070000,
+  "nombre": "Treespear",
+  "tipo": "Great Spear",
+  "peso": 9.5,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 22,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10647
+ },
+ {
+  "id": 18000000,
+  "nombre": "Halberd",
+  "tipo": "Halberd",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10680
+ },
+ {
+  "id": 18010000,
+  "nombre": "Pest's Glaive",
+  "tipo": "Halberd",
+  "peso": 7.0,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10681
+ },
+ {
+  "id": 18020000,
+  "nombre": "Lucerne",
+  "tipo": "Halberd",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10682
+ },
+ {
+  "id": 18030000,
+  "nombre": "Banished Knight's Halberd",
+  "tipo": "Halberd",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10683
+ },
+ {
+  "id": 18040000,
+  "nombre": "Commander's Standard",
+  "tipo": "Halberd",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 24,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10684
+ },
+ {
+  "id": 18050000,
+  "nombre": "Nightrider Glaive",
+  "tipo": "Halberd",
+  "peso": 12.0,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10685
+ },
+ {
+  "id": 18060000,
+  "nombre": "Ripple Crescent Halberd",
+  "tipo": "Halberd",
+  "peso": 8.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 20
+  },
+  "unica": true,
+  "icono": 10686
+ },
+ {
+  "id": 18070000,
+  "nombre": "Vulgar Militia Saw",
+  "tipo": "Halberd",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10687
+ },
+ {
+  "id": 18080000,
+  "nombre": "Golden Halberd",
+  "tipo": "Halberd",
+  "peso": 13.5,
+  "rareza": 2,
+  "req": {
+   "fue": 30,
+   "des": 14,
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10688
+ },
+ {
+  "id": 18090000,
+  "nombre": "Glaive",
+  "tipo": "Halberd",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10689
+ },
+ {
+  "id": 18100000,
+  "nombre": "Loretta's War Sickle",
+  "tipo": "Halberd",
+  "peso": 10.0,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 15,
+   "int": 20,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10690
+ },
+ {
+  "id": 18110000,
+  "nombre": "Guardian's Swordspear",
+  "tipo": "Halberd",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 17,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10691
+ },
+ {
+  "id": 18130000,
+  "nombre": "Vulgar Militia Shotel",
+  "tipo": "Halberd",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10693
+ },
+ {
+  "id": 18140000,
+  "nombre": "Dragon Halberd",
+  "tipo": "Halberd",
+  "peso": 10.5,
+  "rareza": 2,
+  "req": {
+   "fue": 22,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10694
+ },
+ {
+  "id": 18150000,
+  "nombre": "Gargoyle's Halberd",
+  "tipo": "Halberd",
+  "peso": 12.0,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10695
+ },
+ {
+  "id": 18160000,
+  "nombre": "Gargoyle's Black Halberd",
+  "tipo": "Halberd",
+  "peso": 12.0,
+  "rareza": 1,
+  "req": {
+   "fue": 26,
+   "des": 10,
+   "int": 0,
+   "fe": 22,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10696
+ },
+ {
+  "id": 19000000,
+  "nombre": "Scythe",
+  "tipo": "Reaper",
+  "peso": 7.5,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10720
+ },
+ {
+  "id": 19010000,
+  "nombre": "Grave Scythe",
+  "tipo": "Reaper",
+  "peso": 9.5,
+  "rareza": 1,
+  "req": {
+   "fue": 17,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10721
+ },
+ {
+  "id": 19020000,
+  "nombre": "Halo Scythe",
+  "tipo": "Reaper",
+  "peso": 8.5,
+  "rareza": 2,
+  "req": {
+   "fue": 13,
+   "des": 16,
+   "int": 0,
+   "fe": 15,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10722
+ },
+ {
+  "id": 19060000,
+  "nombre": "Winged Scythe",
+  "tipo": "Reaper",
+  "peso": 7.5,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 16,
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10726
+ },
+ {
+  "id": 20000000,
+  "nombre": "Whip",
+  "tipo": "Whip",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10760
+ },
+ {
+  "id": 20020000,
+  "nombre": "Thorned Whip",
+  "tipo": "Whip",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10762
+ },
+ {
+  "id": 20030000,
+  "nombre": "Magma Whip Candlestick",
+  "tipo": "Whip",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 16,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10763
+ },
+ {
+  "id": 20050000,
+  "nombre": "Hoslow's Petal Whip",
+  "tipo": "Whip",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10765
+ },
+ {
+  "id": 20060000,
+  "nombre": "Giant's Red Braid",
+  "tipo": "Whip",
+  "peso": 2.5,
+  "rareza": 3,
+  "req": {
+   "fue": 18,
+   "des": 12,
+   "int": 0,
+   "fe": 21,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10766
+ },
+ {
+  "id": 20070000,
+  "nombre": "Urumi",
+  "tipo": "Whip",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 19,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10767
+ },
+ {
+  "id": 21000000,
+  "nombre": "Caestus",
+  "tipo": "Fist",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10800
+ },
+ {
+  "id": 21010000,
+  "nombre": "Spiked Caestus",
+  "tipo": "Fist",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10801
+ },
+ {
+  "id": 21060000,
+  "nombre": "Grafted Dragon",
+  "tipo": "Fist",
+  "peso": 2.5,
+  "rareza": 3,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 0,
+   "fe": 16,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10806
+ },
+ {
+  "id": 21070000,
+  "nombre": "Iron Ball",
+  "tipo": "Fist",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10807
+ },
+ {
+  "id": 21080000,
+  "nombre": "Star Fist",
+  "tipo": "Fist",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10808
+ },
+ {
+  "id": 21100000,
+  "nombre": "Katar",
+  "tipo": "Fist",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10809
+ },
+ {
+  "id": 21110000,
+  "nombre": "Clinging Bone",
+  "tipo": "Fist",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 22,
+   "int": 0,
+   "fe": 0,
+   "arc": 16
+  },
+  "unica": true,
+  "icono": 10810
+ },
+ {
+  "id": 21120000,
+  "nombre": "Veteran's Prosthesis",
+  "tipo": "Fist",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 15,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10811
+ },
+ {
+  "id": 21130000,
+  "nombre": "Cipher Pata",
+  "tipo": "Fist",
+  "peso": 0.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 30,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10812
+ },
+ {
+  "id": 22000000,
+  "nombre": "Hookclaws",
+  "tipo": "Claw",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10840
+ },
+ {
+  "id": 22010000,
+  "nombre": "Venomous Fang",
+  "tipo": "Claw",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10841
+ },
+ {
+  "id": 22020000,
+  "nombre": "Bloodhound Claws",
+  "tipo": "Claw",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10842
+ },
+ {
+  "id": 22030000,
+  "nombre": "Raptor Talons",
+  "tipo": "Claw",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 6,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10843
+ },
+ {
+  "id": 23000000,
+  "nombre": "Prelate's Inferno Crozier",
+  "tipo": "Colossal Weapon",
+  "peso": 23.5,
+  "rareza": 2,
+  "req": {
+   "fue": 45,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10880
+ },
+ {
+  "id": 23010000,
+  "nombre": "Watchdog's Staff",
+  "tipo": "Colossal Weapon",
+  "peso": 19.0,
+  "rareza": 2,
+  "req": {
+   "fue": 34,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10881
+ },
+ {
+  "id": 23020000,
+  "nombre": "Great Club",
+  "tipo": "Colossal Weapon",
+  "peso": 17.0,
+  "rareza": 2,
+  "req": {
+   "fue": 35,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10882
+ },
+ {
+  "id": 23030000,
+  "nombre": "Envoy's Greathorn",
+  "tipo": "Colossal Weapon",
+  "peso": 19.5,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 12,
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10883
+ },
+ {
+  "id": 23040000,
+  "nombre": "Duelist Greataxe",
+  "tipo": "Colossal Weapon",
+  "peso": 20.0,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10884
+ },
+ {
+  "id": 23050000,
+  "nombre": "Axe of Godfrey",
+  "tipo": "Colossal Weapon",
+  "peso": 18.0,
+  "rareza": 3,
+  "req": {
+   "fue": 42,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10885
+ },
+ {
+  "id": 23060000,
+  "nombre": "Dragon Greatclaw",
+  "tipo": "Colossal Weapon",
+  "peso": 16.0,
+  "rareza": 2,
+  "req": {
+   "fue": 30,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10886
+ },
+ {
+  "id": 23070000,
+  "nombre": "Staff of the Avatar",
+  "tipo": "Colossal Weapon",
+  "peso": 20.0,
+  "rareza": 2,
+  "req": {
+   "fue": 34,
+   "des": 8,
+   "int": 0,
+   "fe": 24,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10887
+ },
+ {
+  "id": 23080000,
+  "nombre": "Fallingstar Beast Jaw",
+  "tipo": "Colossal Weapon",
+  "peso": 21.5,
+  "rareza": 2,
+  "req": {
+   "fue": 34,
+   "des": 12,
+   "int": 20,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10888
+ },
+ {
+  "id": 23100000,
+  "nombre": "Ghiza's Wheel",
+  "tipo": "Colossal Weapon",
+  "peso": 19.0,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10890
+ },
+ {
+  "id": 23110000,
+  "nombre": "Giant-Crusher",
+  "tipo": "Colossal Weapon",
+  "peso": 26.5,
+  "rareza": 1,
+  "req": {
+   "fue": 60,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10891
+ },
+ {
+  "id": 23120000,
+  "nombre": "Golem's Halberd",
+  "tipo": "Colossal Weapon",
+  "peso": 21.5,
+  "rareza": 1,
+  "req": {
+   "fue": 36,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10892
+ },
+ {
+  "id": 23130000,
+  "nombre": "Troll's Hammer",
+  "tipo": "Colossal Weapon",
+  "peso": 16.0,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 8,
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10893
+ },
+ {
+  "id": 23140000,
+  "nombre": "Rotten Staff",
+  "tipo": "Colossal Weapon",
+  "peso": 18.0,
+  "rareza": 2,
+  "req": {
+   "fue": 34,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 10894
+ },
+ {
+  "id": 23150000,
+  "nombre": "Rotten Greataxe",
+  "tipo": "Colossal Weapon",
+  "peso": 20.0,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 10895
+ },
+ {
+  "id": 30000000,
+  "nombre": "Buckler",
+  "tipo": "Small Shield",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 13,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12000
+ },
+ {
+  "id": 30010000,
+  "nombre": "Perfumer's Shield",
+  "tipo": "Small Shield",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12001
+ },
+ {
+  "id": 30020000,
+  "nombre": "Man-Serpent's Shield",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12002
+ },
+ {
+  "id": 30030000,
+  "nombre": "Rickety Shield",
+  "tipo": "Small Shield",
+  "peso": 1.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12003
+ },
+ {
+  "id": 30040000,
+  "nombre": "Pillory Shield",
+  "tipo": "Small Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12004
+ },
+ {
+  "id": 30060000,
+  "nombre": "Beastman's Jar-Shield",
+  "tipo": "Medium Shield",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12006
+ },
+ {
+  "id": 30070000,
+  "nombre": "Red Thorn Roundshield",
+  "tipo": "Small Shield",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12007
+ },
+ {
+  "id": 30080000,
+  "nombre": "Scripture Wooden Shield",
+  "tipo": "Small Shield",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12008
+ },
+ {
+  "id": 30090000,
+  "nombre": "Riveted Wooden Shield",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12009
+ },
+ {
+  "id": 30100000,
+  "nombre": "Blue-White Wooden Shield",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12010
+ },
+ {
+  "id": 30110000,
+  "nombre": "Rift Shield",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12011
+ },
+ {
+  "id": 30120000,
+  "nombre": "Iron Roundshield",
+  "tipo": "Small Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12012
+ },
+ {
+  "id": 30130000,
+  "nombre": "Gilded Iron Shield",
+  "tipo": "Small Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12013
+ },
+ {
+  "id": 30140000,
+  "nombre": "Ice Crest Shield",
+  "tipo": "Small Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12014
+ },
+ {
+  "id": 30150000,
+  "nombre": "Smoldering Shield",
+  "tipo": "Small Shield",
+  "peso": 3.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 9,
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12015
+ },
+ {
+  "id": 30190000,
+  "nombre": "Spiralhorn Shield",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12019
+ },
+ {
+  "id": 30200000,
+  "nombre": "Coil Shield",
+  "tipo": "Small Shield",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12020
+ },
+ {
+  "id": 31000000,
+  "nombre": "Kite Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12040
+ },
+ {
+  "id": 31010000,
+  "nombre": "Marred Leather Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12041
+ },
+ {
+  "id": 31020000,
+  "nombre": "Marred Wooden Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12042
+ },
+ {
+  "id": 31030000,
+  "nombre": "Banished Knight's Shield",
+  "tipo": "Medium Shield",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12043
+ },
+ {
+  "id": 31040000,
+  "nombre": "Albinauric Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 11,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12044
+ },
+ {
+  "id": 31050000,
+  "nombre": "Sun Realm Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12045
+ },
+ {
+  "id": 31060000,
+  "nombre": "Silver Mirrorshield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 10,
+   "int": 10,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12046
+ },
+ {
+  "id": 31070000,
+  "nombre": "Round Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12047
+ },
+ {
+  "id": 31080000,
+  "nombre": "Scorpion Kite Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12048
+ },
+ {
+  "id": 31090000,
+  "nombre": "Twinbird Kite Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 12,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12049
+ },
+ {
+  "id": 31100000,
+  "nombre": "Blue-Gold Kite Shield",
+  "tipo": "Medium Shield",
+  "peso": 5.0,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12050
+ },
+ {
+  "id": 31130000,
+  "nombre": "Brass Shield",
+  "tipo": "Medium Shield",
+  "peso": 7.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12051
+ },
+ {
+  "id": 31140000,
+  "nombre": "Great Turtle Shell",
+  "tipo": "Medium Shield",
+  "peso": 5.5,
+  "rareza": 2,
+  "req": {
+   "fue": 14,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12052
+ },
+ {
+  "id": 31170000,
+  "nombre": "Shield of the Guilty",
+  "tipo": "Small Shield",
+  "peso": 2.0,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12053
+ },
+ {
+  "id": 31190000,
+  "nombre": "Carian Knight's Shield",
+  "tipo": "Medium Shield",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 15,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12055
+ },
+ {
+  "id": 31230000,
+  "nombre": "Large Leather Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12059
+ },
+ {
+  "id": 31240000,
+  "nombre": "Horse Crest Wooden Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12060
+ },
+ {
+  "id": 31250000,
+  "nombre": "Candletree Wooden Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12061
+ },
+ {
+  "id": 31260000,
+  "nombre": "Flame Crest Wooden Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12062
+ },
+ {
+  "id": 31270000,
+  "nombre": "Hawk Crest Wooden Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12063
+ },
+ {
+  "id": 31280000,
+  "nombre": "Beast Crest Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12064
+ },
+ {
+  "id": 31290000,
+  "nombre": "Red Crest Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12065
+ },
+ {
+  "id": 31300000,
+  "nombre": "Blue Crest Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12066
+ },
+ {
+  "id": 31310000,
+  "nombre": "Eclipse Crest Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12067
+ },
+ {
+  "id": 31320000,
+  "nombre": "Inverted Hawk Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12068
+ },
+ {
+  "id": 31330000,
+  "nombre": "Heater Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12069
+ },
+ {
+  "id": 31340000,
+  "nombre": "Black Leather Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12070
+ },
+ {
+  "id": 31540000,
+  "nombre": "Silver Grooved Shield",
+  "tipo": "Medium Shield",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12407
+ },
+ {
+  "id": 32000000,
+  "nombre": "Dragon Towershield",
+  "tipo": "Greatshield",
+  "peso": 16.5,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12080
+ },
+ {
+  "id": 32020000,
+  "nombre": "Distinguished Greatshield",
+  "tipo": "Greatshield",
+  "peso": 16.0,
+  "rareza": 1,
+  "req": {
+   "fue": 32,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12081
+ },
+ {
+  "id": 32030000,
+  "nombre": "Crucible Hornshield",
+  "tipo": "Greatshield",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 26,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12082
+ },
+ {
+  "id": 32040000,
+  "nombre": "Dragonclaw Shield",
+  "tipo": "Greatshield",
+  "peso": 13.5,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12083
+ },
+ {
+  "id": 32050000,
+  "nombre": "Briar Greatshield",
+  "tipo": "Greatshield",
+  "peso": 8.5,
+  "rareza": 1,
+  "req": {
+   "fue": 21,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12084
+ },
+ {
+  "id": 32080000,
+  "nombre": "Erdtree Greatshield",
+  "tipo": "Greatshield",
+  "peso": 11.5,
+  "rareza": 2,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12086
+ },
+ {
+  "id": 32090000,
+  "nombre": "Golden Beast Crest Shield",
+  "tipo": "Greatshield",
+  "peso": 10.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12087
+ },
+ {
+  "id": 32120000,
+  "nombre": "Jellyfish Shield",
+  "tipo": "Greatshield",
+  "peso": 8.0,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12090
+ },
+ {
+  "id": 32130000,
+  "nombre": "Fingerprint Stone Shield",
+  "tipo": "Greatshield",
+  "peso": 29.0,
+  "rareza": 2,
+  "req": {
+   "fue": 48,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12091
+ },
+ {
+  "id": 32140000,
+  "nombre": "Icon Shield",
+  "tipo": "Greatshield",
+  "peso": 9.0,
+  "rareza": 2,
+  "req": {
+   "fue": 22,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12092
+ },
+ {
+  "id": 32150000,
+  "nombre": "One-Eyed Shield",
+  "tipo": "Greatshield",
+  "peso": 20.5,
+  "rareza": 2,
+  "req": {
+   "fue": 36,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12093
+ },
+ {
+  "id": 32160000,
+  "nombre": "Visage Shield",
+  "tipo": "Greatshield",
+  "peso": 24.0,
+  "rareza": 2,
+  "req": {
+   "fue": 44,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12094
+ },
+ {
+  "id": 32170000,
+  "nombre": "Spiked Palisade Shield",
+  "tipo": "Greatshield",
+  "peso": 9.5,
+  "rareza": 1,
+  "req": {
+   "fue": 20,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12095
+ },
+ {
+  "id": 32190000,
+  "nombre": "Manor Towershield",
+  "tipo": "Greatshield",
+  "peso": 15.5,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12097
+ },
+ {
+  "id": 32200000,
+  "nombre": "Crossed-Tree Towershield",
+  "tipo": "Greatshield",
+  "peso": 15.5,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12098
+ },
+ {
+  "id": 32210000,
+  "nombre": "Inverted Hawk Towershield",
+  "tipo": "Greatshield",
+  "peso": 15.5,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12099
+ },
+ {
+  "id": 32220000,
+  "nombre": "Ant's Skull Plate",
+  "tipo": "Greatshield",
+  "peso": 12.5,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12100
+ },
+ {
+  "id": 32230000,
+  "nombre": "Redmane Greatshield",
+  "tipo": "Greatshield",
+  "peso": 14.0,
+  "rareza": 1,
+  "req": {
+   "fue": 30,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12101
+ },
+ {
+  "id": 32240000,
+  "nombre": "Eclipse Crest Greatshield",
+  "tipo": "Greatshield",
+  "peso": 15.0,
+  "rareza": 2,
+  "req": {
+   "fue": 32,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12102
+ },
+ {
+  "id": 32250000,
+  "nombre": "Cuckoo Greatshield",
+  "tipo": "Greatshield",
+  "peso": 15.0,
+  "rareza": 1,
+  "req": {
+   "fue": 32,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12103
+ },
+ {
+  "id": 32260000,
+  "nombre": "Golden Greatshield",
+  "tipo": "Greatshield",
+  "peso": 17.0,
+  "rareza": 1,
+  "req": {
+   "fue": 34,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12104
+ },
+ {
+  "id": 32270000,
+  "nombre": "Gilded Greatshield",
+  "tipo": "Greatshield",
+  "peso": 16.5,
+  "rareza": 1,
+  "req": {
+   "fue": 36,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12105
+ },
+ {
+  "id": 32280000,
+  "nombre": "Haligtree Crest Greatshield",
+  "tipo": "Greatshield",
+  "peso": 17.0,
+  "rareza": 1,
+  "req": {
+   "fue": 36,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12106
+ },
+ {
+  "id": 32290000,
+  "nombre": "Wooden Greatshield",
+  "tipo": "Greatshield",
+  "peso": 8.0,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12107
+ },
+ {
+  "id": 32300000,
+  "nombre": "Lordsworn's Shield",
+  "tipo": "Greatshield",
+  "peso": 9.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12108
+ },
+ {
+  "id": 33000000,
+  "nombre": "Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 10,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11200
+ },
+ {
+  "id": 33040000,
+  "nombre": "Crystal Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 48,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11201
+ },
+ {
+  "id": 33050000,
+  "nombre": "Gelmir Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 14,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11202
+ },
+ {
+  "id": 33060000,
+  "nombre": "Demi-Human Queen's Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 10,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11203
+ },
+ {
+  "id": 33090000,
+  "nombre": "Carian Regal Scepter",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 3,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 60,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11204
+ },
+ {
+  "id": 33120000,
+  "nombre": "Digger's Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11205
+ },
+ {
+  "id": 33130000,
+  "nombre": "Astrologer's Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 0,
+   "int": 16,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11206
+ },
+ {
+  "id": 33170000,
+  "nombre": "Carian Glintblade Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 12,
+   "int": 22,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11208
+ },
+ {
+  "id": 33180000,
+  "nombre": "Prince of Death's Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 18,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11209
+ },
+ {
+  "id": 33190000,
+  "nombre": "Albinauric Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 10,
+   "fe": 0,
+   "arc": 12
+  },
+  "unica": false,
+  "icono": 11210
+ },
+ {
+  "id": 33200000,
+  "nombre": "Academy Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 28,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11212
+ },
+ {
+  "id": 33210000,
+  "nombre": "Carian Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 8,
+   "int": 24,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11211
+ },
+ {
+  "id": 33230000,
+  "nombre": "Azur's Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 52,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11214
+ },
+ {
+  "id": 33240000,
+  "nombre": "Lusat's Glintstone Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 0,
+   "int": 52,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11215
+ },
+ {
+  "id": 33250000,
+  "nombre": "Meteorite Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 0,
+   "int": 18,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11216
+ },
+ {
+  "id": 33260000,
+  "nombre": "Staff of the Guilty",
+  "tipo": "Glintstone Staff",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 0,
+   "fe": 12,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11217
+ },
+ {
+  "id": 33270000,
+  "nombre": "Rotten Crystal Staff",
+  "tipo": "Glintstone Staff",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 0,
+   "int": 48,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11218
+ },
+ {
+  "id": 33280000,
+  "nombre": "Staff of Loss",
+  "tipo": "Glintstone Staff",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 6,
+   "des": 12,
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11219
+ },
+ {
+  "id": 34000000,
+  "nombre": "Finger Seal",
+  "tipo": "Sacred Seal",
+  "peso": 1.5,
+  "rareza": 1,
+  "req": {
+   "fue": 4,
+   "des": 0,
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11240
+ },
+ {
+  "id": 34010000,
+  "nombre": "Godslayer's Seal",
+  "tipo": "Sacred Seal",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 4,
+   "des": 0,
+   "int": 0,
+   "fe": 27,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11241
+ },
+ {
+  "id": 34020000,
+  "nombre": "Giant's Seal",
+  "tipo": "Sacred Seal",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 4,
+   "des": 0,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11242
+ },
+ {
+  "id": 34030000,
+  "nombre": "Gravel Stone Seal",
+  "tipo": "Sacred Seal",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 4,
+   "des": 0,
+   "int": 0,
+   "fe": 18,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11243
+ },
+ {
+  "id": 34040000,
+  "nombre": "Clawmark Seal",
+  "tipo": "Sacred Seal",
+  "peso": 1.5,
+  "rareza": 2,
+  "req": {
+   "fue": 4,
+   "des": 0,
+   "int": 0,
+   "fe": 10,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11244
+ },
+ {
+  "id": 34060000,
+  "nombre": "Golden Order Seal",
+  "tipo": "Sacred Seal",
+  "peso": 0.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 17,
+   "fe": 17,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11247
+ },
+ {
+  "id": 34070000,
+  "nombre": "Erdtree Seal",
+  "tipo": "Sacred Seal",
+  "peso": 0.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 40,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11246
+ },
+ {
+  "id": 34080000,
+  "nombre": "Dragon Communion Seal",
+  "tipo": "Sacred Seal",
+  "peso": 0.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 10,
+   "arc": 10
+  },
+  "unica": true,
+  "icono": 11248
+ },
+ {
+  "id": 34090000,
+  "nombre": "Frenzied Flame Seal",
+  "tipo": "Sacred Seal",
+  "peso": 0.0,
+  "rareza": 2,
+  "req": {
+   "fue": 0,
+   "des": 0,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11249
+ },
+ {
+  "id": 40000000,
+  "nombre": "Shortbow",
+  "tipo": "Light Bow",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11000
+ },
+ {
+  "id": 40010000,
+  "nombre": "Misbegotten Shortbow",
+  "tipo": "Light Bow",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 16,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11001
+ },
+ {
+  "id": 40020000,
+  "nombre": "Red Branch Shortbow",
+  "tipo": "Light Bow",
+  "peso": 2.5,
+  "rareza": 1,
+  "req": {
+   "fue": 8,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11002
+ },
+ {
+  "id": 40030000,
+  "nombre": "Harp Bow",
+  "tipo": "Light Bow",
+  "peso": 2.0,
+  "rareza": 2,
+  "req": {
+   "fue": 9,
+   "des": 9,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11003
+ },
+ {
+  "id": 40050000,
+  "nombre": "Composite Bow",
+  "tipo": "Light Bow",
+  "peso": 3.0,
+  "rareza": 1,
+  "req": {
+   "fue": 15,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11005
+ },
+ {
+  "id": 41000000,
+  "nombre": "Longbow",
+  "tipo": "Bow",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 9,
+   "des": 14,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11040
+ },
+ {
+  "id": 41010000,
+  "nombre": "Albinauric Bow",
+  "tipo": "Bow",
+  "peso": 4.5,
+  "rareza": 1,
+  "req": {
+   "fue": 7,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11041
+ },
+ {
+  "id": 41020000,
+  "nombre": "Horn Bow",
+  "tipo": "Bow",
+  "peso": 4.5,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 14,
+   "int": 12,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11042
+ },
+ {
+  "id": 41030000,
+  "nombre": "Erdtree Bow",
+  "tipo": "Bow",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 12,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11043
+ },
+ {
+  "id": 41040000,
+  "nombre": "Serpent Bow",
+  "tipo": "Bow",
+  "peso": 3.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 15,
+   "int": 0,
+   "fe": 0,
+   "arc": 11
+  },
+  "unica": true,
+  "icono": 11044
+ },
+ {
+  "id": 41060000,
+  "nombre": "Pulley Bow",
+  "tipo": "Bow",
+  "peso": 5.0,
+  "rareza": 2,
+  "req": {
+   "fue": 11,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11046
+ },
+ {
+  "id": 41070000,
+  "nombre": "Black Bow",
+  "tipo": "Bow",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 9,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11047
+ },
+ {
+  "id": 42000000,
+  "nombre": "Lion Greatbow",
+  "tipo": "Greatbow",
+  "peso": 9.5,
+  "rareza": 3,
+  "req": {
+   "fue": 22,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11080
+ },
+ {
+  "id": 42010000,
+  "nombre": "Golem Greatbow",
+  "tipo": "Greatbow",
+  "peso": 14.5,
+  "rareza": 1,
+  "req": {
+   "fue": 24,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11081
+ },
+ {
+  "id": 42030000,
+  "nombre": "Erdtree Greatbow",
+  "tipo": "Greatbow",
+  "peso": 11.0,
+  "rareza": 2,
+  "req": {
+   "fue": 20,
+   "des": 14,
+   "int": 0,
+   "fe": 14,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11083
+ },
+ {
+  "id": 42040000,
+  "nombre": "Greatbow",
+  "tipo": "Greatbow",
+  "peso": 10.0,
+  "rareza": 1,
+  "req": {
+   "fue": 20,
+   "des": 20,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 11084
+ },
+ {
+  "id": 43000000,
+  "nombre": "Soldier's Crossbow",
+  "tipo": "Crossbow",
+  "peso": 3.5,
+  "rareza": 1,
+  "req": {
+   "fue": 10,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11120
+ },
+ {
+  "id": 43020000,
+  "nombre": "Light Crossbow",
+  "tipo": "Crossbow",
+  "peso": 4.0,
+  "rareza": 1,
+  "req": {
+   "fue": 12,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11121
+ },
+ {
+  "id": 43030000,
+  "nombre": "Heavy Crossbow",
+  "tipo": "Crossbow",
+  "peso": 5.5,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 10,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11122
+ },
+ {
+  "id": 43050000,
+  "nombre": "Pulley Crossbow",
+  "tipo": "Crossbow",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 16,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11123
+ },
+ {
+  "id": 43060000,
+  "nombre": "Full Moon Crossbow",
+  "tipo": "Crossbow",
+  "peso": 4.0,
+  "rareza": 2,
+  "req": {
+   "fue": 10,
+   "des": 10,
+   "int": 14,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11124
+ },
+ {
+  "id": 43080000,
+  "nombre": "Arbalest",
+  "tipo": "Crossbow",
+  "peso": 6.0,
+  "rareza": 1,
+  "req": {
+   "fue": 18,
+   "des": 12,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11125
+ },
+ {
+  "id": 43110000,
+  "nombre": "Crepus's Black-Key Crossbow",
+  "tipo": "Crossbow",
+  "peso": 5.0,
+  "rareza": 2,
+  "req": {
+   "fue": 14,
+   "des": 16,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 11128
+ },
+ {
+  "id": 60500000,
+  "nombre": "Dryleaf Arts",
+  "tipo": "Hand-to-Hand Art",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12260
+ },
+ {
+  "id": 60510000,
+  "nombre": "Dane's Footwork",
+  "tipo": "Hand-to-Hand Art",
+  "peso": 2.5,
+  "rareza": 2,
+  "req": {
+   "fue": 8,
+   "des": 8,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12261
+ },
+ {
+  "id": 66500000,
+  "nombre": "Great Katana",
+  "tipo": "Great Katana",
+  "peso": 9,
+  "rareza": 1,
+  "req": {
+   "fue": 14,
+   "des": 18,
+   "int": 0,
+   "fe": 0,
+   "arc": 0
+  },
+  "unica": false,
+  "icono": 12274
+ },
+ {
+  "id": 12510000,
+  "nombre": "Anvil Hammer",
+  "tipo": "Great Hammer",
+  "peso": 22,
+  "rareza": 2,
+  "req": {
+   "fue": 39,
+   "des": 10,
+   "int": 11,
+   "fe": 20,
+   "arc": 0
+  },
+  "unica": true,
+  "icono": 12228
+ },
+ {
+  "id": 12530000,
+  "nombre": "Bloodfiend's Arm",
+  "tipo": "Great Hammer",
+  "peso": 20,
+  "rareza": 2,
+  "req": {
+   "fue": 28,
+   "des": 11,
+   "int": 0,
+   "fe": 0,
+   "arc": 16
+  },
+  "unica": false,
+  "icono": 12230
+ }
+]

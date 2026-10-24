@@ -1,0 +1,462 @@
+{
+ "_nota": "Dúos del acto 3 para las runs de cooperativo (docs/LISTAS_Y_COMBATES.md).",
+ "encounters": [
+  {
+   "id": "coop3_normal_0_fieles_de_la_hoja_negra",
+   "name": "Two Black Blade Kindreds",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_normal_0_fieles_de_la_hoja_negra"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4770,
+     "npc": 47700250,
+     "think": 47705950
+    },
+    {
+     "chr": 4770,
+     "npc": 47701242,
+     "think": 47706900
+    }
+   ],
+   "vida": 0.6,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_normal_1_esp_ritu_y_avatar_putrefactos",
+   "name": "Putrid Tree Spirit and Putrid Avatar",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_normal_1_esp_ritu_y_avatar_putrefactos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4640,
+     "npc": 46400942,
+     "think": 46400842
+    },
+    {
+     "chr": 4811,
+     "npc": 48110042,
+     "think": 48110000
+    }
+   ],
+   "vida": 0.47,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_normal_2_alecto_y_vyke",
+   "name": "Alecto and Roundtable Knight Vyke",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_normal_2_alecto_y_vyke"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2100,
+     "npc": 21002922,
+     "think": 21000000
+    },
+    {
+     "chr": 0,
+     "npc": 523040050,
+     "think": 523040000
+    }
+   ],
+   "vida": 0.74
+  },
+  {
+   "id": "coop3_normal_3_niall_y_el_palad_n_bastardo",
+   "name": "Commander Niall and Misbegotten Crusader",
+   "kind": "Normal",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_normal_3_niall_y_el_palad_n_bastardo"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 3050,
+     "npc": 30500051,
+     "think": 30500000
+    },
+    {
+     "chr": 3460,
+     "npc": 34601952,
+     "think": 34600000
+    }
+   ],
+   "vida": 0.6
+  },
+  {
+   "id": "coop3_elite_0_grandes_osos_rojos",
+   "name": "Ralva the Great Red Bear and Rugalea the Great Red Bear",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_elite_0_grandes_osos_rojos"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5820,
+     "npc": 58200990,
+     "think": 58200000
+    },
+    {
+     "chr": 5820,
+     "npc": 58200095,
+     "think": 58200000
+    }
+   ],
+   "vida": 0.6,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_elite_1_caballero_putrefacto_y_ave_del",
+   "name": "Putrescent Knight and Death Rite Bird",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_elite_1_caballero_putrefacto_y_ave_del"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5020,
+     "npc": 50200087,
+     "think": 50200000
+    },
+    {
+     "chr": 6260,
+     "npc": 62601084,
+     "think": 62600900
+    }
+   ],
+   "vida": 0.74,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_elite_2_bestias_de_la_estrella_fugaz",
+   "name": "Fallingstar Beast and Full-Grown Fallingstar Beast",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_elite_2_bestias_de_la_estrella_fugaz"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 6310,
+     "npc": 63101093,
+     "think": 63100930
+    },
+    {
+     "chr": 4680,
+     "npc": 46800032,
+     "think": 46800930
+    }
+   ],
+   "vida": 0.62,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_elite_3_el_conde_ymir_y_el_doliente",
+   "name": "Count Ymir and Lamenter",
+   "kind": "Elite",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_elite_3_el_conde_ymir_y_el_doliente"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 0,
+     "npc": 524200190,
+     "think": 524200100
+    },
+    {
+     "chr": 0,
+     "npc": 524270084,
+     "think": 524270000
+    }
+   ],
+   "vida": 1.01
+  },
+  {
+   "id": "coop3_boss_0_hermanos_de_miquella_malenia_y",
+   "name": "Malenia and Radahn",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_0_hermanos_de_miquella_malenia_y"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2120,
+     "npc": 21200056,
+     "think": 21200000
+    },
+    {
+     "chr": 5220,
+     "npc": 52200089,
+     "think": 52200000
+    }
+   ],
+   "ultimo_en_pie": [
+    {
+     "enemigo": 0,
+     "renacer": {
+      "vida": 0.04,
+      "efectos": [
+       18000,
+       18001,
+       18002,
+       18016,
+       18400
+      ],
+      "quitar": [
+       18015
+      ],
+      "anim": 20002,
+      "segundos": 8
+     }
+    },
+    {
+     "enemigo": 1,
+     "fase2": {
+      "chr": 5220,
+      "npc": 52201089,
+      "think": 52200000,
+      "anim": 20011
+     }
+    }
+   ],
+   "vida": 1.28
+  },
+  {
+   "id": "coop3_boss_1_hermanas_de_la_luna_rennala_y",
+   "name": "Rennala and Rellana",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_1_hermanas_de_la_luna_rennala_y"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2031,
+     "npc": 20310024,
+     "think": 20310000
+    },
+    {
+     "chr": 5300,
+     "npc": 53000082,
+     "think": 53000000
+    }
+   ],
+   "vida": 1.63
+  },
+  {
+   "id": "coop3_boss_2_linaje_de_godfrey_hoarah_loux",
+   "name": "Godfrey and Morgott",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_2_linaje_de_godfrey_hoarah_loux"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4720,
+     "npc": 47200070,
+     "think": 47200900
+    },
+    {
+     "chr": 2130,
+     "npc": 21300534,
+     "think": 21300500
+    }
+   ],
+   "ultimo_en_pie": [
+    {
+     "enemigo": 0,
+     "fase2": {
+      "chr": 4721,
+      "npc": 47210070,
+      "think": 47210900,
+      "anim": 20020
+     }
+    }
+   ],
+   "vida": 1.71,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_boss_3_el_general_y_su_se_or_gaius_y",
+   "name": "Commander Gaius and Radahn",
+   "kind": "Boss",
+   "arena": "grande",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_3_el_general_y_su_se_or_gaius_y"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5000,
+     "npc": 50000092,
+     "think": 50000010
+    },
+    {
+     "chr": 5220,
+     "npc": 52200089,
+     "think": 52200000
+    }
+   ],
+   "ultimo_en_pie": [
+    {
+     "enemigo": 1,
+     "fase2": {
+      "chr": 5220,
+      "npc": 52201089,
+      "think": 52200000,
+      "anim": 20011
+     }
+    }
+   ],
+   "vida": 1.23
+  },
+  {
+   "id": "coop3_boss_4_sangre_y_llamas_mohg_y_midra",
+   "name": "Mohg and Midra",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_4_sangre_y_llamas_mohg_y_midra"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 4800,
+     "npc": 48000068,
+     "think": 48000000
+    },
+    {
+     "chr": 5050,
+     "npc": 50500086,
+     "think": 50500000
+    }
+   ],
+   "ultimo_en_pie": [
+    {
+     "enemigo": 1,
+     "fase2": {
+      "chr": 5051,
+      "npc": 50510086,
+      "think": 50510000,
+      "anim": 20000
+     }
+    }
+   ],
+   "vida": 2.45
+  },
+  {
+   "id": "coop3_boss_5_hojas_del_destino_maliketh_y_r",
+   "name": "Maliketh and Romina",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_5_hojas_del_destino_maliketh_y_r"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 2110,
+     "npc": 21100072,
+     "think": 21100000
+    },
+    {
+     "chr": 5030,
+     "npc": 50300094,
+     "think": 50300000
+    }
+   ],
+   "ultimo_en_pie": [
+    {
+     "enemigo": 0,
+     "fase2": {
+      "chr": 2110,
+      "npc": 21101072,
+      "think": 21101000,
+      "anim": 20015
+     }
+    }
+   ],
+   "vida": 1.76,
+   "arena": "grande"
+  },
+  {
+   "id": "coop3_boss_6_madres_metyr_y_la_condesa_ymir",
+   "name": "Metyr and Count Ymir",
+   "kind": "Boss",
+   "warp_flag": 0,
+   "defeat_flag": 0,
+   "tags": [
+    "coop3_boss_6_madres_metyr_y_la_condesa_ymir"
+   ],
+   "llegada": null,
+   "formato": "duo",
+   "enemigos": [
+    {
+     "chr": 5200,
+     "npc": 52000097,
+     "think": 52000000
+    },
+    {
+     "chr": 0,
+     "npc": 524200190,
+     "think": 524200100
+    }
+   ],
+   "vida": 1.57,
+   "arena": "grande"
+  }
+ ]
+}

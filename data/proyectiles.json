@@ -1,0 +1,99 @@
+{
+ "_nota": "Proyectiles de las bendiciones. Cada uno tiene dos copias: la de este id, solo visual (sin ataque, ni en el proyectil ni en lo que suelta al chocar), que es la que se crea en el juego de los compañeros para que la vean; y la de id + 10000, con ataque de verdad (su AtkParam_Pc, el mismo id): la que dispara tu juego. Su daño lo calcula el juego con tu arma (porcentaje del ataque base, como un golpe: la DLL lo pone antes de cada disparo) y la defensa del enemigo (usar la lógica del juego). Cada bendición con su proyectil (comparten porcentaje). tools/ModBuilder las crea; id = el que usan las bendiciones (\"bala\"), de = el del juego. sin_caida: no cae por la distancia (y vive más). sin_choque: no suelta nada al chocar. vida_choque: segundos que dura lo que suelta. en_objetivo: sale sobre el objetivo (los que caen del cielo), no desdel jugador. atras: sale tantos metros detrás del jugador (la honda de roca lanza en arco: de cerca pasaba por encima). invisible: sin efectos visuales (el golpe de las bendiciones sin proyectil: Vulnerable, púas, quemaduras...). fisico: su daño, todo físico.",
+ "proyectiles": [
+  {
+   "id": 79600020,
+   "de": 10601000,
+   "nombre": "bola de fuego",
+   "sin_caida": true
+  },
+  {
+   "id": 79600022,
+   "de": 10400000,
+   "nombre": "glintstone pebble"
+  },
+  {
+   "id": 79600024,
+   "de": 10439003,
+   "nombre": "glintblade"
+  },
+  {
+   "id": 79600026,
+   "de": 10440000,
+   "nombre": "púa de hielo"
+  },
+  {
+   "id": 79600028,
+   "de": 10683000,
+   "nombre": "garras de Gurranq"
+  },
+  {
+   "id": 79600030,
+   "de": 10472100,
+   "nombre": "meteoro"
+  },
+  {
+   "id": 79600032,
+   "de": 10442000,
+   "nombre": "niebla helada (pisadas de rivales invisibles)",
+   "vida_choque": 1.2
+  },
+  {
+   "id": 79600034,
+   "de": 10693000,
+   "nombre": "rayo afilado (Honed Bolt)",
+   "en_objetivo": true
+  },
+  {
+   "id": 79600036,
+   "de": 10692000,
+   "nombre": "golpe de rayo (Lightning Strike)",
+   "en_objetivo": true
+  },
+  {
+   "id": 79600038,
+   "de": 10600000,
+   "nombre": "atrapar llama (Catch Flame)"
+  },
+  {
+   "id": 79600040,
+   "de": 210431000,
+   "nombre": "trío de hojas de cristal (Glintblade Trio)"
+  },
+  {
+   "id": 79600042,
+   "de": 10404000,
+   "nombre": "estrellas de piedra brillante (Glintstone Stars)"
+  },
+  {
+   "id": 79600044,
+   "de": 10471000,
+   "nombre": "honda de roca (Rock Sling)",
+   "atras": 1.5
+  },
+  {
+   "id": 79600046,
+   "de": 10670000,
+   "nombre": "disco de luz (Discus of Light)"
+  },
+  {
+   "id": 79600050,
+   "de": 4240400,
+   "nombre": "manos de Caria (proyectil rosa que atrapa)"
+  },
+  {
+   "id": 79600052,
+   "de": 10601000,
+   "nombre": "bola de fuego (Doble llama)",
+   "sin_caida": true
+  },
+  {
+   "id": 79600054,
+   "de": 10410000,
+   "nombre": "golpe invisible (daño de bendiciones sin proyectil)",
+   "invisible": true,
+   "fisico": true,
+   "en_objetivo": true
+  }
+ ]
+}

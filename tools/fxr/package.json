@@ -1,0 +1,9 @@
+{
+  "name": "rogue-fxr",
+  "private": true,
+  "type": "module",
+  "description": "Conversión de efectos (FXR) de Nightreign a Elden Ring con @cccode/fxr (tools/ModBuilder/Nightreign.cs la usa).",
+  "dependencies": {
+    "@cccode/fxr": "32.1.2"
+  }
+}

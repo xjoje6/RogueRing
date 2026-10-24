@@ -1,0 +1,142 @@
+{
+  "_nota": "Lo escribe tools/ModBuilder (proyectiles con da\u00F1o de verdad, en escalones). No editar a mano.",
+  "origen_hechizo": 4300,
+  "balas": {
+    "79600020": {
+      "primero": 79620000,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 404
+    },
+    "79600022": {
+      "primero": 79620600,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 152
+    },
+    "79600024": {
+      "primero": 79621200,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 182
+    },
+    "79600026": {
+      "primero": 79621800,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 199
+    },
+    "79600028": {
+      "primero": 79622400,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 1800
+    },
+    "79600030": {
+      "primero": 79623000,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 88
+    },
+    "79600032": {
+      "primero": 79623600,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 0
+    },
+    "79600034": {
+      "primero": 79624200,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 560
+    },
+    "79600036": {
+      "primero": 79624800,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 592
+    },
+    "79600038": {
+      "primero": 79625400,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 225
+    },
+    "79600040": {
+      "primero": 79626000,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 545
+    },
+    "79600042": {
+      "primero": 79626600,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 699
+    },
+    "79600044": {
+      "primero": 79627200,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 102
+    },
+    "79600046": {
+      "primero": 79627800,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 600
+    },
+    "79600050": {
+      "primero": 79628400,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 0
+    },
+    "79600052": {
+      "primero": 79629000,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 404
+    },
+    "79600054": {
+      "primero": 79629600,
+      "paso": 20,
+      "escalones": 30,
+      "factor0": 0.2,
+      "razon": 1.22,
+      "referencia": 182
+    }
+  }
+}

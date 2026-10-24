@@ -1,0 +1,54 @@
+{
+ "_nota": "Tramo de zona (SpEffect 7000-7200 de Elden Ring) que se aplica a cada enemigo, venga de donde venga, y multiplicador de vida por tipo de combate. Personajes de nivel 150 con armas +12/+25. El tramo sube con la fila del mapa: débiles, normales de la primera a la última fila, élites un tramo por encima de un normal de su fila, jefe. El tramo fija cuánto pega el enemigo; la vida aparte, cuánto dura el combate. Acto 1 ajustado con docs/balance_acto1.csv (objetivo: golpe recibido de 8, 12, 16 y 20 % de la vida y combates de 40 s, 75 s, 105 s y 2,5 min). Vida y ataque de cada tramo (runtime/balance/tramos.json, orden `tramos` del banco): 7060 x2,27/x1,76; 7070 x2,41/x1,83; 7080 x2,69/x2; 7090 x3,25/x2,28; 7100 x3,7/x2,47; 7110 x4,13/x2,67; 7120 x4,84/x3,24; 7130 x5,48/x3,24; 7160 x6,88/x3,64; 7170 x7,05/x3,75.",
+ "tramos": {
+  "1": {
+   "debil": 7070,
+   "normal": [
+    7070,
+    7090
+   ],
+   "elite": 10,
+   "jefe": 7090
+  },
+  "2": {
+   "debil": 7130,
+   "normal": [
+    7130,
+    7160
+   ],
+   "elite": 10,
+   "jefe": 7170
+  },
+  "3": {
+   "debil": 7180,
+   "normal": [
+    7180,
+    7200
+   ],
+   "elite": 10,
+   "jefe": 7210
+  }
+ },
+ "vida": {
+  "1": {
+   "debil": 2.5,
+   "normal": 2.0,
+   "elite": 1.85,
+   "jefe": 2.6
+  },
+  "2": {
+   "debil": 1.5,
+   "normal": 1.5,
+   "elite": 1.5,
+   "jefe": 1.5
+  },
+  "3": {
+   "debil": 1.4,
+   "normal": 1.4,
+   "elite": 1.4,
+   "jefe": 1.4
+  }
+ },
+ "coop_extra": 0.8,
+ "_nota_coop": "Cooperativo: las listas de dúos (data/coop) son para dos jugadores y el lanzador pone el escalado de Seamless a cero. Los rivales tienen coop_extra más de vida por cada jugador además del primero (0.8 = +80 % con dos; era 0.5 hasta el 24-10: dos armas y dos juegos de bendiciones se los comían). Cada juego escala su copia de los rivales igual (tramo y vida); la vida que queda la manda el anfitrión."
+}

@@ -1,0 +1,6 @@
+{
+  "_nota": "Esquiva media siempre: armas y talismanes pesan 0 y el lastre (pieza de armadura fija del personaje) pesa proporcion x carga_max. Tramo medio del juego: 30-70 %. carga_max medida en el juego con la orden `carga` (perfil actual, Aguante 20). Cuando haya atributos por personaje, un lastre por personaje.",
+  "carga_max": 64.06,
+  "proporcion": 0.5,
+  "lastre": 660100
+}

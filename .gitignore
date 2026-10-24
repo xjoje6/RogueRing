@@ -1,0 +1,31 @@
+extract/
+target/
+bin/
+obj/
+*.log
+_codex_work/
+tools/vendor/
+runtime/
+extract_nr/
+mod/sfx/
+dist/
+recursos/
+data/partida/
+__pycache__/
+*.pyc
+revision_bendiciones/
+# El director cambia el coliseo antes de cada combate (copia de mod/map/rogue_coliseo/).
+mod/map/mapstudio/m45_00_00_00.msb.dcx
+# Jefes de Nightreign (tools/ModBuilder/Nightreign.cs): se generan desde extract_nr y no van al repositorio.
+mod/chr/c[1-9]*
+mod/action/script/c[1-9]*.hks
+mod/script/
+mod/sd/
+mod/material/
+mod/action/*.txt
+mod/parts/bd_m_5*
+# Textos del juego con los nombres de las apariencias (PortadorNR.Mensajes).
+mod/msg/
+# Versión de pruebas: la pone empaquetar.py en los paquetes privados.
+data/modo_pruebas.txt
+node_modules/

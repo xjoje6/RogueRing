@@ -1,0 +1,15 @@
+{
+ "_nota": "Lo que el evento de mapa original le hace a un jefe cuando él mismo se pone un efecto (su cambio de fase o una mecánica). En el coliseo no está su mapa: tools/ModBuilder copia esas instrucciones del evento original (de «desde» a «hasta», sin las de «sin») a un evento por hueco (45000990 + i), con la entidad del jefe cambiada por la del hueco y la condición «el del hueco tiene el efecto si». Sacado de extract/event (24-10).",
+ "reacciones": [
+  {"nombre": "Godrick: se injerta la cabeza de dragón (efecto 14750, partes del modelo y animación 20011)", "mapa": "m10_00_00_00", "evento": 10002811, "entidad": 10000800, "si": 14785, "desde": 18, "hasta": 29, "sin": [27, 28]},
+  {"nombre": "Malenia: partes del modelo de la segunda fase (la DLL le pone 18000 en renacer)", "mapa": "m15_00_00_00", "evento": 15002811, "entidad": 15000800, "si": 18000, "desde": 22, "hasta": 28, "sin": []},
+  {"nombre": "Mohg: Nihil 1 en el jugador", "mapa": "m12_05_00_00", "evento": 12052820, "entidad": 12050800, "si": 10641, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: Nihil 2 en el jugador", "mapa": "m12_05_00_00", "evento": 12052821, "entidad": 12050800, "si": 10642, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: Nihil 3 en el jugador", "mapa": "m12_05_00_00", "evento": 12052822, "entidad": 12050800, "si": 10643, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: maldición de sangre 1", "mapa": "m12_05_00_00", "evento": 12052823, "entidad": 12050800, "si": 10645, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: maldición de sangre 2", "mapa": "m12_05_00_00", "evento": 12052824, "entidad": 12050800, "si": 10646, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: maldición de sangre 3", "mapa": "m12_05_00_00", "evento": 12052825, "entidad": 12050800, "si": 10647, "desde": 2, "hasta": 99, "sin": []},
+  {"nombre": "Mohg: fin del ritual", "mapa": "m12_05_00_00", "evento": 12052826, "entidad": 12050800, "si": 10648, "desde": 4, "hasta": 99, "sin": []},
+  {"nombre": "Espíritu ancestral regio: se cura (sin ciervos en el coliseo, el resultado de su IA)", "mapa": "m12_09_00_00", "evento": 12092290, "entidad": 12090800, "si": 13610, "desde": 4, "hasta": 23, "sin": [5]}
+ ]
+}

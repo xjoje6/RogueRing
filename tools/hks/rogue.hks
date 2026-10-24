@@ -1,0 +1,139 @@
+
+------------------------------------------
+-- RogueRing (lo añade tools/ModBuilder al final del c0000.hks de la comunidad)
+------------------------------------------
+-- Marcas de personaje: SpEffect sin efecto que pone la DLL (tools/ModBuilder crea las filas).
+-- Los números del hks son float de 32 bits: un id por encima de 16777216 llega redondeado y
+-- env(GetSpEffectID) busca otro. Por eso las marcas van en 7960000 y no con las filas 7961xxxx.
+RR_SP_MONJE = 7960000
+RR_SP_SAMURAI = 7960001
+RR_SP_CADENA = 7960002
+RR_SP_ESQUIVA = 7960003
+
+-- Ventana de desvío del juego (la abre la animación al cubrirse) o la de la cadena del samurái.
+-- tools/ModBuilder cambia por esta llamada las comprobaciones de 102001/11/13/15 del hks base.
+function RR_VentanaDesvio()
+    if env(GetSpEffectID, 102001) == TRUE or env(GetSpEffectID, 102011) == TRUE
+        or env(GetSpEffectID, 102013) == TRUE or env(GetSpEffectID, 102015) == TRUE
+        or env(GetSpEffectID, RR_SP_CADENA) == TRUE then
+        return TRUE
+    end
+    return FALSE
+end
+
+-- Monje: esquiva con la voltereta ligera, que el mod sustituye por la de la Duquesa de Nightreign
+-- (tools/ModBuilder: su esquiva, la encadenada y sus dos pasos atrás). Los demás nunca la usan: con
+-- carga ligera ruedan como con la media. Sus dos pasos atrás van en el ligero y el pesado: se alternan.
+-- Su encadenada va en la voltereta pesada: sale si esquiva durante otra esquiva (RR_SP_ESQUIVA, 0,7 s),
+-- alternando con la normal como en Nightreign.
+RR_PasoAtrasPesado = FALSE
+RR_UltimaEncadenada = FALSE
+RR_SetWeightIndex = SetWeightIndex
+function SetWeightIndex()
+    RR_SetWeightIndex()
+    if env(GetSpEffectID, RR_SP_MONJE) == TRUE then
+        SetVariable("EvasionWeightIndex", EVASION_WEIGHT_INDEX_LIGHT)
+        local request = GetEvasionRequest()
+        if request == ATTACK_REQUEST_BACKSTEP and RR_PasoAtrasPesado == TRUE then
+            SetVariable("EvasionWeightIndex", EVASION_WEIGHT_INDEX_HEAVY)
+        elseif request == ATTACK_REQUEST_ROLLING and env(GetSpEffectID, RR_SP_ESQUIVA) == TRUE
+            and RR_UltimaEncadenada == FALSE then
+            SetVariable("EvasionWeightIndex", EVASION_WEIGHT_INDEX_HEAVY)
+        end
+    elseif GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_LIGHT then
+        SetVariable("EvasionWeightIndex", EVASION_WEIGHT_INDEX_MEDIUM)
+    end
+end
+
+RR_ExecEvasion = ExecEvasion
+function ExecEvasion(backstep_limit, estep, is_usechainrecover)
+    local request = GetEvasionRequest()
+    local hecho = RR_ExecEvasion(backstep_limit, estep, is_usechainrecover)
+    if hecho == TRUE and env(GetSpEffectID, RR_SP_MONJE) == TRUE then
+        if request == ATTACK_REQUEST_BACKSTEP then
+            if RR_PasoAtrasPesado == TRUE then
+                RR_PasoAtrasPesado = FALSE
+            else
+                RR_PasoAtrasPesado = TRUE
+            end
+        elseif request == ATTACK_REQUEST_ROLLING then
+            if GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_HEAVY then
+                RR_UltimaEncadenada = TRUE
+            else
+                RR_UltimaEncadenada = FALSE
+            end
+            act(AddSpEffect, RR_SP_ESQUIVA)
+        end
+    end
+    return hecho
+end
+
+-- Samurái: el desvío sale por el lado del golpe, como en Sekiro (y como lo hace DMN). El ataque enemigo
+-- trae su dirección (GetAtkDirection): un tajo por la derecha se para por la derecha, uno por la
+-- izquierda por la izquierda y uno vertical desde arriba, arriba al centro. Estocadas y golpes desde
+-- abajo van al lado contrario del último desvío, como al encadenar. Dentro de cada lado rotan para no
+-- repetir. Cada hueco (evento y tipo de guardia) lleva un desvío de Lobo (tools/ModBuilder).
+-- RR_DesvioEspejo = TRUE si en el juego salen al revés.
+RR_DesvioEspejo = FALSE
+RR_Desvios = {
+    izquierda = {
+        {"W_GuardDamageSmall_JustGuard", 0},
+        {"W_GuardDamageSmall_JustGuard", 1},
+        {"W_GuardDamageSmall_JustGuard", 2},
+    },
+    derecha = {
+        {"W_GuardDamageSmall_JustGuard", 3},
+        {"W_GuardDamageMiddle_JustGuard", 0},
+        {"W_GuardDamageMiddle_JustGuard", 1},
+    },
+    centro = {
+        {"W_GuardDamageMiddle_JustGuard", 2},
+        {"W_GuardDamageMiddle_JustGuard", 3},
+    },
+}
+RR_DesvioTurno = {izquierda = 1, derecha = 1, centro = 1}
+RR_DesvioUltimoLado = "derecha"
+
+function RR_LadoDesvio()
+    local dir = env(GetAtkDirection)
+    if dir == ATTACK_DIR_UP then
+        return "centro"
+    end
+    local derecha = dir == ATTACK_DIR_RIGHT
+    local izquierda = dir == ATTACK_DIR_LEFT
+    if RR_DesvioEspejo == TRUE then
+        derecha, izquierda = izquierda, derecha
+    end
+    if derecha then
+        return "derecha"
+    elseif izquierda then
+        return "izquierda"
+    elseif RR_DesvioUltimoLado == "izquierda" then
+        return "derecha"
+    end
+    return "izquierda"
+end
+
+-- Cadena: cada desvío acertado abre otra ventana corta (RR_SP_CADENA). Si el golpe siguiente llega
+-- dentro y se sigue cubriendo, también es desvío: una ráfaga se para con la primera pulsación buena.
+-- Los golpes grandes también se desvían por lados con los desvíos rápidos: su animación propia (19802)
+-- es un desvío pesado que deja clavado un instante.
+RR_ExecEventAllBody = ExecEventAllBody
+function ExecEventAllBody(event)
+    if (event == "W_GuardDamageSmall_JustGuard" or event == "W_GuardDamageMiddle_JustGuard"
+        or event == "W_GuardDamageLarge_JustGuard")
+        and env(GetSpEffectID, RR_SP_SAMURAI) == TRUE then
+        act(AddSpEffect, RR_SP_CADENA)
+        local lado = RR_LadoDesvio()
+        local lista = RR_Desvios[lado]
+        local i = RR_DesvioTurno[lado]
+        RR_DesvioTurno[lado] = i % #lista + 1
+        if lado ~= "centro" then
+            RR_DesvioUltimoLado = lado
+        end
+        SetVariable("IndexGuard", lista[i][2])
+        SetVariable("IsTorchGuard", FALSE)
+        return RR_ExecEventAllBody(lista[i][1])
+    end
+    return RR_ExecEventAllBody(event)
+end

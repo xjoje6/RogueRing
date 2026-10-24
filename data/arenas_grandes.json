@@ -1,0 +1,6 @@
+{
+ "_nota": "Arena grande (arena pequeña = el coliseo, arena grande = la de Placidusax). Los encuentros con \"arena\": \"grande\" se pelean aquí, con una variante del mapa por encuentro (tools/ModBuilder: sin los enemigos del mapa, los del encuentro alrededor de «centro» y el jugador en «aparicion» mirándolos; mod/map/rogue_arenas/<clave>/<id>.msb.dcx). flag = orden de la DLL para viajar; spawn = entidad del punto de aparición que añade la variante; sala = enemigo original del que se copian los grupos de dibujado y el suelo. Coordenadas locales del MSB del mapa. Centro = donde está Placidusax en el mapa original (el centro de la plataforma); aparición = el otro punto de llegada del mapa, a 18 m (con el centro anterior, 44 m más allá, los enemigos caían al vacío).",
+ "arenas": [
+  {"clave": "grande", "nombre": "Dragonlord's Arena", "flag": 1049300120, "map": [13, 0, 0, 0], "spawn": 13009990, "aparicion": [10.04, 1010.01, 347.54], "centro": [14.45, 1009.7, 329.5], "sala": 13000830}
+ ]
+}

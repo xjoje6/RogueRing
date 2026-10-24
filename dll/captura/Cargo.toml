@@ -1,0 +1,8 @@
+[package]
+name = "captura"
+version = "0.1.0"
+edition = "2024"
+description = "Guarda un PNG de la ventana del juego con Windows Graphics Capture (sin foco ni ventana delante)."
+
+[dependencies]
+windows-capture = "2"

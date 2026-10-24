@@ -1,0 +1,2469 @@
+{
+ "_nota": "Bendiciones (reliquias de RogueRing): se acumulan sin límite. 'personaje' = solo para ese personaje (monje, samurai, tanque) (sin él, comunes). 'pendiente' = aún no programada, no sale en las tiradas. Cada nivel es un SpEffect (campos) que genera tools/ModBuilder; 'dll' = efectos que aplica la DLL. Maldiciones al final. Textos estilo carta, sin guion largo.",
+ "reliquias": [
+  {
+   "id": "primer_corte",
+   "nombre": "First Cut",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your first hit each fight deals triple damage.",
+     "campos": {},
+     "dll": {
+      "primer_golpe": 3.0
+     }
+    }
+   ],
+   "icono": 18280
+  },
+  {
+   "id": "racha",
+   "nombre": "Streak",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Every 10 hits without taking damage, lightning strikes the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600034,
+         "danio_golpes": 4.0
+        }
+       ],
+       "cada": 10,
+       "si_sin_danio": 12
+      }
+     ]
+    }
+   ],
+   "icono": 18360
+  },
+  {
+   "id": "frasco_estallido",
+   "nombre": "Bursting Flask",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Drinking a flask throws a disc of light at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "frasco",
+       "hacer": [
+        {
+         "bala": 79600046,
+         "danio_golpes": 2.0
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 409
+  },
+  {
+   "id": "sangre_fria",
+   "nombre": "Cold Blood",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Rolling near the enemy makes your hits deal 50% more for 2 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "rodar",
+       "hacer": [
+        {
+         "danio": 1.5,
+         "segundos": 2
+        }
+       ],
+       "si_cerca": 4,
+       "enfriamiento": 3
+      }
+     ]
+    }
+   ],
+   "icono": 18670
+  },
+  {
+   "id": "ultima_voluntad",
+   "nombre": "Last Will",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Once per fight, a killing blow leaves you at 1 HP and invulnerable for 2 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe_mortal",
+       "hacer": [
+        {
+         "invulnerable": 2
+        }
+       ],
+       "una_vez": true
+      }
+     ]
+    }
+   ],
+   "icono": 18060
+  },
+  {
+   "id": "espinas",
+   "nombre": "Thorns",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "When hit, you return 30% of the damage.",
+     "campos": {},
+     "dll": {
+      "espinas": 0.3
+     }
+    }
+   ],
+   "icono": 18600
+  },
+  {
+   "id": "eco",
+   "nombre": "Echo",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "One in three times, your Ash of War costs nothing.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "ceniza",
+       "hacer": [
+        {
+         "devolver_pf": 1.0
+        }
+       ],
+       "cada": 3
+      }
+     ]
+    }
+   ],
+   "icono": 18410
+  },
+  {
+   "id": "escarcha",
+   "nombre": "Frost on the Blade",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Every sixth hit hurls a frozen spike at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600026,
+         "danio_golpes": 1.5
+        }
+       ],
+       "cada": 6
+      }
+     ]
+    }
+   ],
+   "icono": 18230
+  },
+  {
+   "id": "postura_rota",
+   "nombre": "Broken Stance",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "When the enemy is staggered, it takes double damage for 5 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "boss_debil": 2.0,
+         "segundos": 5
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18300
+  },
+  {
+   "id": "venganza",
+   "nombre": "Vengeance",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Below 30% HP, you deal 40% more damage.",
+     "campos": {},
+     "dll": {
+      "venganza": 1.4
+     }
+    }
+   ],
+   "icono": 18270
+  },
+  {
+   "id": "reloj",
+   "nombre": "Hourglass",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Every 20 s of combat, you recover 10% HP.",
+     "campos": {},
+     "dll": {
+      "reloj": 0.1
+     }
+    }
+   ],
+   "icono": 18630
+  },
+  {
+   "id": "luz_gracia",
+   "nombre": "Light of Grace",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your first flask each fight also makes you invulnerable for 3 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "frasco",
+       "hacer": [
+        {
+         "invulnerable": 3
+        }
+       ],
+       "una_vez": true
+      }
+     ]
+    }
+   ],
+   "icono": 18620
+  },
+  {
+   "id": "espiritu",
+   "nombre": "Wandering Spirit",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "At the start of each fight, a random spirit joins you for 30 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "inicio",
+       "hacer": [
+        {
+         "invocar": [
+          [
+           4180,
+           141800000,
+           141800000
+          ],
+          [
+           4300,
+           143000000,
+           143000000
+          ],
+          [
+           4311,
+           143111300,
+           143110000
+          ],
+          [
+           3900,
+           139000000,
+           139000000
+          ],
+          [
+           3950,
+           139501000,
+           139500000
+          ],
+          [
+           3500,
+           135004000,
+           135004000
+          ]
+         ],
+         "segundos": 30
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18880
+  },
+  {
+   "id": "estela",
+   "nombre": "Trail",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Rolling near the enemy throws a burst of fire at it.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "rodar",
+       "hacer": [
+        {
+         "bala": 79600038,
+         "danio_golpes": 0.5
+        }
+       ],
+       "si_cerca": 3,
+       "enfriamiento": 1
+      }
+     ]
+    }
+   ],
+   "icono": 18250
+  },
+  {
+   "id": "cristal",
+   "nombre": "Brittle Crystal",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "You deal 60% more damage.",
+     "campos": {
+      "physicsAttackPowerRate": 1.6,
+      "magicAttackPowerRate": 1.6,
+      "fireAttackPowerRate": 1.6,
+      "thunderAttackPowerRate": 1.6,
+      "darkAttackPowerRate": 1.6,
+      "slashDamageCutRate": 1.6,
+      "blowDamageCutRate": 1.6,
+      "thrustDamageCutRate": 1.6,
+      "neutralDamageCutRate": 1.6,
+      "magicDamageCutRate": 1.6,
+      "fireDamageCutRate": 1.6,
+      "thunderDamageCutRate": 1.6,
+      "darkDamageCutRate": 1.6
+     }
+    }
+   ],
+   "icono": 18740,
+   "contra": "You take 60% more damage."
+  },
+  {
+   "id": "frasco_mas",
+   "nombre": "Extra Flask",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "One more Crimson Flask.",
+     "campos": {},
+     "dll": {
+      "frascos": 1
+     }
+    }
+   ],
+   "icono": 18610
+  },
+  {
+   "id": "bolsa_kale",
+   "nombre": "Kalé's Pouch",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Merchant prices drop by 25%.",
+     "campos": {},
+     "dll": {
+      "precio": 0.75
+     }
+    }
+   ],
+   "icono": 554
+  },
+  {
+   "id": "ojo_avizor",
+   "nombre": "Keen Eye",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Rewards offer one more choice.",
+     "campos": {},
+     "dll": {
+      "opciones": 1
+     }
+    }
+   ],
+   "icono": 18110
+  },
+  {
+   "id": "gracia_generosa",
+   "nombre": "Generous Grace",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "At graces you choose two things instead of one.",
+     "campos": {},
+     "dll": {
+      "descanso_templar": 1
+     }
+    }
+   ],
+   "icono": 18040
+  },
+  {
+   "id": "coleccionista",
+   "nombre": "Collector",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "+3% damage for each blessing you hold.",
+     "campos": {},
+     "dll": {
+      "coleccionista": 0.03
+     }
+    }
+   ],
+   "icono": 18870
+  },
+  {
+   "id": "juramento",
+   "nombre": "Oath",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Win a fight without taking damage to earn an extra blessing.",
+     "campos": {},
+     "dll": {
+      "juramento": 1
+     }
+    }
+   ],
+   "icono": 18470
+  },
+  {
+   "id": "vasija_runas",
+   "nombre": "Rune Jar",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Gain 100 runes for each fight you win without drinking.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "victoria",
+       "hacer": [
+        {
+         "runas": 100
+        }
+       ],
+       "si_sin_frasco": true
+      }
+     ]
+    }
+   ],
+   "icono": 18830
+  },
+  {
+   "id": "forja",
+   "nombre": "Wandering Forge",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each elite you defeat upgrades your weapon a level. Past its max, each level is +5% damage.",
+     "campos": {},
+     "dll": {
+      "forja": 1
+     }
+    }
+   ],
+   "icono": 18370
+  },
+  {
+   "id": "vena_abierta",
+   "nombre": "Open Vein",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "You heal triple on hit, but take 15% more damage.",
+     "campos": {
+      "slashDamageCutRate": 1.15,
+      "blowDamageCutRate": 1.15,
+      "thrustDamageCutRate": 1.15,
+      "neutralDamageCutRate": 1.15,
+      "magicDamageCutRate": 1.15,
+      "fireDamageCutRate": 1.15,
+      "thunderDamageCutRate": 1.15,
+      "darkDamageCutRate": 1.15
+     },
+     "dll": {
+      "regeneracion": 3.0
+     }
+    }
+   ],
+   "icono": 18051,
+   "personaje": "monje"
+  },
+  {
+   "id": "pacto_vida",
+   "nombre": "Life Pact",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Below 50% HP, you heal double on hit.",
+     "campos": {},
+     "dll": {
+      "pacto": 2.0
+     }
+    }
+   ],
+   "icono": 18000,
+   "personaje": "monje"
+  },
+  {
+   "id": "donante",
+   "nombre": "Donor",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Your Ashes of War cost HP instead of FP and give you 30% more damage for 3 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "ceniza",
+       "hacer": [
+        {
+         "devolver_pf": 1.0,
+         "coste_vida": 0.05,
+         "danio": 1.3,
+         "segundos": 3
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18750,
+   "personaje": "monje"
+  },
+  {
+   "id": "sin_frascos",
+   "nombre": "No Flasks",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "You lose all your flasks. You heal triple on hit.",
+     "campos": {},
+     "dll": {
+      "sin_frascos": 1,
+      "regeneracion": 3.0
+     }
+    }
+   ],
+   "icono": 18680,
+   "personaje": "monje"
+  },
+  {
+   "id": "flujo",
+   "nombre": "Flowing Water",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Quickstepping near the enemy heals you 4%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "rodar",
+       "hacer": [
+        {
+         "curar": 0.04
+        }
+       ],
+       "si_cerca": 4,
+       "enfriamiento": 1.5
+      }
+     ]
+    }
+   ],
+   "icono": 18350,
+   "personaje": "monje"
+  },
+  {
+   "id": "cien_punos",
+   "nombre": "Hundred Fists",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Every twelfth hit strikes four more times.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "danio_golpes": 4.0
+        }
+       ],
+       "cada": 12
+      }
+     ]
+    }
+   ],
+   "icono": 18800,
+   "personaje": "monje"
+  },
+  {
+   "id": "calma",
+   "nombre": "Inner Calm",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "After 4 s without being hit, your hits heal you 10% of their damage.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "curar_golpe": 0.1
+        }
+       ],
+       "si_sin_danio": 4
+      }
+     ]
+    }
+   ],
+   "icono": 18650,
+   "personaje": "monje"
+  },
+  {
+   "id": "mano_hierro",
+   "nombre": "Iron Hand",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "The deflect window is wider.",
+     "campos": {},
+     "efectos": []
+    }
+   ],
+   "icono": 18580,
+   "personaje": "samurai"
+  },
+  {
+   "id": "rompehuesos",
+   "nombre": "Bonebreaker",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each deflect breaks an extra 15% of the enemy's stance.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "desvio",
+       "hacer": [
+        {
+         "postura_danio": 0.15
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18220,
+   "personaje": "samurai"
+  },
+  {
+   "id": "contra",
+   "nombre": "Counter",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "After a deflect, your next hit within 1 s deals double.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "desvio",
+       "hacer": [
+        {
+         "danio": 2.0,
+         "segundos": 1
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18290,
+   "personaje": "samurai"
+  },
+  {
+   "id": "aguante_pirata",
+   "nombre": "Pirate's Stamina",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Deflecting refills your stamina.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "desvio",
+       "hacer": [
+        {
+         "recargar": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18160,
+   "personaje": "samurai"
+  },
+  {
+   "id": "tres_de_tres",
+   "nombre": "Three for Three",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Every third deflect fires three glintblades at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "desvio",
+       "hacer": [
+        {
+         "bala": 79600040,
+         "balas": 1,
+         "danio_golpes": 4.0
+        }
+       ],
+       "cada": 3
+      }
+     ]
+    }
+   ],
+   "icono": 18520,
+   "personaje": "samurai"
+  },
+  {
+   "id": "botin",
+   "nombre": "Loot",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Each time you break a boss's stance, you gain 150 runes.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "runas": 150
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18120,
+   "personaje": "samurai"
+  },
+  {
+   "id": "bravucon",
+   "nombre": "Bully",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "After 10 s without dodging, you deal 25% more damage.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "pila": "bravo"
+        }
+       ],
+       "valor": 10
+      },
+      {
+       "cuando": "rodar",
+       "hacer": [
+        {
+         "quitar_pila": "bravo"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "bravo",
+        "max": 1,
+        "danio": 0.25
+       }
+      ]
+     }
+    }
+   ],
+   "icono": 18170,
+   "personaje": "samurai"
+  },
+  {
+   "id": "abanico_gurranq",
+   "nombre": "Gurranq's Fan",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Every fourth hit unleashes Gurranq's claws.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600028,
+         "danio_golpes": 2.5
+        }
+       ],
+       "cada": 4
+      }
+     ]
+    }
+   ],
+   "icono": 6403
+  },
+  {
+   "id": "hoja_fantasma",
+   "nombre": "Phantom Blade",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each hit releases a spectral blade that deals 40% of the hit. At most one every 0.4 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600024,
+         "danio_golpe": 0.4
+        }
+       ],
+       "enfriamiento": 0.4
+      }
+     ]
+    }
+   ],
+   "icono": 18480
+  },
+  {
+   "id": "rafaga",
+   "nombre": "Flurry",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Each hit fires a glintstone pebble at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600022,
+         "danio_golpes": 0.15
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Each hit fires two glintstone pebbles at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "bala": 79600022,
+         "balas": 2,
+         "danio_golpes": 0.3
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 6000
+  },
+  {
+   "id": "mole",
+   "nombre": "Bulk",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your hits add 3.5% of your max HP as damage.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "danio_vida": 0.035
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18032,
+   "personaje": "tanque"
+  },
+  {
+   "id": "intercambio",
+   "nombre": "Trade",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "After taking a hit, you deal 40% more for 3 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "danio": 1.4,
+         "segundos": 3
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18890,
+   "personaje": "tanque"
+  },
+  {
+   "id": "piel_hierro",
+   "nombre": "Iron Hide",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Each hit you take: 3% less damage for 8 s, up to 30%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "pila": "piel"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "piel",
+        "max": 10,
+        "segundos": 8,
+        "defensa": 0.03
+       }
+      ]
+     }
+    }
+   ],
+   "icono": 18493,
+   "personaje": "tanque"
+  },
+  {
+   "id": "mano_pesada",
+   "nombre": "Heavy Hand",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Charged attacks break 25% of the enemy's stance.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "cargado",
+       "hacer": [
+        {
+         "postura_danio": 0.25
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18860,
+   "personaje": "tanque"
+  },
+  {
+   "id": "bastion",
+   "nombre": "Bastion",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Charged attacks make you take half damage for 3 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "cargado",
+       "hacer": [
+        {
+         "defensa": 0.5,
+         "segundos": 3
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18590,
+   "personaje": "tanque"
+  },
+  {
+   "id": "escarmiento",
+   "nombre": "Retaliation",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Every third hit you take, glintstone stars strike back for 3 hits.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "bala": 79600042,
+         "balas": 1,
+         "danio_golpes": 3.0
+        }
+       ],
+       "cada": 3,
+       "si_cerca": 5
+      }
+     ]
+    }
+   ],
+   "icono": 18550,
+   "personaje": "tanque"
+  },
+  {
+   "id": "avalancha",
+   "nombre": "Avalanche",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Each hit you take: 1% more damage for the rest of the fight, up to 30%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "pila": "avalancha"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "avalancha",
+        "max": 30,
+        "danio": 0.01
+       }
+      ]
+     }
+    }
+   ],
+   "icono": 18070,
+   "personaje": "tanque"
+  },
+  {
+   "id": "brasa",
+   "nombre": "Ember",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each hit burns the enemy for 5 s. Burns stack.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "quemar": 0.00225,
+         "segundos": 5
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 64
+  },
+  {
+   "id": "fuegos_fatuos",
+   "nombre": "Will-o'-the-Wisps",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Every 4 s a fireball flies at the enemy on its own.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "bala": 79600020,
+         "danio_golpes": 1.0
+        }
+       ],
+       "valor": 4
+      }
+     ]
+    },
+    {
+     "texto": "Every 4 s two fireballs fly at the enemy on their own.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "bala": 79600020,
+         "balas": 2,
+         "danio_golpes": 1.5
+        }
+       ],
+       "valor": 4
+      }
+     ]
+    }
+   ],
+   "icono": 6206
+  },
+  {
+   "id": "olla_presion",
+   "nombre": "Pressure Cooker",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "You are on fire. Enemies within 3 m burn too.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "danio_golpes": 0.25
+        }
+       ],
+       "valor": 1,
+       "si_cerca": 3
+      }
+     ]
+    }
+   ],
+   "icono": 6211
+  },
+  {
+   "id": "meteoro",
+   "nombre": "Meteor",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Breaking the enemy's stance hurls collapsing stars at it.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "bala": 79600030,
+         "danio_golpes": 6.0
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 6070
+  },
+  {
+   "id": "placer_culpable",
+   "nombre": "Guilty Pleasure",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Breaking stance heals you 15%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "curar": 0.15
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "texto": "Breaking stance heals you 25% and halves the damage you take for 5 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "curar": 0.25,
+         "defensa": 0.5,
+         "segundos": 5
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 950
+  },
+  {
+   "id": "crecer",
+   "nombre": "Grow",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each stance you break gives you 3% more damage for the rest of the run.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "run": "crecer"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "run_danio": {
+       "crecer": 0.03
+      }
+     }
+    }
+   ],
+   "icono": 383
+  },
+  {
+   "id": "erosion",
+   "nombre": "Erosion",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Each hit weakens the enemy by 1.5% for 4 s, up to 30%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "pila": "erosion"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "erosion",
+        "max": 20,
+        "segundos": 4,
+        "boss_debil": 0.015
+       }
+      ]
+     }
+    }
+   ],
+   "icono": 18924
+  },
+  {
+   "id": "circulo_muerte",
+   "nombre": "Circle of Death",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "What your flasks heal, the enemy takes as damage.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "frasco",
+       "hacer": [
+        {
+         "danio_curado": 1.0
+        }
+       ]
+      }
+     ],
+     "dll": {
+      "frascos": -1
+     }
+    }
+   ],
+   "icono": 18201,
+   "contra": "One flask less."
+  },
+  {
+   "id": "segundo_aliento",
+   "nombre": "Second Wind",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Once per fight, dropping below half HP restores 30%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "vida_baja",
+       "hacer": [
+        {
+         "curar": 0.3
+        }
+       ],
+       "valor": 0.5,
+       "una_vez": true
+      }
+     ]
+    }
+   ],
+   "icono": 6300
+  },
+  {
+   "id": "plan_huida",
+   "nombre": "Escape Plan",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Once per fight, dropping below 35% makes you take 65% less damage for 4 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "vida_baja",
+       "hacer": [
+        {
+         "defensa": 0.35,
+         "segundos": 4
+        }
+       ],
+       "valor": 0.35,
+       "una_vez": true
+      }
+     ]
+    }
+   ],
+   "icono": 18490
+  },
+  {
+   "id": "velo",
+   "nombre": "Veil",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "The first hit every 30 s deals you no damage.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "anular": true
+        }
+       ],
+       "enfriamiento": 30
+      }
+     ]
+    }
+   ],
+   "icono": 18690
+  },
+  {
+   "id": "cebo",
+   "nombre": "Bait",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "The first killing blow leaves you 3.5 s to hit back. Hit, and you live with 20% HP.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe_mortal",
+       "hacer": [
+        {
+         "invulnerable": 3.5,
+         "revivir": 0.2,
+         "segundos": 3.5
+        }
+       ],
+       "una_vez": true
+      }
+     ]
+    }
+   ],
+   "icono": 3220
+  },
+  {
+   "id": "danza_muerte",
+   "nombre": "Dance of Death",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "40% of the damage you take arrives 3 s later. Breaking stance erases it.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "aplazar": 0.4,
+         "segundos": 3
+        }
+       ]
+      },
+      {
+       "cuando": "postura",
+       "hacer": [
+        {
+         "perdonar": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 557
+  },
+  {
+   "id": "vampiro",
+   "nombre": "Vampire",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "You steal 35% of the damage you deal.",
+     "campos": {},
+     "pasivo": {
+      "frascos_no_curan": true,
+      "robo": 0.35
+     }
+    }
+   ],
+   "icono": 18311,
+   "contra": "Your flasks don't heal."
+  },
+  {
+   "id": "brazo_ligero",
+   "nombre": "Light Arm",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "You attack 20% faster.",
+     "campos": {},
+     "pasivo": {
+      "velocidad": 1.2
+     }
+    }
+   ],
+   "icono": 1047
+  },
+  {
+   "id": "ritmo",
+   "nombre": "Rhythm",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each hit: +3% attack speed for 4 s, up to +30%.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "pila": "ritmo"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "ritmo",
+        "max": 10,
+        "segundos": 4,
+        "velocidad": 0.03
+       }
+      ]
+     }
+    },
+    {
+     "texto": "Each hit: +3% attack speed and +2% damage for 4 s, up to 10 hits.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "pila": "ritmo"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "ritmo",
+        "max": 10,
+        "segundos": 4,
+        "velocidad": 0.03,
+        "danio": 0.02
+       }
+      ]
+     }
+    },
+    {
+     "texto": "Each hit: +3% speed, +2% damage and defense for 6 s, up to 10 hits.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "hacer": [
+        {
+         "pila": "ritmo"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "pilas": [
+       {
+        "id": "ritmo",
+        "max": 10,
+        "segundos": 6,
+        "velocidad": 0.03,
+        "danio": 0.02,
+        "defensa": 0.02
+       }
+      ]
+     }
+    }
+   ],
+   "icono": 18921
+  },
+  {
+   "id": "poder_maligno",
+   "nombre": "Wicked Power",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Every 100 hits this run: +5% damage for the rest of it.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe",
+       "cada": 100,
+       "hacer": [
+        {
+         "run": "maligno100"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "run_danio": {
+       "maligno100": 0.05
+      }
+     }
+    }
+   ],
+   "icono": 18918
+  },
+  {
+   "id": "goliat",
+   "nombre": "Goliath",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "+50% HP, +30% damage and you are 50% bigger.",
+     "campos": {
+      "consumeStaminaRate": 1.3
+     },
+     "pasivo": {
+      "vida": 1.5,
+      "danio": 1.3,
+      "tamano": 1.5
+     }
+    }
+   ],
+   "icono": 174,
+   "contra": "Your actions cost 30% more stamina."
+  },
+  {
+   "id": "mente_materia",
+   "nombre": "Mind Over Matter",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "+15% max HP.",
+     "campos": {},
+     "pasivo": {
+      "vida": 1.15
+     }
+    },
+    {
+     "texto": "+30% max HP.",
+     "campos": {},
+     "pasivo": {
+      "vida": 1.3
+     }
+    }
+   ],
+   "icono": 18001
+  },
+  {
+   "id": "derrame_carmesi",
+   "nombre": "Crimsonspill",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "+10% max HP.",
+     "campos": {},
+     "pasivo": {
+      "vida": 1.1
+     }
+    },
+    {
+     "texto": "+20% max HP.",
+     "campos": {},
+     "pasivo": {
+      "vida": 1.2
+     }
+    },
+    {
+     "texto": "+30% max HP.",
+     "campos": {},
+     "pasivo": {
+      "vida": 1.3
+     }
+    }
+   ],
+   "icono": 400
+  },
+  {
+   "id": "cientifico_loco",
+   "nombre": "Mad Scientist",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "At the start of each fight, at random: giant and strong, or small, fast and a bit weaker.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "inicio",
+       "hacer": [
+        {
+         "danio": 1.3,
+         "tamano": 1.4,
+         "segundos": 900
+        }
+       ],
+       "prob": 0.5
+      },
+      {
+       "cuando": "inicio",
+       "hacer": [
+        {
+         "velocidad": 1.15,
+         "tamano": 0.75,
+         "segundos": 900,
+         "danio": 0.9
+        }
+       ],
+       "alternativa": true
+      }
+     ]
+    }
+   ],
+   "icono": 6097
+  },
+  {
+   "id": "remate",
+   "nombre": "Finisher",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "An enemy below 5% HP dies on your next hit.",
+     "campos": {},
+     "pasivo": {
+      "remate": 0.05
+     }
+    }
+   ],
+   "icono": 18936
+  },
+  {
+   "id": "cosecha",
+   "nombre": "Harvest",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "With the enemy below half HP, you deal 25% more.",
+     "campos": {},
+     "pasivo": {
+      "danio_boss_vida_menor": [
+       0.5,
+       1.25
+      ]
+     }
+    }
+   ],
+   "icono": 6056
+  },
+  {
+   "id": "vulnerable",
+   "nombre": "Vulnerable",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each ailment that procs on the enemy deals 3 of your hits.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "estado",
+       "hacer": [
+        {
+         "danio_golpes": 3.0
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18926
+  },
+  {
+   "id": "caos",
+   "nombre": "Chaos",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Gain three random blessings.",
+     "campos": {},
+     "al_coger": {
+      "bendiciones": 3,
+      "maldiciones": 2
+     }
+    }
+   ],
+   "icono": 18770,
+   "contra": "Gain two random curses."
+  },
+  {
+   "id": "transmutar",
+   "nombre": "Transmute",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Gain a random uncommon blessing.",
+     "campos": {},
+     "al_coger": {
+      "bendiciones": 1,
+      "bendiciones_rareza": "PocoComun"
+     }
+    }
+   ],
+   "icono": 90
+  },
+  {
+   "id": "pandora",
+   "nombre": "Pandora's Box",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "All your blessings turn into random rare ones.",
+     "campos": {},
+     "dll": {
+      "frascos": -1
+     },
+     "al_coger": {
+      "pandora": true
+     }
+    }
+   ],
+   "icono": 6044,
+   "contra": "One flask less."
+  },
+  {
+   "id": "yunque",
+   "nombre": "Anvil",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "+5% damage and +5% HP.",
+     "campos": {},
+     "pasivo": {
+      "danio": 1.05,
+      "vida": 1.05
+     }
+    },
+    {
+     "texto": "+10% damage and +10% HP.",
+     "campos": {},
+     "pasivo": {
+      "danio": 1.1,
+      "vida": 1.1
+     }
+    },
+    {
+     "texto": "+15% damage and +15% HP.",
+     "campos": {},
+     "pasivo": {
+      "danio": 1.15,
+      "vida": 1.15
+     }
+    }
+   ],
+   "icono": 18934
+  },
+  {
+   "id": "motor",
+   "nombre": "Engine",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each fight you win: +3% max HP for the rest of the run.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "victoria",
+       "hacer": [
+        {
+         "run": "motor"
+        }
+       ]
+      }
+     ],
+     "pasivo": {
+      "run_vida": {
+       "motor": 0.03
+      }
+     }
+    }
+   ],
+   "icono": 18933
+  },
+  {
+   "id": "donativo",
+   "nombre": "Donation",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Gain 1500 runes.",
+     "campos": {},
+     "al_coger": {
+      "runas": 1500
+     }
+    }
+   ],
+   "icono": 805
+  },
+  {
+   "id": "doble_llama",
+   "nombre": "Double Flame",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your Ashes of War also launch 2 fireballs. Once every 3 s at most.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "ceniza",
+       "hacer": [
+        {
+         "bala": 79600052,
+         "balas": 2,
+         "danio_golpes": 2.5
+        }
+       ],
+       "enfriamiento": 3.0
+      }
+     ]
+    },
+    {
+     "texto": "Your Ashes of War also launch 3 fireballs. Once every 3 s at most.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "ceniza",
+       "hacer": [
+        {
+         "bala": 79600052,
+         "balas": 3,
+         "danio_golpes": 3.5
+        }
+       ],
+       "enfriamiento": 3.0
+      }
+     ]
+    }
+   ],
+   "icono": 6202
+  },
+  {
+   "id": "bonk",
+   "nombre": "Bonk",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your charged attacks also hurl rocks at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "cargado",
+       "hacer": [
+        {
+         "bala": 79600044,
+         "balas": 1,
+         "danio_golpes": 2.0
+        }
+       ],
+       "si_cerca": 4
+      }
+     ]
+    }
+   ],
+   "icono": 6071
+  },
+  {
+   "id": "desbordar",
+   "nombre": "Overflow",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your Ashes of War cost double FP and give you 25% more damage for 4 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "ceniza",
+       "hacer": [
+        {
+         "gastar_pf": 1.0,
+         "danio": 1.25,
+         "segundos": 4
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 18700
+  },
+  {
+   "id": "puercoespin",
+   "nombre": "Porcupine",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "The damage you take builds up as spikes. Roll to fire them at the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "puas": 0.6
+        }
+       ]
+      },
+      {
+       "cuando": "rodar",
+       "hacer": [
+        {
+         "soltar_puas": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 6006
+  },
+  {
+   "id": "bomba_espiritual",
+   "nombre": "Spirit Bomb",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "What your flasks heal builds up. When it reaches your max HP, it falls on the enemy.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "frasco",
+       "hacer": [
+        {
+         "bomba": 1.0
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 6021
+  },
+  {
+   "id": "raton_perez",
+   "nombre": "Tooth Fairy",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Deal 25% of the enemy's HP within 2.5 s and it drops 300 runes.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "rafaga",
+       "hacer": [
+        {
+         "runas": 300
+        }
+       ],
+       "valor": 0.25
+      }
+     ]
+    }
+   ],
+   "icono": 516
+  },
+  {
+   "id": "espatula",
+   "nombre": "Quest: The Spatula",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Land 800 hits this run. Reward: three rare blessings.",
+     "campos": {}
+    }
+   ],
+   "icono": 6063
+  },
+  {
+   "id": "manos_tierra",
+   "nombre": "Fingercreeper's Grasp",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Every 12 s, if the enemy is close, a hand hurls magic that traps it for 2 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "bala": 79600050,
+         "efecto_boss": 79619036,
+         "frenar_boss": 0.05,
+         "segundos": 2
+        }
+       ],
+       "valor": 12,
+       "si_cerca": 4
+      }
+     ]
+    }
+   ],
+   "icono": 915
+  },
+  {
+   "id": "pequenajo",
+   "nombre": "Tiny",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "You are smaller and harder to hit. You deal 10% less damage.",
+     "campos": {},
+     "pasivo": {
+      "tamano": 0.75,
+      "danio": 0.9
+     }
+    }
+   ],
+   "icono": 3074
+  },
+  {
+   "id": "manada",
+   "nombre": "Pack",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Once per fight, dropping below half HP summons three wolves for 30 s.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "vida_baja",
+       "hacer": [
+        {
+         "invocar": [
+          [
+           4070,
+           140700000,
+           140700000
+          ]
+         ],
+         "invocados": 3,
+         "segundos": 30
+        }
+       ],
+       "valor": 0.5,
+       "una_vez": true
+      }
+     ],
+     "pasivo": {
+      "danio": 0.85
+     }
+    }
+   ],
+   "icono": 476,
+   "contra": "You deal 15% less damage."
+  },
+  {
+   "id": "interes",
+   "nombre": "Interest",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "Each ailment that procs on the enemy gives you 25 runes.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "estado",
+       "hacer": [
+        {
+         "runas": 25
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "icono": 157
+  },
+  {
+   "id": "tormenta",
+   "nombre": "Tempest",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Every 3 s, lightning strikes the enemy.",
+     "campos": {
+      "slashDamageCutRate": 1.25,
+      "blowDamageCutRate": 1.25,
+      "thrustDamageCutRate": 1.25,
+      "neutralDamageCutRate": 1.25,
+      "magicDamageCutRate": 1.25,
+      "fireDamageCutRate": 1.25,
+      "thunderDamageCutRate": 1.25,
+      "darkDamageCutRate": 1.25
+     },
+     "efectos": [
+      {
+       "cuando": "segundos",
+       "hacer": [
+        {
+         "bala": 79600036,
+         "danio_golpes": 1.5
+        }
+       ],
+       "valor": 3
+      }
+     ]
+    }
+   ],
+   "icono": 18521,
+   "contra": "You take 25% more damage."
+  },
+  {
+   "id": "berserker",
+   "nombre": "Berserk",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Below half HP, you deal double damage.",
+     "campos": {},
+     "pasivo": {
+      "danio_vida_menor": [
+       0.5,
+       2.0
+      ],
+      "vida": 0.75
+     }
+    }
+   ],
+   "icono": 18640,
+   "contra": "Your max HP drops by 25%."
+  },
+  {
+   "id": "sobrecarga",
+   "nombre": "Overclock",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "You attack 30% faster.",
+     "campos": {
+      "maxStaminaRate": 0.7
+     },
+     "pasivo": {
+      "velocidad": 1.3
+     }
+    }
+   ],
+   "icono": 18030,
+   "contra": "Your max stamina drops by 30%."
+  },
+  {
+   "id": "matagigantes",
+   "nombre": "Giant Slayer",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Act bosses start with 30% less HP.",
+     "campos": {},
+     "dll": {
+      "vida_jefe": 0.7,
+      "danio_enemigos": 1.2
+     }
+    }
+   ],
+   "icono": 18871,
+   "contra": "Every enemy deals 20% more damage."
+  },
+  {
+   "id": "inmortal",
+   "nombre": "Undying",
+   "rareza": "Mitica",
+   "niveles": [
+    {
+     "texto": "Once per fight, a killing blow leaves you at 60% HP instead.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "golpe_mortal",
+       "hacer": [
+        {
+         "curar": 0.6,
+         "invulnerable": 2
+        }
+       ],
+       "una_vez": true
+      }
+     ],
+     "dll": {
+      "vida_enemigos": 1.25
+     }
+    }
+   ],
+   "icono": 18042,
+   "contra": "Every enemy has 25% more HP."
+  },
+  {
+   "id": "barrera",
+   "nombre": "Barrier",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "A shield blocks a whole hit. It returns after 10 s without being hit.",
+     "campos": {},
+     "efectos": [
+      {
+       "cuando": "recibir",
+       "hacer": [
+        {
+         "anular": true
+        }
+       ],
+       "si_sin_danio": 10
+      }
+     ]
+    }
+   ],
+   "icono": 18540
+  },
+  {
+   "id": "conciencia",
+   "nombre": "Guilty Conscience",
+   "rareza": "Comun",
+   "maldita": true,
+   "niveles": [
+    {
+     "texto": "You gain 20% fewer runes.",
+     "campos": {},
+     "dll": {
+      "runas": 0.8
+     }
+    }
+   ],
+   "icono": 18760
+  },
+  {
+   "id": "luna",
+   "nombre": "Under the Moon",
+   "rareza": "Comun",
+   "maldita": true,
+   "niveles": [
+    {
+     "texto": "Your max HP drops by 10%.",
+     "campos": {
+      "maxHpRate": 0.9
+     }
+    }
+   ],
+   "icono": 18150
+  },
+  {
+   "id": "fragil",
+   "nombre": "Fragile",
+   "rareza": "Comun",
+   "maldita": true,
+   "niveles": [
+    {
+     "texto": "You take 10% more damage.",
+     "campos": {
+      "slashDamageCutRate": 1.1,
+      "blowDamageCutRate": 1.1,
+      "thrustDamageCutRate": 1.1,
+      "neutralDamageCutRate": 1.1,
+      "magicDamageCutRate": 1.1,
+      "fireDamageCutRate": 1.1,
+      "thunderDamageCutRate": 1.1,
+      "darkDamageCutRate": 1.1
+     }
+    }
+   ],
+   "icono": 18730
+  },
+  {
+   "id": "sangre",
+   "nombre": "Foreign Blood",
+   "rareza": "Comun",
+   "maldita": true,
+   "niveles": [
+    {
+     "texto": "Your actions cost 15% more stamina.",
+     "campos": {
+      "consumeStaminaRate": 1.15
+     }
+    }
+   ],
+   "icono": 18390
+  },
+  {
+   "id": "podredumbre",
+   "nombre": "Rot",
+   "rareza": "Comun",
+   "maldita": true,
+   "niveles": [
+    {
+     "texto": "Your max stamina drops by 15%.",
+     "campos": {
+      "maxStaminaRate": 0.85
+     }
+    }
+   ],
+   "icono": 18400
+  },
+  {
+   "id": "jauria",
+   "nombre": "Pack",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your summon brings one more of its kind.",
+     "campos": {},
+     "dll": {
+      "invocacion_extra": 1
+     }
+    }
+   ],
+   "icono": 115,
+   "personaje": "invocador"
+  },
+  {
+   "id": "ceniza_templada",
+   "nombre": "Tempered Ash",
+   "rareza": "Comun",
+   "niveles": [
+    {
+     "texto": "Your summon is three levels stronger.",
+     "campos": {},
+     "dll": {
+      "invocacion_nivel": 3
+     }
+    }
+   ],
+   "icono": 116,
+   "personaje": "invocador"
+  },
+  {
+   "id": "relevo",
+   "nombre": "Relay",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "If your summon falls, it comes back 15 s later.",
+     "campos": {},
+     "dll": {
+      "invocacion_revive": 15
+     }
+    }
+   ],
+   "icono": 118,
+   "personaje": "invocador"
+  },
+  {
+   "id": "pacto_espiritu",
+   "nombre": "Spirit Pact",
+   "rareza": "PocoComun",
+   "niveles": [
+    {
+     "texto": "When your summon falls, you heal 20%.",
+     "campos": {},
+     "dll": {
+      "invocacion_cura": 0.2
+     }
+    }
+   ],
+   "icono": 119,
+   "personaje": "invocador"
+  },
+  {
+   "id": "legion",
+   "nombre": "Legion",
+   "rareza": "Rara",
+   "niveles": [
+    {
+     "texto": "Your summon brings two more of its kind. All of them are three levels weaker.",
+     "campos": {},
+     "dll": {
+      "invocacion_extra": 2,
+      "invocacion_nivel": -3
+     }
+    }
+   ],
+   "icono": 120,
+   "personaje": "invocador"
+  }
+ ]
+}

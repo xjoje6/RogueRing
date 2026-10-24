@@ -1,0 +1,13 @@
+[package]
+name = "rogue-ui"
+version = "0.1.0"
+edition = "2024"
+description = "Pantallas de RogueRing (mapa, recompensas...) en Dear ImGui, independientes del backend; incluye un rasterizador CPU para vistas previas en PNG."
+
+[dependencies]
+imgui = "0.12"
+rogue-core = { path = "../core" }
+image = { version = "0.25", default-features = false, features = ["png"] }
+
+[dev-dependencies]
+serde_json = "1"

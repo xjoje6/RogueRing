@@ -1,0 +1,3 @@
+[workspace]
+members = ["core", "harness", "pantalla", "captura", "ui"]
+resolver = "2"
